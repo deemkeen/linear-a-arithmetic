@@ -4,3 +4,9 @@ corpus-src/
 
 __pycache__/
 .DS_Store
+
+# academia.edu/Elsevier-Downloads (urheberrechtlich geschützt, nicht verteilen)
+papers_Younger_*.pdf
+papers_Montecchi*.pdf
+papers_Facchetti*.pdf
+papers_Corazza*.pdf

@@ -1,5 +1,50 @@
 # Novitätsprüfung der Kernbefunde (Stand: 10. Juni 2026)
 
+## ⚠️ UPDATE nach Lektüre der beschafften PDFs (10.06.2026, abends)
+
+Youngers „Introduction" (ed. April 2024, 53 S.) enthält **erhebliches
+Prior Art**, das die Bewertung unten revidiert:
+
+1. **Younger nutzt die HT123-Arithmetik bereits selbst für
+   Bruchwerte:** „A (A701). In the discussion to HT 123+124, it is
+   clear that **A[ = 7/12**" — mit Alternative „perhaps A is something
+   like 1/6"; dazu **H (A706) = ?1/6** („see notes to HT 123+124; also
+   HT 6, 94, 100"). Die *Methode* (Tafelarithmetik → Wertableitung)
+   ist also nicht neu. **Unser Beitrag verengt sich auf:** (a) die
+   formalisierte Relation **H = Eintragszeichen + ¼** aus der exakt
+   validierten OLIV-Kontrolle — sie ist **inkompatibel mit Youngers
+   H=?1/6 UND Corazzas H=1/16(?)**: aus zwei Widersprüchen wird ein
+   Drei-Wege-Widerspruch dreier unabhängiger Ansätze; (b) Max-SAT-
+   Systematik mit wert-unabhängigen Folgerungen; (c) faksimile-
+   verifizierte Lesungsbasis inkl. A-vs-X-Konditionierung. Youngers
+   Ableitung von 7/12 muss aus seinen (noch fehlenden) Tafel-
+   kommentaren rekonstruiert werden — vermutlich andere Eintrags-
+   lesungen.
+2. **HT119:** Younger erklärt das Total als „**rounded off**" —
+   publizierte Alternativerklärung zu unserer Lesartefakt-These; zu
+   zitieren und zu diskutieren.
+3. **HT118:** Younger: KU-RO „secure … **with 5 having been
+   omitted**" — die Δ=5 der Hauptspalte ist bemerkt (als Auslassung
+   gedeutet). **KI = KI-RO?** geht auf **Raison & Pope 1978** zurück
+   (via Duhoux) — unsere HT118-KI-Lesung hat Vorläufer, die exakte
+   Spaltensummen-Validierung (10+4+1=15) scheint neu.
+4. **KU-RA:** Younger: „KU-RA looks like a totaling word on ZA 20.4"
+   — Prior Art für den ZA20-Teil unseres H5-Befunds; die
+   Positionssyntax-These (KU-RA eröffnend auf ARKH2/ZA8, KU-RO nie)
+   bleibt unser Beitrag.
+5. Younger rechnet auch andernorts Tafelsummen mit Brüchen nach
+   (HT 93: „the numbers total 159 4J E F[ H … leaving a difference
+   of 3 F, if F is 1/8") — arithmetisches Schließen ist bei ihm
+   Standardpraxis, informell und ohne Constraint-Algebra/Statistik.
+
+**Beschaffungs-Status:** Corazza-PDF war im ZIP NICHT enthalten
+(falsche Artikel derselben JAS-Ausgabe; Artikel 105299 statt 105214) —
+erneut laden. Younger-Download ist nur die *Introduction* — die
+eigentlichen Tafelkommentare (HT-Texts-Dateien) fehlen. Montecchi-
+Download ist eine 16-seitige Leseprobe — Volltext fehlt.
+
+---
+
 Remote-Recherche (Web, Semantic-Scholar-Zitationsindex, frei zugängliche
 Quellen). Ehrliche Einstufung je Befund: was geprüft werden konnte, was
 offen bleibt. **Fazit vorab: kein Befund wurde in der zugänglichen
