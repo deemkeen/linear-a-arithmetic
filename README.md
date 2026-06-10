@@ -54,3 +54,5 @@ Fortsetzung Juni 2026: `test_lb_names.py` (Anker-Abgleich LA↔LB,
   (`data/gorila_apparatus.json`, `erasures_results.txt`)
 - `check_arithmetic.py` — generalisierter, segmentierter Spalten-Checker
   (Nachfolger des Stream-Modells; `arithmetic_results.txt`)
+- `LITERATUR.md` — Novitätsprüfung der Kernbefunde (Remote-Recherche,
+  offene Beschaffungsaufgaben vor Einreichung)
