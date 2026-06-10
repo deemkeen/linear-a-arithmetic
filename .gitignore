@@ -1,0 +1,6 @@
+# 1-GB-Klon von github.com/mwenge/lineara.xyz — Quelle für extract.js,
+# nicht Teil dieses Repos (siehe README); data/*.json ist das Extrakt
+corpus-src/
+
+__pycache__/
+.DS_Store

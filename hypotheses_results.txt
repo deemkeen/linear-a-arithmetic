@@ -1,0 +1,67 @@
+==============================================================================
+H1 — Slot-Kongruenz in der Libationsformel (-SI ~ -TI usw.)
+==============================================================================
+Doc       Ort           S1    S2   S3   S4   
+IOZa15    Iouktas       —     —    —    MA   
+IOZa16    Iouktas       —     JA   SI   —    
+IOZa2     Iouktas       JA    JA   SI   MA   
+IOZa9     Iouktas       —     JA   SI   —    
+KOZa1     Kophinas      JA    —    SI   MA   
+PKZa11    Palaikastro   E     SA   TI   MINA 
+PKZa12    Palaikastro   JA    —    SI   —    
+PKZa27    Palaikastro   —     JA   SI   —    
+SYZa3     Syme          JA    —    —    —    
+TLZa1     Troullos      JA    JA   —    MA   
+VRYZa1    Vrysinas      —     —    —    MA   
+
+Kongruenz-Test S3 x S4  (SI<->MA gegen TI<->MI-NA):
+   SI&MA=2  SI&MINA=0  TI&MA=0  TI&MINA=1   -> nicht entscheidbar (p=0.33), N=3
+Kongruenz-Test S3 x S1  (SI<->WA-JA gegen TI<->WA-E):
+   SI&JA=3  SI&E=0  TI&JA=0  TI&E=1   -> nicht entscheidbar (p=0.25), N=4
+Kongruenz-Test S1 x S2  (WA-JA<->JA- gegen WA-E<->A-/SA-):
+   JA&JA=2  JA&¬JA=0  E&JA=0  E&¬JA=1   -> nicht entscheidbar (p=0.33), N=3
+
+==============================================================================
+H2 — J-Präfix meidet die Textanfangsposition (Proklitikon-These)
+==============================================================================
+Alternationspaare im Korpus:
+   JA-SA-SA-RA            ~ A-SA-SA-RA   (1x / 1x)
+   JA-SA-SA-RA-ME         ~ A-SA-SA-RA-ME   (7x / 1x)
+   JA-SA-SA-RA-ME         ~ SA-SA-RA-ME   (7x / 2x)
+   JA-WA-PI               ~ A-WA-PI   (1x / 1x)
+
+Paar-Test:  J-Formen textinitial 4/9   Gegenformen textinitial 3/5
+   -> nicht entscheidbar (p=1.00), N=14
+   J-initial-Belege: IOZa9:JA-SA-SA-RA-ME, IOZa16:JA-SA-SA-RA, PEZb7:JA-WA-PI, PKZa27:JA-SA-SA-RA-ME
+   Gegenform-initial-Belege: IOZb10:A-SA-SA-RA-ME, KHZc106:SA-SA-RA-ME, PKZa4:A-SA-SA-RA
+
+Alle JA-Wörter vs. alle A-Wörter — alle Dokumente:
+   JA- textinitial 29/61 = 48%   A- textinitial 80/152 = 53%   -> nicht entscheidbar (p=0.55)
+
+Alle JA-Wörter vs. alle A-Wörter — nur Tafeln (Anfang erhalten):
+   JA- textinitial 5/14 = 36%   A- textinitial 37/80 = 46%   -> nicht entscheidbar (p=0.57)
+   JA-tafelinitial-Belege: KH74:JA-DA-SU, KN1a:JA-KU-TI, KN1b:JA-DU-RA-TI, ARKH1b:JA-RE, ARKH3b:JA-PI
+
+==============================================================================
+H3 — SA-RA2: Funktionswort oder Personenname? (Distributionsprofil)
+==============================================================================
+Profil (nur Haghia Triada):
+   SA-RA₂       n=20  initial= 30%  Logogramm-vor-Zahl= 70%  medianMenge= 10.0  Mengen>=5: 12/18
+   KU-RO        n=35  initial= 20%  Logogramm-vor-Zahl=  6%  medianMenge= 87.0  Mengen>=5: 34/34
+   KI-RO        n=16  initial= 19%  Logogramm-vor-Zahl=  6%  medianMenge=  6.0  Mengen>=5: 6/9
+
+Vergleichspool (HT-Wörter mit n>=4, mutmaßl. Namen): KU-PA₃-NU, KI-RE-TA-NA, MA-DI, KA-PA, TA-NA-TI, DA-RE, JE-DI, QA-*310-I, SA-RO, *306-TU, DI-NA-U, KU-NI-SU, DA-RI-DA, DA-SI-*118, A-DU, SA-RU, DA-ME, MI-NU-TE, DA-KA, I-RA₂, SI-KA
+   POOL         n=105 initial= 41%  Logogramm-vor-Zahl= 13%  medianMenge=  6.0  Mengen>=5: 40/76
+
+Test 'Warenlogogramm zwischen Wort und Zahl': SA-RA2 14/20 vs. Pool 14/105
+   -> SIGNIFIKANT (p=0.000)
+Test 'Menge >= 5': SA-RA2 12/18 vs. Pool 40/76
+   -> nicht entscheidbar (p=0.31)
+
+==============================================================================
+H4 — Wortfinales -E gehäuft in Kopfzeilen (vor der ersten Zahl)?
+==============================================================================
+Tafeln: Header-Wörter (vor erster Zahl): 223, davon -E: 39 = 17%
+        Listenkörper-Wörter:             527, davon -E: 80 = 15%
+   -> nicht entscheidbar (p=0.44)
+   häufigste -E-Header-Wörter: *21F-TU-NE(3), PA-DE(2), A-SE(2), MA-KA-RI-TE(2), DA-ME(2), A-PA-RA-NE(2), *306-TI-KA-A-RE(1), DU-RI-TE(1)

@@ -1,0 +1,63 @@
+==============================================================================
+P1 — Konzentriert sich der Final-Überschuss auf wenige E-Zeichen?
+==============================================================================
+Basisrate P(Zeichen steht wortfinal) = 33.8%
+
+Zeichen  Tokens  final  Neigung        p
+-NE          50     35    2.07x    0.000  ***
+-ME          38     26    2.03x    0.000  ***
+-TE          95     55    1.71x    0.000  ***
+-RE         109     58    1.58x    0.000  ***
+-SE          59     31    1.56x    0.003  ***
+-E           21     10    1.41x    0.246
+-KE          15      7    1.38x    0.287
+-DE          33     12    1.08x    0.716
+-QE          38      9    0.70x    0.228
+
+Final-Neigung aggregiert je Vokal (Kontrolle):
+   -A: 0.87x  (434/1485)
+   -E: 1.57x  (251/472)
+   -I: 0.86x  (248/852)
+   -O: 1.83x  (87/141)
+   -U: 0.91x  (188/615)
+
+==============================================================================
+P2/P3 — Vokal-Paradigmen am letzten Zeichen (Permutationstest)
+==============================================================================
+Wort-Typen (>=3 Zeichen): 589; Stämme mit >=2 Fortsetzungen: 51; Paare: 70
+beobachtet:  Vokal-Alternation=9   Konsonant-Alternation=13   übrige=48
+Vokal-Alternationen im Korpus:
+   DA-TA-[RA|RE]
+   TA-NA-[TI|TE]
+   KU-ZU-[NI|NA]
+   SI-DA-[RE|RO]
+   JA-SA-SA-RA-[ME|MA]
+   U-TA-I-[SE|SI]
+   A-DA-[RA|RO]
+   JA-WA-[PI|PA3]
+   A-MI-DA-[O|U]
+
+Permutationstest (5000 Permutationen der Finalzeichen):
+   Vokal-Alternation:     beobachtet 9, Zufallserwartung 4.9, p=0.0604
+   Konsonant-Alternation: beobachtet 13, Zufallserwartung 14.8, p=0.7418
+   E beteiligt an 5/9 Vokal-Alternationen (A~E:2, E~I:2, A~I:2, E~O:1, A~O:1, O~U:1)
+
+==============================================================================
+P4 — -E-Finalrate nach Dokumenttyp
+==============================================================================
+   Siegel          8/81    = 9.9% -E-final
+   Stein/Kult     83/267   = 31.1% -E-final
+   Verwaltung    130/828   = 15.7% -E-final
+   Siegel vs. Stein/Kult: p=0.0001  ***
+   Siegel vs. Verwaltung: p=0.1950
+   Stein/Kult vs. Verwaltung: p=0.0000  ***
+
+==============================================================================
+P5 — Positionsprofil einzelner E-Zeichen (Tafeln: Header vs. Liste)
+==============================================================================
+Header-Wörter gesamt: 223, Listenkörper: 527 (Headeranteil global 30%)
+   -RE   Header   6  Liste  31  (Headeranteil 16%)  p=0.067
+   -TE   Header  10  Liste  11  (Headeranteil 48%)  p=0.088
+   -NE   Header  12  Liste  12  (Headeranteil 50%)  p=0.039  ***
+   -SE   Header   5  Liste   6  (Headeranteil 45%)  p=0.318
+   -ME   Header   3  Liste   8  (Headeranteil 27%)  p=1.000

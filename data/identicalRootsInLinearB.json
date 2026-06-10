@@ -1,0 +1,1625 @@
+{
+ "A-RA": [
+  "KN Sd 4413",
+  "PY Aa 89",
+  "KN Sd 4416",
+  "KN Ra(1) 1551",
+  "KN Sd 4403",
+  "KN Sd 4405",
+  "KN Sd 4404",
+  "TH Fq 214",
+  "KN As(1) 607",
+  "PY Ad 380",
+  "TH Gp 227",
+  "KN Sd 4401",
+  "KN V(5) 1583",
+  "KN B(5) 806",
+  "KN Sd 4468",
+  "KN Ra(1) 1552",
+  "TH Of 34",
+  "KN Sd 4407",
+  "TH Gp 231",
+  "KN Db 1236",
+  "KN Sd 6066",
+  "KN Df 1229",
+  "KN Ra(1) 1548",
+  "KN C(4) 911",
+  "KN Ra(1) 1543",
+  "PY Aa 240",
+  "KH X 6",
+  "KN Sd <4450>",
+  "PY Ad 677",
+  "KN Sd 4409",
+  "TH Gp 179",
+  "KN X 1463",
+  "TH Gp 197",
+  "KN Sd 4408",
+  "KN Ak(1) 5009",
+  "PY An 261",
+  "KN Fh 369",
+  "KN As(2) 1516",
+  "KN Sd 4406",
+  "KN De 1307",
+  "KN Ra(1) 1542",
+  "TH Fq 254",
+  "KN Sd 4415",
+  "KN Ra(1) 1541",
+  "KN Ra(1) 1554",
+  "KN Sd 4402"
+ ],
+ "MA-SI": [
+  "KN Fh 360"
+ ],
+ "WI-DU": [
+  "KN Ch 5754",
+  "PY Jn 415",
+  "PY Jn 310",
+  "KN B(5) 799"
+ ],
+ "DA-TA": [
+  "KN Dl(1) 935"
+ ],
+ "PI-TA": [
+  "PY Jn 389"
+ ],
+ "WA-DU": [
+  "KN C(4) 912",
+  "KN Db 1242",
+  "KN V(3) 503",
+  "KN Dc 1118",
+  "KN Ga(3) 456",
+  "KN V(7) 1523",
+  "KN Da 1445",
+  "PY Jn 725",
+  "KN As(2) 1516"
+ ],
+ "RA-TI": [
+  "KN E(2) 668",
+  "KN B(5) 802"
+ ],
+ "SA-MA": [
+  "KN As(1) 645",
+  "PY Na 195",
+  "KN Da 1147",
+  "KN Wm 8207",
+  "PY An 35",
+  "PY Ma 378",
+  "KN Dv 1188",
+  "KN Dv 5054",
+  "KN Ap 639",
+  "PY Wa 730",
+  "KN Np(1) 267"
+ ],
+ "QE-TI": [
+  "MY Wt 504",
+  "MY Ue 611"
+ ],
+ "TA-NA": [
+  "KN De 1618",
+  "PY Jn 693",
+  "KN Db 1198",
+  "PY Sa 793",
+  "KN Dv 1410"
+ ],
+ "TE-TU": [
+  "PY Nn 228",
+  "PY Sa 682",
+  "KN L 871",
+  "PY Na 1054"
+ ],
+ "DA-RU": [
+  "KN Uf 432"
+ ],
+ "SI-KI": [
+  "KN U 8210",
+  "KN Da 1339"
+ ],
+ "PA-JA": [
+  "KN Dc 1203",
+  "KN C 394",
+  "KN Fp(2) 354",
+  "KN Ap 639",
+  "KN As(2) 1519",
+  "KN V 52",
+  "KN Dv 8290"
+ ],
+ "TA-I": [
+  "KN Da 8201"
+ ],
+ "A-RU": [
+  "KN Dv 8652"
+ ],
+ "KU-RO": [
+  "PY Un 616"
+ ],
+ "A-SI": [
+  "PY Xa 639",
+  "PY Cn 1197",
+  "PY Eq 146",
+  "MY Au 653",
+  "PY Cn 285",
+  "PY Fr 1206",
+  "PY Cn 4",
+  "PY Jn 750",
+  "MY Au 657",
+  "PY Ep 613",
+  "PY Ae 134",
+  "PY Cn 254",
+  "KN Df 1469",
+  "PY On 300",
+  "PY Jn 829"
+ ],
+ "KU-NI": [
+  "KN B 798"
+ ],
+ "ME-ZA": [
+  "PY An 610",
+  "PY Cn 3",
+  "PY Un 138",
+  "KN Sc 222",
+  "PY Fn 50",
+  "PY Sh 736"
+ ],
+ "QA-TI": [
+  "KN Fh 355",
+  "KN As(2) 1519"
+ ],
+ "DA-I": [
+  "KN Da 1164",
+  "KN Da 1317",
+  "KN Do 996",
+  "KN De 1231",
+  "PY Aq 218",
+  "KN V(3) 479",
+  "KN B(5) 799",
+  "KN V(5) 1043",
+  "KN Od 7388",
+  "TH Ug 15",
+  "KN Xd 8128"
+ ],
+ "KA-U": [
+  "TH Z 839",
+  "KN U 4478",
+  "KN Fs 21",
+  "PY An 340",
+  "PY Jn 832"
+ ],
+ "TE-KI": [
+  "KN Dq(4) 686"
+ ],
+ "A-PU2": [
+  "PY Vn 20",
+  "KN Xd <331>",
+  "PY An 657",
+  "PY Jn 693",
+  "PY Jo 438",
+  "PY An 427",
+  "KN Uf(1) 111",
+  "PY Qa 1294",
+  "PY An 656",
+  "PY Cn 608",
+  "PY Ma 124",
+  "PY Jn 829"
+ ],
+ "SI-DA": [
+  "KN Dl(1) 947"
+ ],
+ "PA-SE": [
+  "MY Oe 121"
+ ],
+ "KU-MA": [
+  "KN V(3) 7512"
+ ],
+ "KA-NA": [
+  "TH Av 106",
+  "PY Eo 269",
+  "KN V(6) 832",
+  "MY Ge 602",
+  "MY Wt 506",
+  "PY Cn 1287",
+  "MY Ge 604",
+  "MY Ge 603",
+  "PY Eo 276",
+  "MY Oi 701",
+  "MY Ue 611",
+  "MY Wt 502",
+  "MY Ge 606",
+  "MY Ge 605",
+  "MY Oe 129",
+  "PY En 74",
+  "KN Ap 639",
+  "PY Eo 160",
+  "KN Vc(2) 7518",
+  "MY Oi 704",
+  "MY Oe 119"
+ ],
+ "SA-SA": [
+  "MY Ge 602",
+  "MY Ge 606",
+  "PY Ep 613",
+  "PY Eb 842",
+  "KN Df 1290"
+ ],
+ "KI-MA": [
+  "PY Ad 668",
+  "PY Aa 63",
+  "KN As(2) 1520"
+ ],
+ "U-RE": [
+  "TH Gp 179",
+  "PY Vn 865"
+ ],
+ "A-RI": [
+  "PY Cn 655",
+  "KN Fh 347",
+  "PY Cn 131",
+  "PY An 723",
+  "KN F(1) 153",
+  "KN Uf(2) 990",
+  "KN Ai(3) 966",
+  "PY Jn 832",
+  "PY La 1393",
+  "PY An 724",
+  "KN Fh 462",
+  "KN Da 1353"
+ ],
+ "DU-RU": [
+  "KN Fh 345",
+  "KN Fh 368",
+  "KN As(2) 1516",
+  "PY Vn 10"
+ ],
+ "I-TI": [
+  "KN Dq(1) 439"
+ ],
+ "TA-TI": [
+  "PY An 654",
+  "PY An 724"
+ ],
+ "TI-NI": [
+  "PY Fn 79"
+ ],
+ "I-MI": [
+  "KN Db 1186"
+ ],
+ "KI-DA": [
+  "KN So 894",
+  "KN E 842"
+ ],
+ "SA-RA": [
+  "PY Er 880",
+  "PY Un 718"
+ ],
+ "I-TA": [
+  "KN Xe 5877",
+  "KN Ap 769",
+  "PY Jn 431",
+  "MY Oe 106",
+  "KN Xe 537",
+  "KN Ap 618"
+ ],
+ "RU-MA": [
+  "KN Dg 1438"
+ ],
+ "KI-TA": [
+  "KN Da 1108",
+  "KN Am(2) 821",
+  "KN Ga(5) 1530",
+  "PY Vn 1339",
+  "KN X 1385"
+ ],
+ "TI-SA": [
+  "OR Z 1"
+ ],
+ "PU-KO": [
+  "PY An 39",
+  "PY Ep 705",
+  "KN Xd 142",
+  "KN X 796",
+  "PY Jn 478",
+  "PY Fn 837",
+  "PY Ta 715"
+ ],
+ "I-KU": [
+  "MY Oi 705",
+  "KN L 588",
+  "KN V(2) 280"
+ ],
+ "KA-KI": [
+  "KN So 894"
+ ],
+ "KU-RE": [
+  "PY An 519",
+  "PY An 654",
+  "PY Ma 90",
+  "PY Cn 3",
+  "KN B(4) 164"
+ ],
+ "SU-KI": [
+  "KN Db 1327",
+  "KN Dv 5232",
+  "KN C(4) 911",
+  "KN Dl 47",
+  "KN Df 1325",
+  "KN Da 1091",
+  "KN As(2) 1516",
+  "KN Db 1324",
+  "KN Dn 1092"
+ ],
+ "DI-KA": [
+  "KN X 7955",
+  "KN Fp(1) 7",
+  "KN F(2) 866",
+  "KN Dd 2010",
+  "KN Fp(1) 1",
+  "KN Fh 5467",
+  "KN G 7509"
+ ],
+ "KU-MI": [
+  "MY Ge 602",
+  "MY Ge 605",
+  "KN Da 1202"
+ ],
+ "MA-RE": [
+  "MA Z 1",
+  "PY An 657",
+  "PY Eo 276",
+  "PY En 74"
+ ],
+ "RI-JA": [
+  "PY Jn 692",
+  "PY Jn 725"
+ ],
+ "TA-MI": [
+  "PY Na 248",
+  "KN Fs 11",
+  "PY Jn 310",
+  "KN Dl(1) 944"
+ ],
+ "KA-RU": [
+  "PY Ad 671",
+  "PY Ta 721",
+  "PY Ta 722",
+  "KN Dl(1) 412",
+  "TH Wu 55",
+  "KH Z 1",
+  "KN Dl(1) 7147",
+  "PY Fn 187",
+  "PY Un 219"
+ ],
+ "A-SE": [
+  "PY An 18"
+ ],
+ "RI-SU": [
+  "MY V 659"
+ ],
+ "A-DU": [
+  "KN B(5) 5029",
+  "KN C(4) 911",
+  "KN Dg 1107"
+ ],
+ "DI-DE": [
+  "KN Dv 1504"
+ ],
+ "DI-KI": [
+  "KN Dv 1502",
+  "KN X 7627"
+ ],
+ "KU-RU": [
+  "KN Vc(2) 5510",
+  "PY Aq 64",
+  "KN K(1) 872",
+  "PY An 654",
+  "KN Fh 5502",
+  "PY Ta 707",
+  "PY An 207",
+  "TH Z 845",
+  "TH Z 856",
+  "TH Z 840",
+  "KN Xd 7598",
+  "KN As(1) 608",
+  "PY Ta 716",
+  "KN Sc 236",
+  "PY Ea 801",
+  "KN Da 1173",
+  "KN K 740",
+  "TH Z 841",
+  "PY Ta 714",
+  "TH Of 33",
+  "PY Ae 303"
+ ],
+ "A-TU": [
+  "KN K(1) 877",
+  "PY En 609",
+  "KN V(7) 1523",
+  "PY Ep 301",
+  "KN Dg 1102",
+  "PY Eo 211",
+  "KN B(5) 799",
+  "PY Jn 725",
+  "PY Jn 927",
+  "PY Jn 658"
+ ],
+ "A-SA": [
+  "PY Mn 162",
+  "PY Sa 761",
+  "PY Cn 1287",
+  "KN Ws 8497",
+  "PY Na 523",
+  "KN As 40"
+ ],
+ "MA-I": [
+  "PY An 661"
+ ],
+ "I-KA": [
+  "PY Gn 720",
+  "KN Sc 258"
+ ],
+ "TE-RI": [
+  "PY Un 443",
+  "TH Gp 157"
+ ],
+ "DI-RI": [
+  "PY An 830",
+  "PY Tn 316"
+ ],
+ "QA-QA": [
+  "KN As(1) 604"
+ ],
+ "O-TI": [
+  "PY Ab 417",
+  "TH Fq 306",
+  "PY Cn 285",
+  "TH Fq 276",
+  "TH Fq 275",
+  "TH Fq 229",
+  "TH Fq 247",
+  "PY Aa 313",
+  "PY Ad 663"
+ ],
+ "TU-MA": [
+  "KN Db 1368",
+  "KN X 7673",
+  "KN C 973",
+  "KN As(1) 605"
+ ],
+ "DE-ME": [
+  "PY An 35"
+ ],
+ "A-PA": [
+  "KN Gg(3) 5185",
+  "PY Na 551",
+  "PY Na 246",
+  "PY Jn 845",
+  "PY Cn 286",
+  "PY Cn 643",
+  "KN L 588",
+  "KN B(5) 804",
+  "PY Sa 767",
+  "KN Am(2) 826",
+  "KN C 902",
+  "KN Co 909",
+  "KN V(5) 7670",
+  "PY Jn 927",
+  "KN Ce 144",
+  "KN X 7669",
+  "PY Cn 719"
+ ],
+ "SI-MI": [
+  "TH Av 106",
+  "KN As(1) 607",
+  "KN V(5) 1583",
+  "KN Am(2) 827"
+ ],
+ "RU-SA": [
+  "KN Ln 1568"
+ ],
+ "KA-NU": [
+  "KN As(1) 602",
+  "PY An 129"
+ ],
+ "KA-RI": [
+  "KN As(1) 609",
+  "PY Jn 706",
+  "MY Au 102",
+  "PY Jn 431",
+  "KN As(2) 1516",
+  "KN X 7918"
+ ],
+ "KI-RA": [
+  "KN V(5) 1005",
+  "KN Fh 360",
+  "MY V 659"
+ ],
+ "TA-PA": [
+  "KN F(1) 153",
+  "KN As(1) 608",
+  "KN B 823",
+  "KN Sc 240",
+  "KN X 5346"
+ ],
+ "PA-DA": [
+  "PY Eb 159",
+  "PY An 192",
+  "PY Eo 444",
+  "PY Eb 499",
+  "PY Eb 839",
+  "PY Eb 1347"
+ ],
+ "KU-PA": [
+  "KN Ga(3) 465",
+  "PY Un 249",
+  "PY An 657",
+  "PY Sa 488",
+  "PY Un 267",
+  "PY Fr 1203",
+  "KN Ga(1) 519",
+  "KN V(2) 145",
+  "KN Ga(1) 517",
+  "KN As(2) 1517"
+ ],
+ "QA-SA": [
+  "KN C(4) 912",
+  "KN Db 1329",
+  "KN Np(1) 5013",
+  "PY Sa 755",
+  "KN Dd 1283"
+ ],
+ "QA-RU": [
+  "MY Au 660",
+  "MY Au 657"
+ ],
+ "RA-RI": [
+  "KN C(4) 911"
+ ],
+ "WI-SA": [
+  "PY Vn 130"
+ ],
+ "PA-RA": [
+  "PY Cn 655",
+  "TH Wu 46",
+  "PY Vn 20",
+  "KN Se 879",
+  "KN Db 1373",
+  "KN Sk 789",
+  "PY Eo 224",
+  "PY Fn 324",
+  "KN Vc(1) 7616",
+  "TH Of 34",
+  "PY Sa 787",
+  "PY Sh 740",
+  "PY Cn 200",
+  "PY Eb 377",
+  "PY An 298",
+  "KN Ld(1) 575",
+  "KN Sp 4451",
+  "PY Ep 301",
+  "PY Eb 173",
+  "KN U(1) 109",
+  "PY Jn 750",
+  "PY Ta 642",
+  "PY Ep 613",
+  "PY Na 197",
+  "PY Vn 1314",
+  "KN U(1) 124",
+  "PY Cn 254",
+  "KN C(2) 914",
+  "PY Ta 715",
+  "KN Sk 8100",
+  "PY Jn 832",
+  "PY Ta 714",
+  "PY Sa 793",
+  "KN Ln 1568",
+  "PY Cn 40",
+  "PY An 37",
+  "PY Un 219",
+  "PY Sh 737",
+  "PY Cn 719",
+  "KN Xf 5102"
+ ],
+ "A-I": [
+  "PY Eo 471",
+  "PY En 659",
+  "PY Ep 301",
+  "PY Eb 895"
+ ],
+ "KU-TA": [
+  "KN Dk(2) 1065",
+  "KN Dk(2) 1074",
+  "KN Dk(2) 1064",
+  "KN Df 1121",
+  "KN Da 1435",
+  "KN Dv 5335",
+  "KN Dk(2) 1067",
+  "KN Dk(2) 1073",
+  "KN X 7891",
+  "KN Dk(2) 1075",
+  "KN Dv 1128",
+  "KN Da 2027",
+  "KN Dv 1125",
+  "KN Dc 1118",
+  "KN Dk(2) 1068",
+  "KN Dc 1122",
+  "KN Ga(2) 419",
+  "KN X 9321",
+  "KN X 8590",
+  "KN Db 5310",
+  "KN Dv 1124",
+  "KN Df 1119",
+  "KN Dk(2) 1066",
+  "KN Dm 1176",
+  "KN De 1112",
+  "KN De 1648",
+  "KN Dm 1183",
+  "KN Dc 7161",
+  "KN Dv 1328",
+  "KN Uf(1) 111",
+  "KN Da 5308",
+  "KN De 1472",
+  "KN Db 5352",
+  "KN De 1383",
+  "KN X 1538",
+  "KN Da 5220",
+  "KN Dv 1111",
+  "KN Da 1394",
+  "KN Dd 1468",
+  "KN C 902",
+  "KN Ga(2) 673",
+  "KN G 820",
+  "KN Df 1120",
+  "KN Dl(1) 463",
+  "KN Ga(3) 454",
+  "KN Da 5193",
+  "KN Dc 5228",
+  "KN Dk(2) 1071",
+  "KN Dk(2) 1072",
+  "KN Mc 4455",
+  "KN Db 1126",
+  "KN De 1109",
+  "KN Dv 1496",
+  "KN Db 1110",
+  "KN Da 1123",
+  "KN Dc 1117",
+  "KN Da 1116",
+  "KN Ga(3) 464",
+  "KN Dk(2) 5233",
+  "KN Xd 80",
+  "KN Dk(2) 1070",
+  "KN Dv 1113",
+  "KN Da 1114",
+  "KN Da 1451",
+  "KN Da 5179",
+  "KN As(2) 1517",
+  "KN Dv 1237",
+  "KN Dv 5302",
+  "KN Dv 5398",
+  "KN X 409",
+  "KN Dv 5328"
+ ],
+ "U-TA": [
+  "KN Db 5359",
+  "KN Dd 1429",
+  "KN Da 1317",
+  "KN X 7560",
+  "KN Dv 1146",
+  "KN Dv 1145",
+  "KN Dv 1370",
+  "KN Dv 5696",
+  "KN V(6) 832",
+  "KN Da 1352",
+  "KN Dd 1144",
+  "KN Dv 1142",
+  "KN Da 1143",
+  "KN Da 8228",
+  "KN Dh(2) 7128",
+  "KN Fh 5443",
+  "KN Da 1415",
+  "KN Da 1378",
+  "KN De 1141",
+  "KN Da 1134",
+  "KN Dq(1) 448",
+  "KN Dc 7161",
+  "KN Dv 1213",
+  "KN Db 1140",
+  "KN Dv 1417",
+  "KN Dc 1129",
+  "KN Dl 7075",
+  "KN De 1383",
+  "KN Dv 1330",
+  "KN Dv 5296",
+  "KN B 807",
+  "KN Dn 5559",
+  "KN Da 1382",
+  "KN X 9672",
+  "KN Dd 1592",
+  "KN X 9191",
+  "KN Fp(1) 13",
+  "KN Dv 5934",
+  "KN Dv 1215",
+  "KN E 749",
+  "KN De 1136",
+  "KN De 1138",
+  "KN De 1109",
+  "KN Db 1460",
+  "KN X 5006",
+  "KN Dv 1503",
+  "KN De 7203",
+  "KN Da 1135",
+  "KN Da 1127",
+  "KN Dc 1369",
+  "KN Da 5576",
+  "KN Db 1097",
+  "KN Da 1384",
+  "KN Dv 1217",
+  "KN Da 1137",
+  "KN De 5336",
+  "KN Da 7109",
+  "KN Dv 1216",
+  "KN Xd 202",
+  "KN Dv 1139",
+  "KN Dc 1130",
+  "KN Dv 1214",
+  "KN Da 1132"
+ ],
+ "QA-NU": [
+  "KN As(2) 1516"
+ ],
+ "KU-RA": [
+  "KN As(2) 1517"
+ ],
+ "MI-RU": [
+  "KN C 902",
+  "KN Da 1127",
+  "KN As(2) 1516",
+  "KN V(3) 482",
+  "KN V(4) 5913"
+ ],
+ "TE-JA": [
+  "KN X 8661",
+  "KN V(3) 479"
+ ],
+ "KO-SA": [
+  "PY Ep 212",
+  "KN Ga(1) 685",
+  "PY An 615",
+  "PY Eb 915"
+ ],
+ "DA-MI": [
+  "KN Df 1121",
+  "KN Dk(2) 1077",
+  "KN Dc 1118",
+  "KN Dc 1122",
+  "PY An 610",
+  "KN Df 1119",
+  "KN Dk(2) 5566",
+  "KN X 1019",
+  "PY Ad 697",
+  "KN Dq(1) 1803",
+  "PY Ea 803",
+  "KN Df 1120",
+  "KN Dk(2) 1320",
+  "KN V(2) 337",
+  "KN Dk(2) 5201",
+  "KN Dv 1496",
+  "KN Dc 1117",
+  "KN Da 1116",
+  "KN Dq(1) 447",
+  "KN Dv 1113",
+  "KN Dk(2) 1399",
+  "KN Dk(2) 1076",
+  "KN Dk(2) 8209"
+ ],
+ "DA-U": [
+  "TH Fq 269",
+  "PY Cn 1287",
+  "PY Jn 431",
+  "KN Do 9793"
+ ],
+ "KU-DA": [
+  "PY Es 652",
+  "PY Es 650",
+  "PY Es 644",
+  "KN V(5) 1004"
+ ],
+ "PI-SA": [
+  "KN B 1055"
+ ],
+ "A-NA": [
+  "KN Pp 494",
+  "PY Ub 1315",
+  "KN Sf(1) 4427",
+  "PY Jn 415",
+  "KN Sg 888",
+  "KN Sf(1) 4421",
+  "KN Sf(2) 4425",
+  "KN Sf 7450",
+  "KN Xd 7570",
+  "KN Sf(2) 4420",
+  "KN Nc 4480",
+  "KN Sf(1) 4423",
+  "PY Aq 218",
+  "KN Sf(2) 4465",
+  "KN Dv 1471",
+  "KN B 798",
+  "MY Fo 101",
+  "PY Un 219",
+  "KN Sf(2) 4419"
+ ],
+ "DU-NE": [
+  "TI Z 30"
+ ],
+ "TU-RU": [
+  "TI X 6",
+  "KN X 986",
+  "PY Un 443",
+  "PY An 35",
+  "PY An 261",
+  "PY Cn 254"
+ ],
+ "MI-KA": [
+  "PY An 39",
+  "KN Vc(1) 64",
+  "KN Vc(1) 67",
+  "PY An 594",
+  "PY Cn 600",
+  "PY Eb 839",
+  "PY Fn 50",
+  "PY Jn 605"
+ ],
+ "PU-MA": [
+  "PY Cn 643",
+  "KN Dv 6045"
+ ],
+ "TU-ME": [
+  "MY Ui 709"
+ ],
+ "DA-KA": [
+  "PY An 172",
+  "PY Gn 720"
+ ],
+ "TA-NI": [
+  "PY An 657",
+  "PY An 1281"
+ ],
+ "WA-DI": [
+  "PY Fn 79"
+ ],
+ "NA-MA": [
+  "PY Cn 1287"
+ ],
+ "JA-SA": [
+  "KN V(6) 832",
+  "KN As(2) 1516",
+  "KN Ce 152"
+ ],
+ "I-JA": [
+  "KN Xd 146",
+  "PY Fn 324",
+  "PY Eq 146",
+  "KN B(4) 164",
+  "KN Lc 646"
+ ],
+ "JA-TI": [
+  "KN De 1301"
+ ],
+ "DA-DA": [
+  "KN X 723",
+  "KN Fs <32>",
+  "KN Fp(1) 1",
+  "KN Fp(1) 18"
+ ],
+ "A-KI": [
+  "KN Vc(1) 106",
+  "PY Fn 867",
+  "PY Na 926",
+  "PY Na 406",
+  "PY An 656",
+  "KN C(2) 7064",
+  "PY Fn 79",
+  "PY Fn 50",
+  "TH Of 35",
+  "TH Gp 122",
+  "KN B(5) 801"
+ ],
+ "WI-NA": [
+  "KN Da 1197",
+  "KN X 5750",
+  "KN Db 1225",
+  "KN Dv 1330",
+  "KN Z 1716",
+  "KN K(1) 875",
+  "ARM Z 1",
+  "MI Z 4",
+  "KN Db 1282",
+  "KN Fh 1059"
+ ],
+ "KI-SA": [
+  "KN Da 1485"
+ ],
+ "E-NA": [
+  "PY Na 1027",
+  "PY Cn 3",
+  "PY Nn 228",
+  "KN Xd 7596",
+  "PY Vn 130",
+  "PY An 661",
+  "KN Xd <302>"
+ ],
+ "TA-TA": [
+  "PY Cn 655",
+  "PY Eb 874",
+  "KN As(1) 607",
+  "PY Eo 224",
+  "PY Ep 301",
+  "KN Ce 152"
+ ],
+ "PA-NA": [
+  "KN X 1018",
+  "KN U 4478",
+  "KN Uf(1) 121",
+  "PY Fn 867",
+  "KN As(2) 1516",
+  "KN E 843",
+  "KN V(5) 1004",
+  "MY Fo 101",
+  "KN As(2) 1517",
+  "PY Cn 45"
+ ],
+ "I-SI": [
+  "TH Gp 127"
+ ],
+ "I-PA": [
+  "KN Db 7172",
+  "PY Eb 1345",
+  "PY Eo 247"
+ ],
+ "DU-RE": [
+  "PY Jn 845"
+ ],
+ "KA-TA": [
+  "KN L 771",
+  "KN X 795",
+  "KN Co 906",
+  "PY Eb 890",
+  "PY Ep 705",
+  "KN C(4) 911",
+  "MY Z 202",
+  "KN Da 1091",
+  "KN V(2) 145",
+  "KN Np(1) 85",
+  "KN Dv 1113",
+  "KN Xd 7597",
+  "PY Cn 40",
+  "KN Xf 8101",
+  "PY Jn 605"
+ ],
+ "TA-U": [
+  "KN V(6) 832",
+  "KN U 4478",
+  "KN Ga(2) 417",
+  "KN Dv 8357",
+  "KN E 843",
+  "KN De 1269"
+ ],
+ "A-ME": [
+  "TH Fq 214",
+  "PY Jn 415",
+  "PY Jn 693",
+  "KN Da 1189",
+  "TH Fq 198",
+  "KN Xd 7954",
+  "PY Sa 834",
+  "KN F(1) 153",
+  "KN Od 765",
+  "TH Fq 276",
+  "TH Fq 229",
+  "TH Gf 134",
+  "TH Fq 247",
+  "KN B(5) 799",
+  "TH Fq 254",
+  "PY Sh 736"
+ ],
+ "RA-KI": [
+  "KN X 7791"
+ ],
+ "A-DI": [
+  "PY Ta 707",
+  "PY Ta 708",
+  "KN Do 7613",
+  "PY Ta 714",
+  "KN As(2) 1517"
+ ],
+ "A-DA": [
+  "KN Da 5223",
+  "PY Eb 747",
+  "KN C(4) 912",
+  "PY En 659",
+  "PY Aa 785",
+  "PY Ab 388",
+  "PY Ep 301",
+  "KN B(4) 164",
+  "PY An 656",
+  "PY Aq 218",
+  "PY Eo 351",
+  "PY Jn 832",
+  "KN X 793"
+ ],
+ "NA-KI": [
+  "KN Wm 8499"
+ ],
+ "I-ZA": [
+  "KN B(5) 805",
+  "PY Fn 50"
+ ],
+ "PU-RA": [
+  "KN Xd 141",
+  "PY Ta 709",
+  "PY Jn 605"
+ ],
+ "JA-RA": [
+  "KN De 1424"
+ ],
+ "TA-NU": [
+  "KN Fh 5456",
+  "PY An 209"
+ ],
+ "DA-WA": [
+  "KN Ga(2) 423",
+  "KN Mc 4461",
+  "KN As(2) 1517"
+ ],
+ "WI-PI": [
+  "KN V(6) 958",
+  "KN Nc 5103"
+ ],
+ "I-WA": [
+  "PY An 519",
+  "PY Cn 655",
+  "PY An 654",
+  "KN V(2) 60",
+  "PY Cn 3",
+  "KN Xd 7756",
+  "KN Uf(1) 120",
+  "PY Jn 310",
+  "PY An 661",
+  "PY Ub 1317",
+  "KN As(2) 1516"
+ ],
+ "O-DA": [
+  "PY Aq 64",
+  "KN So(1) 4440",
+  "KN So(2) 4446",
+  "PY Ma 393",
+  "PY Ma 397",
+  "PY En 659",
+  "KN So(1) 4430",
+  "PY Ma 221",
+  "PY Eq 213",
+  "PY Ma 193",
+  "PY Eq 36",
+  "PY Ed 847",
+  "PY Eq 146",
+  "PY Ma 123",
+  "PY Ma 90",
+  "PY Ma 365",
+  "KN So 894",
+  "PY Ed 317",
+  "KN Sg 1811",
+  "PY En 609",
+  "KN So(1) 4436",
+  "KN B(4) 164",
+  "PY Aq 218",
+  "PY Ma 378",
+  "PY Ma 225",
+  "KN So(1) 4432",
+  "PY Un 718",
+  "PY En 74",
+  "PY Ma 124",
+  "KN So 4435",
+  "PY Ed 901",
+  "PY Ma 120",
+  "KN V(4) 5913",
+  "KN So(1) 4441"
+ ],
+ "QA-MI": [
+  "KN Dv 8280",
+  "KN Lc(1) 543",
+  "KN Ap 5876",
+  "KN Og 833",
+  "KN Le 641",
+  "KN E 749",
+  "KN Ak(2) 613",
+  "KN Sc 135"
+ ],
+ "TA-TE": [
+  "PY An 209"
+ ],
+ "I-DA": [
+  "KN Xd <332>",
+  "KN Xd 154",
+  "TH Of 28",
+  "KN K(1) 875",
+  "PY An 661"
+ ],
+ "DA-MA": [
+  "KN X 1051",
+  "PY En 609",
+  "PY Jn 431"
+ ],
+ "JA-MA": [
+  "KN V(3) 503",
+  "KN V(3) 655"
+ ],
+ "A-JA": [
+  "KN Sf(2) 4426",
+  "KN Sd 4416",
+  "KN Sd 4403",
+  "PY Ta 710",
+  "KN Sd 4401",
+  "KN Sd 4412",
+  "PY Ta 721",
+  "KN Sf(1) 4427",
+  "PY Ta 722",
+  "PY Ta 707",
+  "KN Sf(1) 4421",
+  "PY Ta 708",
+  "PY Ta 642",
+  "KN Sd 4409",
+  "KN Sd 4408",
+  "PY Ta 715",
+  "KN Sd 4415",
+  "PY Ta 714",
+  "KN Sf(2) 5106",
+  "KN Sf(2) 4424"
+ ],
+ "DU-PI": [
+  "KN Vc(1) 287"
+ ],
+ "A-KU": [
+  "KN Fh 364",
+  "KN Xd 110",
+  "KN As(1) 609",
+  "PY Sa 287",
+  "KN Xd 112",
+  "KN Ce 139",
+  "KN U(1) 109",
+  "KN Dc 1270"
+ ],
+ "E-KA": [
+  "KN Dm 1178",
+  "PY Ta 713",
+  "KN Dm 1175",
+  "PY Ea 102",
+  "KN Dm 1179",
+  "KN Dm 1177",
+  "KN Dm 1184",
+  "KN Dm 1176",
+  "KN Dm 1180",
+  "KN Dm 1183",
+  "PY Ta 709",
+  "KN Dm 1174",
+  "KN X 768",
+  "PY Ta 642",
+  "KN Dm 1182",
+  "KN Dm 1181",
+  "KN Sf(2) 4418",
+  "PY Qa 1291",
+  "PY Ta 715",
+  "KN Dm 5226",
+  "KN Se 891",
+  "KN Dm 5237"
+ ],
+ "A-NU": [
+  "TH Z 863",
+  "KN Db 1464",
+  "KN V(3) 503",
+  "KN Dc 1122",
+  "PY An 207",
+  "TH Z 865",
+  "TH Fq 132",
+  "KN X 697",
+  "TH Fq 236",
+  "TH Fq 244",
+  "KN De 1362",
+  "KN Fh 5446",
+  "TH Fq 240",
+  "KN Ce 50",
+  "KN Ws <8754>",
+  "KN X 658",
+  "KN Np(2) 856",
+  "TH Z 864",
+  "KN As(2) 1516",
+  "KN Ap 639",
+  "TH Fq 254",
+  "KN Da 5204"
+ ],
+ "RA-O": [
+  "KN Dv 1249"
+ ],
+ "PI-RU": [
+  "PY An 519",
+  "PY Cn 3"
+ ],
+ "DA-RA": [
+  "KN Dv 5989",
+  "KN Dd 1579",
+  "KN X 7760",
+  "KN Dv 1169",
+  "KN Dk(1) 936",
+  "KN X 7759",
+  "KN Db 1165",
+  "KN Dv 1430",
+  "KN Dc 1220"
+ ],
+ "A-MI": [
+  "KN Ga(3) 465",
+  "KN L(5) 513",
+  "KN Sc 7476",
+  "KN X 9015",
+  "KN Fp(1) 14",
+  "KN Sc 237",
+  "KN V(7) 1526",
+  "KN Gg(3) 705",
+  "KN Vc(1) 289",
+  "KN Lc(1) 550",
+  "KN E 777",
+  "KN Ai(3) 1036",
+  "KN Am(1) 601",
+  "KN X <1641>",
+  "KN X 435",
+  "KN Ra(1) 1543",
+  "KN Ga 953",
+  "PY An 233",
+  "KN M 719",
+  "KN Od(1) 687",
+  "KN Od(2) 718",
+  "KN V(3) 7512",
+  "KN Fh 5451",
+  "KN Le 654",
+  "KN Lc(1) 5053",
+  "KN Fp(1) 1",
+  "KN V(1) 114",
+  "KN V(3) 482",
+  "KN Fp(1) 48",
+  "PY Vn 865",
+  "PY Cn 436",
+  "KN Sc 252",
+  "KN Ai(3) 825",
+  "KN As(2) 1520",
+  "KN Ak(1) 638"
+ ],
+ "NE-TI": [
+  "TH Av 106",
+  "PY Cn 599",
+  "PY Cn 40"
+ ],
+ "MA-TI": [
+  "KN D 1024",
+  "KN V(6) 831",
+  "KN Xd 209",
+  "KN Vc(1) <295>",
+  "KN X 5074"
+ ],
+ "A-KO": [
+  "PY Fr 1226",
+  "PY Cn 655",
+  "TH Ft 217",
+  "KN Co 906",
+  "TH Ft 234",
+  "TH Ft 219",
+  "PY An 39",
+  "TH Av 101",
+  "TH Wu 49",
+  "KN Dk(2) 1067",
+  "KN Co 910",
+  "PY Cn 453",
+  "PY Wa 401",
+  "TH Ft 220",
+  "TH Wu 52",
+  "PY Un 47",
+  "PY Va 482",
+  "PY Fr 1236",
+  "PY Cn 599",
+  "TH Fq 257",
+  "TH Ft 148",
+  "TH Ft 141",
+  "TH Gp 164",
+  "PY Wa 917",
+  "PY Eq 213",
+  "PY Pn 30",
+  "TH Gp 144",
+  "KN De 1112",
+  "PY Cn 643",
+  "PY Un 267",
+  "KN Xd 7610",
+  "PY An 435",
+  "KN F(1) 157",
+  "PY Va 1324",
+  "KN De 1472",
+  "TH Ft 268",
+  "TH Ft 246",
+  "KN B(1) 1025",
+  "KN Sc 239",
+  "PY Cn 418",
+  "PY Fn 837",
+  "KN Dl(1) 932",
+  "KN Dk(1) 969",
+  "TH Wu 68",
+  "PY Jn 431",
+  "PY Ua 1413",
+  "MY Oe 115",
+  "PY Aq 218",
+  "TH Wu 50",
+  "TH Fq 240",
+  "KN Co 907",
+  "PY Vn 1339",
+  "TH Fq 309",
+  "KN Dl(1) 7138",
+  "TH Wu 63",
+  "KN Co 903",
+  "PY Fr 1220",
+  "TH Fq 241",
+  "PY Cn 254",
+  "KN Sc 250",
+  "KN As(2) 1516",
+  "KN Dl(1) 943",
+  "PY Vn 10",
+  "MY Go 610",
+  "TH Fq 254",
+  "KN Co 904",
+  "PY Va 1323",
+  "PY An 724",
+  "PY Cn 40",
+  "KN Da 1079",
+  "PY Cn 719",
+  "PY Cn 45"
+ ],
+ "A-NE": [
+  "PY Es 648",
+  "KN Vc(1) 215",
+  "PY Ma 393",
+  "KN Fh 342",
+  "KN Vc(1) 185",
+  "PY Es 650",
+  "KN Fp(1) 13",
+  "KN Fp(1) 1",
+  "MY Fo 101",
+  "MY V 659",
+  "PY Cn 40"
+ ],
+ "JA-PA": [
+  "KN V(4) 652"
+ ],
+ "SE-TO": [
+  "KN Wm 8493",
+  "KN Do 7740",
+  "KN Lc(1) 525",
+  "KN Da 1392",
+  "KN X 5040",
+  "KN Sd 4407",
+  "KN X 660",
+  "KN Mc 4464",
+  "KN Ak(1) 634",
+  "KN Dq(4) 686",
+  "KN Do 7613",
+  "KN Do 1054",
+  "KN Le 654",
+  "KN As(2) 1516",
+  "KN As 40",
+  "KN Am 5755",
+  "KN Dq(4) 438",
+  "KN Do 7087"
+ ],
+ "MI-JA": [
+  "KN As(2) 1516",
+  "KN Ln 1568"
+ ],
+ "WA-TE": [
+  "KN Xd 9138",
+  "PY Na 395"
+ ],
+ "TE-ME": [
+  "PY Er 312",
+  "KN Xd <319>"
+ ],
+ "SI-NI": [
+  "KN Dg 1280"
+ ],
+ "KA-A": [
+  "KN X 728"
+ ],
+ "NE-KI": [
+  "KN Ak(3) 780",
+  "KN Od(1) 687",
+  "KN Ws 8152",
+  "KN Ln 1568"
+ ],
+ "E-MI": [
+  "KN V(6) 831",
+  "KN Am(2) 821",
+  "TH Gp 129"
+ ],
+ "A-TI": [
+  "PY An 654",
+  "KN V(6) 831",
+  "KN Dv 1470",
+  "PY Jn 845",
+  "PY Vn 46",
+  "PY Jn 750",
+  "MY Oe 110",
+  "KN Dv 1272",
+  "PY An 661",
+  "KN As(2) 1516",
+  "PY Ae 27",
+  "PY Jn 320",
+  "PY Un 219",
+  "MY X 1"
+ ],
+ "KA-DI": [
+  "KN V(5) 9320",
+  "KN Vc(1) 9128"
+ ],
+ "KI-NI": [
+  "KN Xd 7547",
+  "PY Aa 792",
+  "PY An 292",
+  "PY Ad 683",
+  "PY Ab 189"
+ ],
+ "O-TA": [
+  "KN E 1035",
+  "KN Xd 7547",
+  "MY Oe 111",
+  "MY Fo 101"
+ ],
+ "I-SE": [
+  "KN Dd 5105",
+  "KN L(3) 473",
+  "KN B 798"
+ ],
+ "PU2-RA2": [
+  "PY Nn 228",
+  "PY Na 425"
+ ],
+ "PA-ZA": [
+  "KN Dl(1) 948"
+ ],
+ "I-MA": [
+  "PY Ea 29",
+  "PY Jn 310",
+  "PY Cn 436",
+  "PY Ea 816"
+ ],
+ "KU-TU": [
+  "KN Da 1161",
+  "KN Ap 639"
+ ],
+ "WI-RA": [
+  "KN Da 5193",
+  "KN As(2) 1516"
+ ],
+ "A-DE": [
+  "PY Eq 36",
+  "PY Eq 146",
+  "PY An 207",
+  "KN As(2) 1516",
+  "KN Ap 639"
+ ],
+ "RA-MA": [
+  "PY Jn 692",
+  "PY Cn 285",
+  "PY Ub 1316",
+  "KN Fh 353",
+  "PY Jn 725"
+ ],
+ "E-KU": [
+  "MY Wt 501"
+ ],
+ "ME-KI": [
+  "PY Fr 1244",
+  "PY Aa 955",
+  "KN Dv 1434",
+  "KN Xe 537",
+  "PY Ab 575"
+ ],
+ "KU-PI": [
+  "KN Gg(2) 995",
+  "KN Fp(2) 5472",
+  "KN Fh 5447",
+  "KN Fh 347",
+  "KN X 468",
+  "PY Cn 131",
+  "KN Ga(1) 676",
+  "KN Fh 371",
+  "KN Ga(1) 677",
+  "KN Fh 5446",
+  "PY Un 443",
+  "KN Fh 5246",
+  "KN K(2) 773",
+  "KN Ga(1) 517",
+  "PY Jn 320",
+  "KN Fh 372",
+  "KN Fh 361",
+  "PY Cn 719"
+ ],
+ "TU-MI": [
+  "MY Fo 101"
+ ],
+ "*47-KU": [
+  "KN Fp(1) 13"
+ ],
+ "RA-TE": [
+  "KN V(4) 653"
+ ],
+ "SA-RI": [
+  "PY Mn 456",
+  "PY Na 544",
+  "PY An 172",
+  "PY An 424",
+  "PY Jn 845",
+  "PY Vn 130"
+ ],
+ "TE-TE": [
+  "PY Jn 389",
+  "PY Eb 1176",
+  "PY Ep 539",
+  "KN V(6) 958"
+ ],
+ "O-MI": [
+  "KN Fh 356",
+  "KN C(4) 911"
+ ],
+ "PU2-RE": [
+  "TH Of 26",
+  "KN Sc 243"
+ ],
+ "NA-SI": [
+  "KN B(5) 800"
+ ],
+ "KA-NE": [
+  "KN X 7559",
+  "PY Ub 1318",
+  "KN Da 1350",
+  "TH Fq 254"
+ ],
+ "KI-NU": [
+  "KN Ap 618",
+  "PY Qa 1301",
+  "PY Vn 865"
+ ],
+ "PI-TI": [
+  "PY Ta 713"
+ ],
+ "DE-MI": [
+  "PY Wr 1326",
+  "PY Un 1482",
+  "KN Fh 5431",
+  "PY Vn 851",
+  "MY V 659"
+ ],
+ "KA-NI": [
+  "KN Dh(2) 1646",
+  "KN Db 1449"
+ ],
+ "A-RO": [
+  "KN L(2) 5909",
+  "PY An 199",
+  "KN Sd 4422",
+  "PY Fr 1242",
+  "PY Fr 1355",
+  "PY Nn 831",
+  "PY Eq 213",
+  "KN K(2) 774",
+  "MY Ge 602",
+  "PY Vn 46",
+  "PY Fr 1225",
+  "PY Un 1319",
+  "KN Vc(1) 184",
+  "KN Fs 4",
+  "KN X 658",
+  "KN Lc(1) 536",
+  "KN E 843",
+  "PY La 622",
+  "PY Fn 187"
+ ]
+}

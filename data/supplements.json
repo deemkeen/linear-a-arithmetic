@@ -1,0 +1,56 @@
+{
+ "KNZg57": {
+  "name": "KN Zg 57 (Ivory Ring)",
+  "site": "Knossos",
+  "findspot": "Anetaki plot, Cult Center, Ivory Repository (NW corner of Neopalatial Room 1, Fetish Shrine area)",
+  "context": "Neopalatial (1700-1450 BC), early Neopalatial pottery in repository",
+  "support": "Ivory ring of a 'religious scepter' (elephant ivory, outer diam. 13.5-14cm)",
+  "transcriptionStatus": "NO full sign-by-sign edition published yet; awaiting Kanta (ed.), Anetaki II, forthcoming. Data below = everything securely published in the 2024 overview paper.",
+  "signCountPreserved": 84,
+  "signCountTraces": 35,
+  "signCountTotal": "ca. 119 (longest known Linear A inscription; HT123 has 105 incl. numerals)",
+  "numerals": "NONE on any face — aligns the Ring with libation vessels, not accounting records",
+  "metopes": "all signs framed in metopes (vertical dividers), like IO Za 2; word-dividers unnecessary",
+  "readingDirection": "left-to-right (orientation of AB81 KU, AB40 WI, AB60 RA, AB01 TA; rhyton A664 faces right as on PH 8a.3)",
+  "recurringSignsCalligraphic": ["A (AB08)", "KU (AB81)", "DI (AB07)", "KA (AB77)"],
+  "faces": {
+   "A_top": {
+    "leftHalf": "12 quadruped animals, each in its own metope, all facing left (pure iconography, ritual feasting animals?)",
+    "rightHalf": "at least 10 vases, engraved iconographically; several with a syllabogram in ligature emerging from the vase mouth (VAS+PA, VAS+RU etc.); rhyton (A664) and tripod carry NO syllabogram (shape self-identifying, cf. HT31); 6 vases share amphora typology",
+    "signs": "16 whole/partially preserved signs in metopes, space for at least 2 more (>=18 originally); plus 17 other extant signs simple or in ligature"
+   },
+   "B_bottom": {
+    "content": "six well-preserved sign GROUPS followed by three logograms, each in its own metope: GRA, probably FAR, and OLIV; no accompanying numbers or fractions; many lacunae",
+    "note": "the six phonetic sign groups are the core unread text — edition pending"
+   },
+   "C_external": {
+    "content": "at least nine groups of signs and five logograms for different types of textiles (differing by number of fringes); one textile sign ligatured with AB77 (KA)",
+    "damage": "at least 40% of Face C surface lost"
+   },
+   "D_internal": {
+    "content": "extremely damaged; ca. nine signs for animal hide (AB180) in metopes, none entirely preserved; one trace ligatured with the hide ideogram, restorable as KA (AB77), QE (AB78) or KO (AB70); best parallel: Phaistos Linear A tablets"
+   }
+  },
+  "interpretation": "iconography + writing integrated into one 'message' (unique for Linear A): record of elements for a ritual feasting ceremony — animals, vessels, textiles, hides; possibly mnemonic/prescriptive like Hittite ritual records; counterpart attested in a Linear A tablet (per authors, final publication pending)",
+  "source": "Kanta, Nakassis, Palaima, Perna 2024, 'An archaeological and epigraphical overview of some inscriptions found in the Cult Center of the city of Knossos (Anetaki plot)', KO-RO-NO-WE-SA (Ariadne Supplement Series 5), Rethymno, 27-43. DOI 10.26248/ariadne.vi.1841",
+  "localPdf": "papers_KNZg57_Ariadne.pdf"
+ },
+ "KNZg58": {
+  "name": "KN Zg 58 (Ivory handle of the scepter)",
+  "site": "Knossos",
+  "findspot": "same repository and layer as KN Zg 57",
+  "support": "Ivory handle, quadrangular section, c. 13cm long; signs 0.5-0.9cm (smaller than Ring)",
+  "transcriptionStatus": "NO full sign-by-sign edition published yet; see KNZg57.",
+  "type": "ACCOUNTING text (numerals + fractional signs) — 'first Linear A economic document coming from a cult building'",
+  "scribalHand": "different incisor than the Ring: AB08 (A) linearized vs calligraphic; AB77 (KA) internal stroke orientation differs; A+KA ligature stacked A-above-KA on Ring but A-below-KA on handle",
+  "faces": {
+   "alpha": "two probable vases, each ligatured with a phonetic sign, followed by a sign for TEN; then a probable NEW sign in the Linear A repertory; then *180 and *181 — both otherwise attested in Cretan Hieroglyphic (very rare; proves their use in Linear A)",
+   "beta": "right end: sequence of four signs (first doubtful, damaged); left half: likely animal-hide sign (recalls Phaistos tablets and Face D of the Ring)",
+   "gamma": "signs for a boar and probably a pig, WITHOUT numerals",
+   "delta": "two vases with a ligatured sign above, followed by units and FRACTIONS: six different fraction signs recorded in sequence"
+  },
+  "fractionSequence": "six different fraction signs in one sequence -> first direct evidence for the RELATIVE ordering of Linear A fraction values, partly differing from previous proposals (cf. Corazza, Ferrara, Montecchi, Tamburini, Valerio 2021, JAS 125)",
+  "source": "Kanta, Nakassis, Palaima, Perna 2024 (see KNZg57), esp. p. 40-42",
+  "localPdf": "papers_KNZg57_Ariadne.pdf"
+ }
+}

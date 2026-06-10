@@ -1,0 +1,78 @@
+==============================================================================
+D1 — Geographie der Summen-/Defizitwörter
+==============================================================================
+   KU-RO         37 Belege | Haghia Triada [Zentral] 35x, Phaistos [Zentral] 1x, Zakros [Ost] 1x | vor Zahl: 35/37
+   KU-RA          2 Belege | Zakros [Ost] 1x, Arkhalkhori [Zentral] 1x | vor Zahl: 2/2
+   KU-RE          2 Belege | Haghia Triada [Zentral] 2x | vor Zahl: 0/2
+   KI-RO         16 Belege | Haghia Triada [Zentral] 16x | vor Zahl: 9/16
+   KI-RA          2 Belege | Haghia Triada [Zentral] 1x, Zakros [Ost] 1x | vor Zahl: 1/2
+   KI-RU          1 Belege | Milos [?] 1x | vor Zahl: 0/1
+   PO-TO-KU-RO    2 Belege | Haghia Triada [Zentral] 2x | vor Zahl: 2/2
+
+Kritische Frage: Hat Ostkreta (Zakros & Co.) auch KU-RO?
+   KU-RO in Ostkreta: 1x (ZA15b)
+
+2x2 (nur KU-R-/KI-R-Formen): Zentral O:54 A:2  |  Ost O:1 A:2
+   Fisher p = 0.0103  ***
+
+==============================================================================
+D2 — Funktionstest: Ist KU-RA auf ZA20 arithmetisch eine Summe?
+==============================================================================
+
+ZA20 (Zakros, Stone vessel):
+   𐝫 ¶ DU-RE-ZA-SE MI ¶ 𐄁 4 ¶ SI-TE-TU 1 ¶ SI-TU 6 ¶ TE-AROM 12 ¶ RU-MA-TA-SE 3 ¶ KU-RA 130 ¶ 𐝫
+   Einträge davor: [4.0, 1.0, 6.0, 12.0, 3.0]  Summe=26  |  KU-RA 130  ->  Δ=104
+
+ARKH2 (Arkhalkhori, Tablet):
+   SI-DA-TE ¶ KU-RA *131B 5 ¶ A-SI-DA-TO-I 12 ¶ ZU-*301-SE-DE-*21F-*118 6 ¶ A-SU-PU-WA 4 ¶ RU-MI ¶ 𐝫
+   KU-RA 5 — keine summierbaren Einträge davor erhalten
+
+HT103 (Haghia Triada, Tablet):
+   U-TA₂ 𐄁 NI 40 ¶ PA₃ ¶ DA-KU-SE-NE 6 ¹⁄₂ ¶ *188 13 ¶ DA-KU-NA 1 ¶ DA-KU-SE-NE 1 ¶ KI-RA 5 ¹⁄₂
+   Einträge davor: [40.0, 6.5, 13.0, 1.0, 1.0]  Summe=61.5  |  KI-RA 5.5  ->  Δ=56
+
+ZA8 (Zakros, Stone vessel):
+   KI-RA 𐄁 ¶ A-TA-RE 𐄁 NI ¹⁄₂ ¶ KU-TU-KO-RE double mina ¶ A-RI-NI-TA 1 ? ¶ TA-I-NU-MA-PA ¹⁄₂ ¶ MA-KA-I-SE 2 𐝃𐝆 ¶ DA-I-PI-TA 2 ¹⁄₂ ¶ KA-I-RO 4 ?
+
+==============================================================================
+D3 — Kontrolle: splitten andere -O/-A-Minimalpaare regional?
+==============================================================================
+   A-DA-RO        [Arkhalkhori(1)]  ~  A-DA-RA        [Knossos(1)]
+   SA-RO          [Haghia Triada(4)]  ~  SA-RA          [Haghia Triada(1), Samothrace(1)]
+
+Bilanz: Zentral-O/Ost-A-Splits: 0, andere Splits: 0, überlappend/unklar: 2
+
+==============================================================================
+D4 — Konvergenz: Libationsformel-Varianten nach Region (aus H1)
+==============================================================================
+   IOZa2     Iouktas        [Zentral]  Standard    {'S1': 'JA', 'S2': 'JA', 'S3': 'SI', 'S4': 'MA'}
+   IOZa3     Iouktas        [Zentral]  Standard    {'S1': 'JA'}
+   IOZa6     Iouktas        [Zentral]  Standard    {'S2': 'JA'}
+   IOZa7     Iouktas        [Zentral]  Standard    {'S1': 'JA'}
+   IOZa9     Iouktas        [Zentral]  Standard    {'S2': 'JA', 'S3': 'SI'}
+   IOZb10    Iouktas        [Zentral]  Standard    {'S2': 'A'}
+   IOZa12    Iouktas        [Zentral]  ABWEICHEND  {'S2': 'SA'}
+   IOZa15    Iouktas        [Zentral]  Standard    {'S4': 'MA'}
+   IOZa16    Iouktas        [Zentral]  Standard    {'S2': 'JA', 'S3': 'SI'}
+   KNZa10    Knossos        [Zentral]  Standard    {'S2': 'JA'}
+   KHZc106   Knossos        [Zentral]  ABWEICHEND  {'S2': 'SA'}
+   KOZa1     Kophinas       [Zentral]  Standard    {'S1': 'JA', 'S3': 'SI', 'S4': 'MA'}
+   PKZa4     Palaikastro    [Ost]  Standard    {'S2': 'A'}
+   PKZa10    Palaikastro    [Ost]  ABWEICHEND  {'S4': 'MINA'}
+   PKZa11    Palaikastro    [Ost]  ABWEICHEND  {'S1': 'E', 'S2': 'SA', 'S3': 'TI', 'S4': 'MINA'}
+   PKZa12    Palaikastro    [Ost]  Standard    {'S1': 'JA', 'S3': 'SI'}
+   PLZf1     Platanos       [?]  Standard    {'S2': 'JA'}
+   POZc1     Poros Herakle  [?]  Standard    {'S2': 'RI'}
+   PSZa2     Psykhro        [Ost]  Standard    {'S2': 'JA'}
+   SYZa1     Syme           [?]  Standard    {'S1': 'JA'}
+   SYZa2     Syme           [?]  Standard    {'S1': 'JA'}
+   SYZa3     Syme           [?]  Standard    {'S1': 'JA'}
+   SYZa4     Syme           [?]  Standard    {'S1': 'JA'}
+   SYZa8     Syme           [?]  Standard    {'S1': 'JA'}
+   TLZa1     Troullos       [Zentral]  Standard    {'S1': 'JA', 'S2': 'JA', 'S4': 'MA'}
+   VRYZa1    Vrysinas       [West]  Standard    {'S4': 'MA'}
+   APZa2     Apodoulou      [Zentral]  Standard    {'S4': 'MA'}
+   PKZa27    Palaikastro    [Ost]  Standard    {'S2': 'JA', 'S3': 'SI'}
+
+2x2 Formel-Abweichung: Zentral 2/14 abweichend | Ost 2/6 abweichend
+   Fisher p = 0.5492
