@@ -1,0 +1,56 @@
+==============================================================================
+Spalten-bewusster Arithmetik-Check (segmentiert, alle Tafeln)
+==============================================================================
+   HT100         Haupt    ABW    Σ=91        Total=97         [beschädigt]
+   HT102         Haupt    ABW    Σ=1070      Total=1060     
+   HT104         Haupt    EXAKT  Σ=95        Total=95         [beschädigt]
+   HT109         Haupt    ABW    Σ=8         Total=129        [beschädigt]
+   HT110a        Haupt    ABW    Σ=21        Total=100      
+   HT117a        Haupt    EXAKT  Σ=10        Total=10       
+   HT118         Haupt    ABW    Σ=35        Total=30       
+   HT118         KI-RO    EXAKT  Σ=15        Total=15       
+   HT119         Haupt    ABW    Σ=158       Total=160      
+   HT11a         Haupt    ABW    Σ=6         Total=10       
+   HT11b         Haupt    EXAKT  Σ=180       Total=180      
+   HT122a        Haupt    ABW    Σ=22        Total=31       
+   HT122b        Haupt    ABW    Σ=15        Total=97       
+   HT123+124a    OLIV     EXAKT  Σ=93.5      Total=93.5       [beschädigt,klasma≈]
+   HT123+124a    *308     NAH    Σ=25.4167   Total=25.1667    [beschädigt,klasma≈]
+   HT123+124a    KI-RO    ABW    Σ=2.5       Total=6          [beschädigt,klasma≈]
+   HT123+124b    Haupt    ABW    Σ=28.9417   Total=20         [klasma≈]
+   HT127b        Haupt    ABW    Σ=136       Total=291      
+   HT13          Haupt    NAH    Σ=131       Total=130.5    
+   HT25b         Haupt    EXAKT  Σ=52        Total=52       
+   HT27a         Haupt    ABW    Σ=322       Total=335      
+   HT85a         Haupt    EXAKT  Σ=66        Total=66       
+   HT88          Haupt    ABW    Σ=39        Total=6        
+   HT89          Haupt    EXAKT  Σ=87        Total=87       
+   HT94a         Haupt    NAH    Σ=111       Total=110      
+   HT94b         Haupt    EXAKT  Σ=5         Total=5        
+   HT9a          Haupt    NAH    Σ=31        Total=31.75    
+   HT9b          Haupt    EXAKT  Σ=24        Total=24       
+
+Prüfungen: 28  exakt: 10  Δ<=1: 4  abweichend: 14
+(altes Stream-Modell: 33 Prüfungen, 8 exakt, 3 Δ<=1)
+
+Tafel-Verdikte:
+   EXAKT: HT104, HT117a, HT11b, HT25b, HT85a, HT89, HT94b, HT9b
+   ABW: HT102, HT110a, HT118, HT119, HT11a, HT122a, HT122b, HT127b, HT13, HT27a, HT88, HT94a, HT9a
+   unsicher: HT100, HT109, HT123+124a, HT123+124b
+
+==============================================================================
+H10-Update: Parser-Verdikte x GORILA-Apparat
+==============================================================================
+   ABWEICHLER HT102     numerische Rasur: ja   (.3 '2 premières dizaines sur ⟦||⟧' — ZEHNER über Rasur; .2)
+   ABWEICHLER HT118     numerische Rasur: ja   (.1-5 sur ⟦ ⟧ — GESAMTE Tafel über Rasur (Komplett-Palimpse)
+   ABWEICHLER HT119     numerische Rasur: NEIN   (KEINE Rasur; aber Zahllesung des Grosseintrags unsicher: G)
+   ABWEICHLER HT13      numerische Rasur: ja   (.4-7 sur ⟦ ⟧ — Zeilen 4-7 INKL. KU-RO über Rasur; .4 'dout)
+   ABWEICHLER HT94a     numerische Rasur: ja   (.1 ⟦Zeichen⟧ und ⟦"⟧ = ZWEI GETILGTE EINERSTRICHE in Eintr)
+   ABWEICHLER HT9a      numerische Rasur: ja   (.2 Zeichen sur ⟦ ⟧; .6 '| ajouté après ⅍' — Einerstrich na)
+
+   Abweichler 5/6 mit numerischer Rasur vs. Exakte 0/8
+   Fisher p = 0.0030  ***
+   Hinweise: HT118/HT123 sind jetzt regulär spalten-geparst (kein
+   post-hoc-Status mehr); HT119 zählt als Abweichler OHNE Rasur, obwohl
+   seine Abweichung per Apparat eine unsichere Zahllesung (67/68) ist —
+   konservativ gegen die Hypothese gewertet.

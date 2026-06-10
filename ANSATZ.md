@@ -542,9 +542,20 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      die KI-Spalte summiert exakt (10+4+1 = 15 = Schluss-KI; zweiter
      Spaltenbuchhaltungs-Beleg neben HT123, KI wohl = KI-RO
      abgekürzt → stützt H6/T1), die Hauptspalte weicht ab (35 vs.
-     KU-RO 30). Würde man HT118 als spalten-geprüften Abweichler
-     zählen: 5/5 vs. 0/8 (p=0,0008) — als Ausblick, nicht als
-     Testergebnis.
+     KU-RO 30).
+   - **Auflösung des post-hoc-Status durch den generalisierten
+     Parser (`check_arithmetic.py`):** Der segmentierte, spalten-
+     bewusste Checker (Summenzeilen definieren die Spalten; Logo-
+     Einträge ohne Spaltentotal → Hauptspalte; KI = KI-RO-Abkürzung)
+     prüft jetzt 28 Spalten korpusweit (10 exakt, 4 mit Δ≤1; altes
+     Stream-Modell: 8 exakt). Alle Faksimile-verifizierten Fälle
+     reproduziert; HT118 (Haupt 35 vs. 30, KI-Spalte 15=15 exakt)
+     und HT123 sind regulär geparst. **Aktualisierter H10-Test:
+     Abweichler 5/6 mit numerischer Rasur vs. Exakte 0/8 —
+     Fisher p=0,003** (HT119 konservativ als rasur-freier Abweichler
+     gezählt, obwohl seine Abweichung laut Apparat eine unsichere
+     Zahllesung 67/68 ist; Schadens-Artefakte HT27a/HT110a/HT122a
+     per Faksimile-Befund ausgeschlossen).
    - *Weitere Datenbank-Diskrepanzen entdeckt:* HT119-Eintrag 67
      (lineara) vs. 68 (GORILA); HT27a-Total 335 (lineara) vs. 355
      (GORILA).

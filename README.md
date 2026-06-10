@@ -52,3 +52,5 @@ Fortsetzung Juni 2026: `test_lb_names.py` (Anker-Abgleich LA↔LB,
 (Paper via ScienceDirect Open Access gelesen, DOI 10.1016/j.jas.2020.105214).
 - `test_erasures.py` — H10: Rasur-Hypothese via GORILA-Apparat-Mining
   (`data/gorila_apparatus.json`, `erasures_results.txt`)
+- `check_arithmetic.py` — generalisierter, segmentierter Spalten-Checker
+  (Nachfolger des Stream-Modells; `arithmetic_results.txt`)
