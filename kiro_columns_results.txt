@@ -1,0 +1,29 @@
+==============================================================================
+H6 — Spaltensummen & KI-RO-Komplement (mehrspaltige Tafeln)
+==============================================================================
+
+T1 — Spaltensummen (Label kommt in >=2 Einträgen UND Summenzeile vor):
+   exakt: 1   Δ<=1: 1   abweichend: 0
+   ✓ HT123+124a   Spalte OLIV     [31.0, 31.5, 16.0, 15.0] -> Σ=93.5 == KU-RO 93.5
+   ~ HT123+124a   Spalte *308     [8.25, 8.75, 4.166666666666667, 4.25] -> Σ=25.4167 vs. 25.1667 (Δ=0.25)
+
+T2 — KI-RO-Komplement (Einzel-Fehlbeträge vs. KI-RO-Schlusssumme):
+   HT123+124a   KI-RO-Einträge [1.0, 0.75, 0.75] -> Σ=2.5 vs. Schluss-KI-RO 6: Δ=3.5 [enthält unparsbare Werte!]
+
+Detail HT123+124a (Roh-Zeilen):
+   | KI-TA-I 𐄁 OLIV 31
+   | *308 8 ¹⁄₄
+   | KI-RO 1 .3
+   | PU-VIN OLIV 31 ¹⁄₂
+   | *308 8 ³⁄₄
+   | KI-RO .3
+   | SA-RU OLIV 16
+   | *308 4 ≈ ¹⁄₆
+   | KI-RO ³⁄₄
+   | DA-TU OLIV 15
+   | *308 4 ¹⁄₄
+   | KI-RO ³⁄₄
+   | KU-RO OLIV 93 ¹⁄₂
+   | *308 𐄁
+   | KU-RO 25 ≈ ¹⁄₆
+   | KI-RO 6

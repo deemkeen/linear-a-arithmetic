@@ -17,6 +17,13 @@ Reproduzierbare Analyse des Linear-A-Korpus (GORILA / J. Younger, via
   Funktionswort-Kontrolle (Ergebnisse in `o_suffix_results.txt`)
 - `test_dialect.py` — H5: KU-RO ~ KU-RA Dialekt- vs. Grammatik-Test
   (Ergebnisse in `dialect_results.txt`)
+- `test_kiro_columns.py` — H6: Mehrspalten-Arithmetik & KI-RO-Komplement
+  (Ergebnisse in `kiro_columns_results.txt`)
+- `audit_support.py` — leitet Dokumenttypen aus der GORILA-Seriensystematik
+  ab und schreibt `data/support_corrections.json` (wird von corpus_lib
+  automatisch angewandt)
+- **`PREDICTIONS.md`** — registrierte, zeitgestempelte Vorhersagen für
+  Out-of-sample-Tests (v. a. Anetaki II / KN Zg 57–58)
 
 Bekannte Datenqualitäts-Probleme der Quelle: Die plain-ZA-Tafeln
 (ZA1–ZA33, Zakros) sind im lineara.xyz-Export fälschlich als

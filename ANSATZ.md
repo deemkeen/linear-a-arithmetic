@@ -381,6 +381,32 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
    -O = abschließende Summenangabe, -A = eröffnende/überschriftliche
    Funktion („Bestand/Soll"?), -E = Rubrik ohne Zahlangabe. Vorhersage
    für Neufunde: KU-RA darf in Kopfposition erscheinen, KU-RO nicht.
+8. **H6 (KI-RO als Komplement; Mehrspalten-Arithmetik):** Getestet mit
+   `test_kiro_columns.py` (Zeilen als Label→Wert-Spalten; Ergebnisse
+   in `kiro_columns_results.txt`).
+   - **T1 ✅ Spaltenstruktur bestätigt:** Auf HT123+124a summiert die
+     OLIV-Spalte **exakt** (31 + 31½ + 16 + 15 = 93½ = „KU-RO OLIV
+     93½"). Die mehrspaltige Buchhaltung ist real und die
+     Eintragsliste nachweislich vollständig.
+   - **T1 🔶 Bruchzeichen-Gleichung gewonnen:** Die *308-Spalte geht
+     bis auf Δ=¼ auf — die Abweichung steckt komplett in zwei
+     Klasma-Zeichen mit unsicheren Werten (Eintrag „4 + A701-A" vs.
+     Summe „25 + A706-H"). Daraus folgt, unabhängig von den
+     Absolutwerten: **A706(H) − A701(A) = ¼**. Direkter Input für die
+     geplante Bruchwert-Inferenz (H9).
+   - **T2 ❌ Komplement-These in dieser Form widerlegt:** Die
+     KI-RO-Schlusszeile („KI-RO 6") kann *nicht* die Summe der
+     KI-RO-Spalte sein: Einträge = 1+X, X, ¾, ¾ (X = A711, Wert
+     unbekannt) ⟹ Σ ≤ 4½ < 6 für jeden Bruchwert X ≤ 1 — und da die
+     OLIV-Spalte exakt aufgeht, fehlen keine Einträge. Die
+     Schluss-KI-RO zählt also eine andere Größe (Stückzahl? andere
+     Einheit?), oder A711 ist kein Bruch-, sondern ein Mengenzeichen
+     ≥ 1¾. Scharfe Nebenbedingung für jede künftige
+     Klasma-Rekonstruktion.
+   - *Datenqualität:* lineara.xyz rendert A711 als „.3" und
+     A701/A706 pauschal als „≈ ⅙" — die Klasma-Zeichen sind im
+     Datensatz nur näherungsweise kodiert (dokumentiert; für H9 muss
+     auf die Unicode-Originalzeichen zurückgegriffen werden).
 
 ## 5. Realistische Erwartung
 
