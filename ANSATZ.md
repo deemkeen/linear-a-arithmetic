@@ -428,6 +428,35 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      wert-unabhängig unerfüllbar** (2J = J ⟹ Schreiberfehler bewiesen,
      ohne J zu kennen), HT9a verlangt 2J+E=2 (mit keinem plausiblen
      Wertepaar erfüllbar).
+   - **Faksimile-Verifikation aller Constraint-Tafeln (GORILA I,
+     lokal):**
+     - *HT 9a (S. 18–19):* Entry-Werte bestätigt; aber der Apparat
+       dokumentiert **Schreiber-Rework in der Totalzeile** („|
+       ajouté après ⅍" — Einerstrich nachträglich hinter dem Bruch
+       eingefügt) und Zeile .2 über Rasur; GORILA zeigt das Total
+       zudem als „31 ⅍" mit zusätzlichem ⁊ — lineara hat zu „31¾"
+       geglättet. Die Differenz von ¾ hat damit eine physische
+       Korrektur-Geschichte.
+     - *HT 13 (S. 26–27):* **Zeilen 4–7 inkl. KU-RO über Rasur**
+       („sur ⟦ ⟧"); KU-ZU-NI evtl. 17 statt 18 („doute possible sur
+       la quatrième unité … absence de fraction en tout cas");
+       RE-ZA = „5[]∠" (Schaden zwischen Zahl und Bruch). Beide
+       Zahlvarianten lassen die Gleichung unerfüllbar (2J=J bzw.
+       J=1) — die Inkonsistenz ist lesungsstabil, aber die Tafel
+       nachweislich überarbeitet.
+     - *HT 89 (S. 141):* **vollständig bestätigt** — 23+22+24+13+5 =
+       87 = KU-RO 87 exakt; einzige Unsicherheit (4 vs. 5 Striche)
+       liegt in der Zeile *nach* dem Total.
+     - **Meta-Befund:** Alle arithmetisch scheiternden
+       Constraint-Tafeln (HT9a, HT13, HT123a) tragen dokumentierte
+       Rasuren/Korrekturen bzw. sind Palimpseste; die exakt
+       aufgehende HT89 ist sauber. Die „Schreiberfehler" korrelieren
+       mit physischem Rework — das stützt sowohl die Lesung des
+       Zahlsystems als auch unsere Outlier-Behandlung. Offene
+       Anschlusshypothese: Arithmetik-Abweichungen im Korpus sollten
+       bevorzugt auf Palimpsest-Tafeln auftreten (testbar nur durch
+       systematisches GORILA-Apparat-Mining, da lineara.xyz
+       Rasur-Vermerke nicht kodiert).
    - Verankerter Modus (J=½, E=¼ fix): eindeutig **A732 JE = ¾**
      (konsistent mit dem Ligatur-Axiom JE=J+E); A701/A706 bleiben eine
      einparametrige Familie **H = A + ¼** (aus H6).
