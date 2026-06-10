@@ -80,6 +80,24 @@ Kongruenz-These tot und die Varianten sind freie Variation).
 **Fehlschlag:** -NE/-TE-Headeranteil ≤ 30 %, oder systematisch
 nicht-aufgehende intakte Summen.
 
+## P-VI — Rasur-Lokalisation auf Abweichler-Tafeln (aus H10;
+## registriert 10.06.2026, VOR Lektüre der betreffenden Apparate)
+
+Auf den 11 bisher geprüften einspaltigen KU-RO-Tafeln trennt das
+Kriterium „Rasur/Korrektur in zahltragender Zeile oder Totalzeile"
+perfekt zwischen Abweichlern (3/3) und exakten Tafeln (0/8). Die
+GORILA-Apparate der übrigen Abweichler-Tafeln (u. a. HT27a, HT102,
+HT110a, HT118, HT119, HT122a) wurden **bewusst noch nicht gelesen**.
+
+**Vorhersage:** Unter den strukturell sauberen dieser Tafeln (echte
+kleine Summenabweichung, kein Parser-/Schadensartefakt) zeigt die
+Mehrheit Rasuren/Korrekturen im numerischen Kontext; exakt aufgehende
+Tafeln zeigen solche weiterhin nicht.
+
+**Fehlschlag:** Numerische Rasuren treten bei künftig geprüften
+exakten Tafeln ähnlich häufig auf wie bei Abweichlern, oder die
+Mehrheit echter Abweichler ist apparat-sauber.
+
 ---
 
 *Methodik: exakte Fisher-Tests bzw. Arithmetik-Checks wie in den

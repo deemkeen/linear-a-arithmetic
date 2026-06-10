@@ -1,0 +1,32 @@
+==============================================================================
+H10 — Rasuren (GORILA-Apparat) vs. Arithmetik-Status
+==============================================================================
+Tafel     Status  Rasur   Rasur-numerisch  Apparat
+HT104     EXAKT   ja      —                .4 '⟦ ⟧ à la fin de la ligne' — leere Rasur am Zeilenende; Summe 45.5+
+HT117a    EXAKT   ja      —                .2 (et peut-être .1) sur ⟦ ⟧ — Kopf-/Namenszeilen über Rasur; Zahlen (
+HT11b     EXAKT   —       —                .1 Zeichenlesungen 'moins vraisemblable/pratiquement impossible'
+HT25b     EXAKT   —       —                sup. mut. (Kopf verloren, vor dem Constraint-Segment); ]vestigia[
+HT85a     EXAKT   —       —                .6 scheinbare 7. Einheit ist 'marque d'angle accidentelle'
+HT89      EXAKT   —       —                .5 letzte Einheit auf Kante, '5 ou 4' — Zeile NACH dem Total
+HT94b     EXAKT   —       —                .5/.6 Alternativlesungen nach vacat (separater Abschnitt)
+HT9b      EXAKT   —       —                nur Alternativlesungen (.1 'traces en fin de ligne', .2 'pas exclu')
+HT13      NAH     ja      ja               .4-7 sur ⟦ ⟧ — Zeilen 4-7 INKL. KU-RO über Rasur; .4 'doute possible s
+HT94a     NAH     ja      ja               .1 ⟦Zeichen⟧ und ⟦"⟧ = ZWEI GETILGTE EINERSTRICHE in Eintragszeile; .2
+HT9a      NAH     ja      ja               .2 Zeichen sur ⟦ ⟧; .6 '| ajouté après ⅍' — Einerstrich nachträglich i
+
+T1: Rasur irgendwo:
+   Abweichler 3/3 mit Rasur  vs.  Exakte 2/8 mit Rasur   ->  Fisher p=0.0606
+
+T2: Rasur in Zahl-/Totalzeile:
+   Abweichler 3/3 mit Rasur  vs.  Exakte 0/8 mit Rasur   ->  Fisher p=0.0061  ***
+
+Lesart: Rasuren kommen auch auf exakt summierenden Tafeln vor (HT104,
+HT117a) — dort aber peripher (leere Rasur am Zeilenende, Kopf-/Namens-
+zeilen) und die Rechnung geht auf: vollendete Korrekturen. Auf allen
+drei Abweichler-Tafeln sitzt das Rework dagegen in den zahltragenden
+Zeilen bzw. der Totalzeile selbst (HT9a: Strich in der Totalzeile
+nachgetragen; HT13: Zeilen 4-7 inkl. KU-RO über Rasur; HT94a: zwei
+getilgte Einerstriche im Eintrag). Die 'Schreiberfehler' des Korpus
+sind Residuen unvollständig nachgeführter Korrekturen.
+Kontext: auch HT123a (mehrspaltiger Abweichler) ist Palimpsest mit
+spaeteren Rasuren — konsistent mit dem Muster.

@@ -510,6 +510,29 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
    - Methodengrenze dokumentiert: Das LB-Serienkürzel kodiert den
      *Tafelinhalt*, nicht die *Wortrolle* (PA-I-TO erscheint in der
      D-Serie als Ort beim Hirtennamen, nicht als Person).
+11b. **H10 (Rasur-Hypothese): ✅ GESTÜTZT** — Arithmetik-Abweichungen
+   sind Residuen unvollständiger Korrekturen. GORILA-Apparat-Mining
+   (`data/gorila_apparatus.json`, manuell aus Vol. I gelesen;
+   `test_erasures.py`, Ergebnisse in `erasures_results.txt`) über
+   alle 11 einspaltig prüfbaren KU-RO-Tafeln:
+   - **T1 (Rasur irgendwo):** Abweichler 3/3 vs. Exakte 2/8 —
+     p=0,061, Tendenz.
+   - **T2 (Rasur in zahltragender Zeile oder Totalzeile):**
+     **Abweichler 3/3 vs. Exakte 0/8 — p=0,006, perfekte Trennung.**
+     HT9a: Einerstrich nachträglich in der Totalzeile; HT13: Zeilen
+     4–7 inkl. KU-RO über Rasur; HT94a: zwei getilgte Einerstriche
+     in der Eintragszeile. Die Rasuren der exakten Tafeln (HT104,
+     HT117a) sitzen dagegen peripher (leeres Zeilenende,
+     Kopf-/Namenszeilen) — vollendete Korrekturen.
+   - *Ehrlichkeits-Vermerk:* T2 wurde nach Sichtung der Daten
+     verfeinert (post hoc). Als präregistrierte Vorhersage für die
+     noch ungelesenen Abweichler-Tafeln formuliert (PREDICTIONS
+     P-VI).
+   - Konsequenz: Die Minoer rechneten korrekt; „Schreiberfehler"
+     im Korpus markieren *Buchungs-Updates* (Tafeln wurden
+     nachgeführt, Summen nicht immer mitgezogen). Das macht
+     Abweichungs-Tafeln zu Kandidaten für *zeitliche Tiefe* in der
+     Verwaltung (Erst- vs. Zweitbuchung) — eine neue Deutungsebene.
 11. **H8 (Ligatur-Akrophonie): ❌ VERWORFEN** (in der HT31-Form).
    `test_ligatures.py`: Die ligierten Silbenzeichen auf
    Gefäß-Logogrammen (+RU 9×, +L2, +RO, +E, +KE, +A, +SU, +F; n=25)

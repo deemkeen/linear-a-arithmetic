@@ -1,0 +1,18 @@
+{
+ "_quelle": "GORILA Vol. I (Godart/Olivier), kritischer Apparat; manuell gelesen am 10.06.2026 aus corpus-src/papers/GORILA-Vol1.pdf. Seitenangaben = Buchseiten.",
+ "_kodierung": "rework = jegliche Rasur/Korrektur (⟦ ⟧, 'sur ⟦⟧', 'ajouté', palimpseste); rework_numerisch = Rasur/Korrektur in zahltragender Zeile oder Totalzeile",
+ "HT9b":   {"status": "EXAKT", "seite": 19,  "rework": false, "rework_numerisch": false, "apparat": "nur Alternativlesungen (.1 'traces en fin de ligne', .2 'pas exclu')"},
+ "HT11b":  {"status": "EXAKT", "seite": 23,  "rework": false, "rework_numerisch": false, "apparat": ".1 Zeichenlesungen 'moins vraisemblable/pratiquement impossible'"},
+ "HT25b":  {"status": "EXAKT", "seite": 45,  "rework": false, "rework_numerisch": false, "apparat": "sup. mut. (Kopf verloren, vor dem Constraint-Segment); ]vestigia["},
+ "HT85a":  {"status": "EXAKT", "seite": 131, "rework": false, "rework_numerisch": false, "apparat": ".6 scheinbare 7. Einheit ist 'marque d'angle accidentelle'"},
+ "HT89":   {"status": "EXAKT", "seite": 141, "rework": false, "rework_numerisch": false, "apparat": ".5 letzte Einheit auf Kante, '5 ou 4' — Zeile NACH dem Total"},
+ "HT94b":  {"status": "EXAKT", "seite": 153, "rework": false, "rework_numerisch": false, "apparat": ".5/.6 Alternativlesungen nach vacat (separater Abschnitt)"},
+ "HT104":  {"status": "EXAKT", "seite": 171, "rework": true,  "rework_numerisch": false, "apparat": ".4 '⟦ ⟧ à la fin de la ligne' — leere Rasur am Zeilenende; Summe 45.5+20.5+29=95 exakt (vollendete Korrektur)"},
+ "HT117a": {"status": "EXAKT", "seite": 197, "rework": true,  "rework_numerisch": false, "apparat": ".2 (et peut-être .1) sur ⟦ ⟧ — Kopf-/Namenszeilen über Rasur; Zahlen (10x1=10) unberührt"},
+ "HT9a":   {"status": "NAH", "delta": 0.75, "seite": 19,  "rework": true, "rework_numerisch": true, "apparat": ".2 Zeichen sur ⟦ ⟧; .6 '| ajouté après ⅍' — Einerstrich nachträglich in der TOTALZEILE; GORILA-Total '31 ⅍ (+⁊)'"},
+ "HT13":   {"status": "NAH", "delta": 0.5,  "seite": 27,  "rework": true, "rework_numerisch": true, "apparat": ".4-7 sur ⟦ ⟧ — Zeilen 4-7 INKL. KU-RO über Rasur; .4 'doute possible sur la quatrième unité' (18 evtl. 17); RE-ZA '5[]∠'"},
+ "HT94a":  {"status": "NAH", "delta": 1.0,  "seite": 151, "rework": true, "rework_numerisch": true, "apparat": ".1 ⟦Zeichen⟧ und ⟦\"⟧ = ZWEI GETILGTE EINERSTRICHE in Eintragszeile; .2 Numeral läuft per → auf Tafelkante"},
+ "_kontext_HT123a": {"status": "ABW (mehrspaltig)", "seite": 211, "rework": true, "rework_numerisch": true, "apparat": "1-9 sur palimpseste; ultérieure ⟦ ⟧ aux ll. 1-2, début 4 et 7-8; .8 effacement"},
+ "_kontext_HT11a": {"status": "ABW (Strukturartefakt)", "seite": 23, "rework": true, "rework_numerisch": false, "apparat": ".1 φ sur ⟦ ⟧; .2 + sur ⟦⫬⟧ ou ⟦Y⟧"},
+ "_kontext_HT85b": {"status": "(keine pruefbare Summe)", "seite": 133, "rework": true, "rework_numerisch": false, "apparat": ".3 Zeichen sur ⟦…⟧; Lücke wegen 'gros caillou' im Ton"}
+}
