@@ -2,6 +2,12 @@
 H10 — Rasuren (GORILA-Apparat) vs. Arithmetik-Status
 ==============================================================================
 Tafel     Status  Rasur   Rasur-numerisch  Apparat
+HT110a    ABW-Artefakt —       —                KU-RO '100[' mit Bruchkante, Einträge verloren; nur Zeichenspur-Noten,
+HT122a    ABW-Artefakt —       —                Lacunae (vest.[, ]..[-Kanten), Wörter/Zahlen verloren; keine Rasur-Ver
+HT27a     ABW-Artefakt ja      ja               Einträge mit Bruchkanten (90[, ]50, 30[, 43[) = Lücken; ZUSÄTZLICH .1 
+HT118     ABW-Artefakt/Spalten-Tafel ja      ja               .1-5 sur ⟦ ⟧ — GESAMTE Tafel über Rasur (Komplett-Palimpsest); .4 'peu
+HT102     ABW-Kandidat ja      ja               .3 '2 premières dizaines sur ⟦||⟧' — ZEHNER über Rasur; .2 Bruchspur '
+HT119     ABW-Kandidat —       —                KEINE Rasur; aber Zahllesung des Grosseintrags unsicher: GORILA liest 
 HT104     EXAKT   ja      —                .4 '⟦ ⟧ à la fin de la ligne' — leere Rasur am Zeilenende; Summe 45.5+
 HT117a    EXAKT   ja      —                .2 (et peut-être .1) sur ⟦ ⟧ — Kopf-/Namenszeilen über Rasur; Zahlen (
 HT11b     EXAKT   —       —                .1 Zeichenlesungen 'moins vraisemblable/pratiquement impossible'
@@ -19,6 +25,36 @@ T1: Rasur irgendwo:
 
 T2: Rasur in Zahl-/Totalzeile:
    Abweichler 3/3 mit Rasur  vs.  Exakte 0/8 mit Rasur   ->  Fisher p=0.0061  ***
+
+==============================================================================
+P-VI-Auflösung — die sechs bewusst ungelesenen Abweichler-Apparate
+==============================================================================
+Blind-Klassifikation VOR Apparat-Lektüre (im Chat-Protokoll dokumentiert):
+  echte Kandidaten: HT102 (Δ=10), HT119 (Δ=2)
+  Artefakte: HT27a, HT110a, HT118 (zweispaltig!), HT122a
+
+Ergebnis auf den registrierten Kandidaten:
+  HT102: ✅ TREFFER — Zehner über Rasur (.3), dazu GORILAs eigene Notiz
+         einer nicht ins Total übernommenen Bruchspur (.2)
+  HT119: ❌ keine Rasur — stattdessen unsichere Zahllesung (GORILA 68
+         vs. lineara 67); mit 68 ist Δ=1: die Abweichung ist evtl. ein
+         MODERNES Lesungsartefakt, kein antiker Fehler
+
+Strikte P-VI-Wertung: 1/2 Kandidaten mit numerischer Rasur — die
+'Mehrheits'-Vorhersage ist damit NICHT bestätigt, aber auch nicht
+falsifiziert (Fehlschlag-Kriterium 'Mehrheit apparat-sauber' ebenfalls
+nicht erfüllt: HT119 trägt eine dokumentierte Zahl-Unsicherheit).
+Verdikt: unterbestimmt bei N=2; die Kernthese 'echte Abweichungen =
+unvollständige Updates' wird von HT102 stark gestützt und von HT119
+auf anderem Weg (Abweichung löst sich womöglich in Lesung auf).
+
+Addendum (post hoc, klar markiert): HT118 erwies sich als zweispaltige
+Tafel (Blind-Strukturlesung von GORILAs Layout bestätigt): KI-Spalte
+summiert EXAKT (10+4+1=15), Hauptspalte weicht ab (35 vs. KU-RO 30) —
+und die GESAMTE Tafel steht über einer Rasur ('.1-5 sur ⟦ ⟧') mit evtl.
+getilgtem Einerstrich in .4. Als Spalten-geprüfter Abweichler gerechnet
+ergäbe sich 5/5 vs. 0/8 (p=0.0008) — wegen post-hoc-Status nur als
+Ausblick, nicht als Testergebnis berichtet.
 
 Lesart: Rasuren kommen auch auf exakt summierenden Tafeln vor (HT104,
 HT117a) — dort aber peripher (leere Rasur am Zeilenende, Kopf-/Namens-

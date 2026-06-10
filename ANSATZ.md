@@ -528,6 +528,26 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      verfeinert (post hoc). Als präregistrierte Vorhersage für die
      noch ungelesenen Abweichler-Tafeln formuliert (PREDICTIONS
      P-VI).
+   - **P-VI-Auflösung (selber Tag, nach Blind-Klassifikation):**
+     Unter den sechs ungelesenen Tafeln waren nur zwei echte
+     Abweichler-Kandidaten. **HT102 ✅:** Zehner über Rasur ⟦||⟧,
+     dazu GORILAs eigene Notiz einer *nicht ins Total übernommenen*
+     Bruchspur — der Update-Mechanismus wörtlich im Apparat.
+     **HT119 ❌:** keine Rasur; stattdessen unsichere Zahllesung
+     (GORILA 68 vs. lineara 67; mit 68 ist Δ=1) — die Abweichung ist
+     womöglich ein modernes Lesungs-, kein antikes Korrektur-Residuum.
+     Strikt: 1/2, **unterbestimmt**. Addendum (post hoc markiert):
+     **HT118** ist ein Komplett-Palimpsest („.1-5 sur ⟦ ⟧", dazu evtl.
+     getilgter Einerstrich) und erwies sich als zweispaltige Tafel —
+     die KI-Spalte summiert exakt (10+4+1 = 15 = Schluss-KI; zweiter
+     Spaltenbuchhaltungs-Beleg neben HT123, KI wohl = KI-RO
+     abgekürzt → stützt H6/T1), die Hauptspalte weicht ab (35 vs.
+     KU-RO 30). Würde man HT118 als spalten-geprüften Abweichler
+     zählen: 5/5 vs. 0/8 (p=0,0008) — als Ausblick, nicht als
+     Testergebnis.
+   - *Weitere Datenbank-Diskrepanzen entdeckt:* HT119-Eintrag 67
+     (lineara) vs. 68 (GORILA); HT27a-Total 335 (lineara) vs. 355
+     (GORILA).
    - Konsequenz: Die Minoer rechneten korrekt; „Schreiberfehler"
      im Korpus markieren *Buchungs-Updates* (Tafeln wurden
      nachgeführt, Summen nicht immer mitgezogen). Das macht

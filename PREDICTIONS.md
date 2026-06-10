@@ -98,6 +98,19 @@ Tafeln zeigen solche weiterhin nicht.
 exakten Tafeln ähnlich häufig auf wie bei Abweichlern, oder die
 Mehrheit echter Abweichler ist apparat-sauber.
 
+**→ AUFGELÖST am 10.06.2026 (gleicher Tag, nach Blind-Klassifikation):**
+Echte Kandidaten unter den sechs: HT102, HT119. Ergebnis:
+**HT102 ✅** (Zehner über Rasur ⟦||⟧; GORILA notiert selbst eine nicht
+ins Total übernommene Bruchspur — der Update-Mechanismus in actu);
+**HT119 ❌** (keine Rasur, aber unsichere Zahllesung 67/68 — die
+Abweichung ist womöglich ein modernes Lesungsartefakt, kein antiker
+Fehler). Strikte Wertung: 1/2 — **unterbestimmt**, weder bestätigt
+noch falsifiziert. Die Kernthese wird von HT102 direkt und von HT119
+indirekt gestützt. Addendum: HT118 (Komplett-Palimpsest „.1-5 sur
+⟦ ⟧") erwies sich als zweispaltige Tafel mit exakt summierender
+KI-Spalte und abweichender Hauptspalte — als post hoc markierter
+Zusatzbeleg. Details: `test_erasures.py` / `data/gorila_apparatus.json`.
+
 ---
 
 *Methodik: exakte Fisher-Tests bzw. Arithmetik-Checks wie in den
