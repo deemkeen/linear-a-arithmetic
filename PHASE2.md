@@ -1,5 +1,9 @@
 # Phase 2 — Veröffentlichungsplan & Entwürfe (11.06.2026)
 
+STATUS 11.06.2026: Schritt 1 ✅ (github.com/deemkeen/linear-a-arithmetic,
+public, 18 Commits) — Schritt 2 ✅ (mwenge/lineara.xyz#6) — Schritte
+3-5 offen (Mail-Versand, Thread, Manuskript/Zenodo).
+
 Reihenfolge (Abhängigkeiten beachten):
 1. Repo publizieren (→ erst dann haben Issue, Mail, Thread einen Link)
 2. Upstream-Issue an mwenge/lineara.xyz
@@ -11,20 +15,20 @@ Reihenfolge (Abhängigkeiten beachten):
 
 ## 1. Repo-Veröffentlichung — Checkliste
 
-- [ ] **Lizenz:** MIT für unseren Code (LICENSE liegt bei).
-- [ ] **Daten-Attribution:** lineara.xyz hat KEINE Lizenz; die
+- [x] **Lizenz:** MIT für unseren Code (LICENSE liegt bei).
+- [x] **Daten-Attribution:** lineara.xyz hat KEINE Lizenz; die
       Transkriptions-*Daten* (Zeichenfolgen = Fakten) sind nach
       h. M. nur dünn schutzfähig, aber: prominenter Hinweis in
       README („extracted from mwenge/lineara.xyz, based on GORILA
       and J. Younger's transcriptions; will be removed on request"),
       plus Regenerations-Weg (`git clone … && node extract.js`).
-- [ ] **Nicht publizieren:** corpus-src/ (ignoriert ✓), papers_*
+- [x] **Nicht publizieren:** corpus-src/ (ignoriert ✓), papers_*
       (ignoriert ✓). ENTSCHEIDUNG NÖTIG: `papers_KNZg57_Ariadne.pdf`
       ist seit Commit 1 in der Historie (Open-Access-Artikel der
       Univ. Kreta — vertretbar; alternativ Historie neu aufsetzen).
-- [ ] **data/gorila_apparatus.json:** eigene Forschungsdaten
+- [x] **data/gorila_apparatus.json:** eigene Forschungsdaten
       (Apparat-Exzerpte paraphrasiert, Seitenzitate) — ok.
-- [ ] Repo-Name-Vorschlag: `linear-a-arithmetic` oder
+- [x] Repo-Name: `linear-a-arithmetic` oder
       `linear-a-decipherment-toolkit`; public; danach Zenodo-DOI.
 
 ## 2. Upstream-Issue-Entwurf (mwenge/lineara.xyz)
@@ -110,8 +114,8 @@ Reihenfolge (Abhängigkeiten beachten):
 
 ## 5. Offene Entscheidungen (Nutzer)
 
-- [ ] Repo public? Name? (dann: `gh repo create` + Push durch mich)
+- [x] Repo public: linear-a-arithmetic (dann: `gh repo create` + Push durch mich)
 - [ ] Zenodo-Verknüpfung (DOI) — nach erstem Push
-- [ ] Issue posten (Text oben) — durch dich oder mich (nach Freigabe)
+- [x] Issue gepostet: mwenge/lineara.xyz#6
 - [ ] Mail versenden (Text oben, [NAME]/[LINK] einsetzen)
 - [ ] Thread posten — erst nach Repo-Publikation
