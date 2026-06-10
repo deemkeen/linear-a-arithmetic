@@ -10,3 +10,6 @@ papers_Younger_*.pdf
 papers_Montecchi*.pdf
 papers_Facchetti*.pdf
 papers_Corazza*.pdf
+
+# lokale Entwürfe (nicht veröffentlichen)
+*.local.txt
