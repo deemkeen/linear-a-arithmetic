@@ -43,6 +43,43 @@ erneut laden. Younger-Download ist nur die *Introduction* — die
 eigentlichen Tafelkommentare (HT-Texts-Dateien) fehlen. Montecchi-
 Download ist eine 16-seitige Leseprobe — Volltext fehlt.
 
+## ⚠️ UPDATE 3: Corazza-Volltext gelesen — Befund 1 wird zur
+## „Rehabilitation der klassischen Werte" (11.06.2026)
+
+Das richtige PDF (105214) liegt vor. Drei entscheidende Erkenntnisse:
+
+1. **Table 3 (frühere Wertvorschläge): H = 1/3 ist der KLASSISCHE
+   Wert** (Bennett 1950, Stoltenberg 1955, mind. ein weiterer; gestützt
+   durch Kombinationen H-H-H = 1 und J-H = 5/6 in mehreren Systemen).
+   **A = 1/12 hat ebenfalls Vorgänger** (mind. zwei Spalten; J-A = 7/12).
+   Unsere „neuen" Werte sind also die klassischen — **und genau dieses
+   klassische Paar erfüllt unsere Spaltengleichung exakt:
+   1/3 = 1/12 + 1/4 ✓.** Corazzas tentatives Paar (1/16, 1/24)
+   verletzt sie. Damit wird Befund 1 zur sauberen These: *Die
+   HT123-Spaltenstruktur arbitriert den Streit klassisch vs. modern —
+   zugunsten von Bennett.*
+2. **Corazza et al. haben HT123 BEWUSST AUSGESCHLOSSEN** („contains
+   doubtful readings and scribal errors (Montecchi, 2009), thus we
+   had to exclude it"). Unser OLIV-Exaktheits-Argument (Spalte
+   summiert perfekt ⟹ Eintragsliste vollständig & arithmetisch
+   belastbar) ist die direkte Antwort auf diesen Ausschlussgrund —
+   das ist der publizierbare Kern.
+3. **Cash & Cash 2011 (Kadmos 50): ein ganzer Aufsatz über HT 123**
+   („La tablette HT 123: une comptabilité en linéaire A … conséquences
+   sur les valeurs des fractions"; dort X = 9/20, L2 = 1/24 aus 123b).
+   HT123 als Bruchwert-Quelle ist also gut beackert — **Pflichtlektüre**,
+   um unsere Abgrenzung (reine Spaltensummen statt Ratio-/Soll-Modelle;
+   X = 7/4 aus der KI-RO-Spalte) sauber zu ziehen.
+4. **Montecchi 2009, „Le frazioni, gli errori di calcolo e le unità
+   di misura nella documentazione in lineare A"** — eigener Aufsatz
+   über *Rechenfehler* in Linear A: **direktes Prior-Art-Risiko für
+   H10** (hat sie Fehler mit Rasuren/Updates verknüpft?).
+   Pflichtlektüre vor jeder H10-Publikation.
+
+**Neue Beschaffungsliste:** Cash & Cash 2011 (Kadmos 50, De Gruyter,
+paywalled — Bibliothek/Autoren); Montecchi 2009 (vermutlich auf ihrem
+academia.edu-Profil); Montecchi 2019 Volltext (wie gehabt).
+
 ## ⚠️ UPDATE 2: Youngers Tafelkommentare lagen LOKAL vor
 (corpus-src/commentary/*.html, von lineara.xyz gespiegelt, © Younger)
 

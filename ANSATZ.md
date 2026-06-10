@@ -482,6 +482,18 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      Zeichen, und der Widerspruch zu deren H=1/16 bestünde weiter
      (H müsste ≥ ¼ sein), aber der konkrete A-Wert entfiele.
      Prüfbar an der Zg58-Bruchsequenz (PREDICTIONS P-III).
+     **Literatur-Einordnung (Corazza-Volltext, 11.06.2026):**
+     H=1/3 ist Bennetts klassischer Wert (1950; auch Stoltenberg
+     1955), A=1/12 hat ebenfalls Vorgänger — **das klassische Paar
+     erfüllt unsere Spaltengleichung exakt (1/3 = 1/12 + 1/4)**,
+     Corazzas tentatives Paar nicht. Corazza et al. schlossen HT123
+     wegen „doubtful readings and scribal errors" (Montecchi 2009)
+     bewusst aus; unser OLIV-Exaktheits-Argument entkräftet diesen
+     Ausschlussgrund für die Spaltenarithmetik. Befund 1 ist damit
+     präzise: *Die HT123-Spaltenstruktur arbitriert zwischen
+     klassischen und modernen Werten — zugunsten der klassischen.*
+     Abzugrenzen gegen Cash & Cash 2011 (Kadmos 50, eigener
+     HT123-Aufsatz; X=9/20) — Pflichtlektüre, s. LITERATUR.md.
 10. **H7 (X ~ X-TE als Positions-/Herkunftssuffix):**
    `test_te_suffix.py`. **10 Alternationspaare gefunden** (6× -TE,
    4× -NE), darunter A-DI-KI-TE ~ **A-DI-KI-TE-TE** (Toponym Dikte +
