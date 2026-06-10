@@ -394,19 +394,31 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      Summe „25 + A706-H"). Daraus folgt, unabhängig von den
      Absolutwerten: **A706(H) − A701(A) = ¼**. Direkter Input für die
      geplante Bruchwert-Inferenz (H9).
-   - **T2 ❌ Komplement-These in dieser Form widerlegt:** Die
-     KI-RO-Schlusszeile („KI-RO 6") kann *nicht* die Summe der
-     KI-RO-Spalte sein: Einträge = 1+X, X, ¾, ¾ (X = A711, Wert
-     unbekannt) ⟹ Σ ≤ 4½ < 6 für jeden Bruchwert X ≤ 1 — und da die
-     OLIV-Spalte exakt aufgeht, fehlen keine Einträge. Die
-     Schluss-KI-RO zählt also eine andere Größe (Stückzahl? andere
-     Einheit?), oder A711 ist kein Bruch-, sondern ein Mengenzeichen
-     ≥ 1¾. Scharfe Nebenbedingung für jede künftige
-     Klasma-Rekonstruktion.
+   - **T2 🔶 Komplement-These nicht haltbar — aber lesungsabhängig
+     (Faksimile-Verifikation, s. u.):** Unter der lineara-Lesung
+     („KI-RO 6") kann die Schlusszeile nicht die Spaltensumme sein:
+     Einträge = 1+X, X, ¾, ¾ ⟹ Σ ≤ 4½ < 6 für jeden Bruchwert X ≤ 1 —
+     und da die OLIV-Spalte exakt aufgeht, fehlen keine Einträge.
+     **Aber:** Der GORILA-Apparat (Note .9) liest die Schlusszahl als
+     unsicher — „IIII et fraction ou IIII[" (4+Bruch oder 4+Kante).
+     Bei Lesung „4+f" gälte die Ungleichung nur noch für X < ¾.
+     Wahrscheinlich bleibt: Schluss-KI-RO ≠ einfache Spaltensumme;
+     bewiesen ist es nur für Lesungen ≥ 5½.
    - *Datenqualität:* lineara.xyz rendert A711 als „.3" und
      A701/A706 pauschal als „≈ ⅙" — die Klasma-Zeichen sind im
      Datensatz nur näherungsweise kodiert (dokumentiert; für H9 muss
      auf die Unicode-Originalzeichen zurückgegriffen werden).
+   - **Faksimile-Verifikation (GORILA I, S. 210–211, lokal im Klon):**
+     (a) ✓ OLIV-Spalte und Summe 93½ am Original-Faksimile bestätigt
+     (∠ = J = ½ durchgängig konsistent); T1 steht. (b) ⚠️ Im
+     SA-RU-Eintrag der *308-Spalte zeichnet GORILA „4 ♯[" — dieselbe
+     ♯-Form wie das X (A711) der KI-RO-Spalte, mit Bruchkante und
+     unsicheren Spuren (Apparat .5); lineara kodiert hier dagegen
+     A701 „A". Die Spaltengleichung lautet daher korrekt
+     **H − (A oder X) = ¼**. (c) ⚠️ Die Schluss-KI-RO-Zahl ist per
+     Apparat .9 unsicher („4+Bruch oder 4+["), nicht hart „6".
+     (d) Die Tafel ist ein **Palimpsest** (Apparat 1–9) — erhöhte
+     Lesungsunsicherheit generell.
 9. **H9 (Bruchwert-Inferenz):** `solve_fractions.py` behandelt die
    Klasma-Werte als Unbekannte und sucht per Max-SAT die Belegung, die
    maximal viele KU-RO-Gleichungen erfüllt (auf Unicode-Originalzeichen;
@@ -431,9 +443,13 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      H−A=¼** (Δ=+0,23). Auflösung, die beides heilt: **A=1/12,
      H=1/3** — erfüllt die Gleichung exakt und füllt zugleich die
      auffällige 1/3-Lücke in Corazzas Optimalsystem (typologisch ist
-     ein Bruchsystem ohne 1/3 ungewöhnlich). Vorbehalt: hängt an einer
-     Tafel, und der Eintrag „4+A" trägt ein zweites, unlesbares
-     Zeichen (U+1076B) — Lesung am GORILA-Faksimile zu verifizieren.
+     ein Bruchsystem ohne 1/3 ungewöhnlich).
+     **Nach Faksimile-Verifikation (s. H6) gilt der Vorschlag nur
+     bedingt:** GORILAs Umzeichnung legt nahe, dass das Eintrags-
+     zeichen X (A711) statt A (A701) sein könnte. Falls X: Die
+     Gleichung H − X = ¼ beträfe das von Corazza ausgeschlossene
+     Zeichen, und der Widerspruch zu deren H=1/16 bestünde weiter
+     (H müsste ≥ ¼ sein), aber der konkrete A-Wert entfiele.
      Prüfbar an der Zg58-Bruchsequenz (PREDICTIONS P-III).
 10. **H7 (X ~ X-TE als Positions-/Herkunftssuffix):**
    `test_te_suffix.py`. **10 Alternationspaare gefunden** (6× -TE,
