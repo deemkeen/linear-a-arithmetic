@@ -407,6 +407,42 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      A701/A706 pauschal als „≈ ⅙" — die Klasma-Zeichen sind im
      Datensatz nur näherungsweise kodiert (dokumentiert; für H9 muss
      auf die Unicode-Originalzeichen zurückgegriffen werden).
+9. **H9 (Bruchwert-Inferenz):** `solve_fractions.py` behandelt die
+   Klasma-Werte als Unbekannte und sucht per Max-SAT die Belegung, die
+   maximal viele KU-RO-Gleichungen erfüllt (auf Unicode-Originalzeichen;
+   Ergebnisse in `fractions_results.txt`).
+   - Nur **4 Arithmetik-Constraints** im Korpus enthalten Klasma —
+     davon sind zwei die bekannten Fehler-Tafeln: **HT13 ist
+     wert-unabhängig unerfüllbar** (2J = J ⟹ Schreiberfehler bewiesen,
+     ohne J zu kennen), HT9a verlangt 2J+E=2 (mit keinem plausiblen
+     Wertepaar erfüllbar).
+   - Verankerter Modus (J=½, E=¼ fix): eindeutig **A732 JE = ¾**
+     (konsistent mit dem Ligatur-Axiom JE=J+E); A701/A706 bleiben eine
+     einparametrige Familie **H = A + ¼** (aus H6).
+   - **Fazit:** Die Methode funktioniert, aber die Constraint-Basis des
+     Korpus ist zu dünn für Absolutwerte. Nächster Schritt: Abgleich
+     mit der Wertetabelle von Corazza et al. 2021 (Open Access:
+     flore.unifi.it) und — sobald publiziert — der Zg58-Sequenz
+     (PREDICTIONS P-III).
+10. **H7 (X ~ X-TE als Positions-/Herkunftssuffix):**
+   `test_te_suffix.py`. **10 Alternationspaare gefunden** (6× -TE,
+   4× -NE), darunter A-DI-KI-TE ~ **A-DI-KI-TE-TE** (Toponym Dikte +
+   TE, auf der Libationsformel PKZa11 — „von/aus Dikte"?) und SI-RU ~
+   SI-RU-TE. Positionssignal in der vorhergesagten Richtung: Bei den
+   tafel-belegten -TE-Paaren kippt die Position durchgängig
+   Listenkörper→Header (DU-RI→DU-RI-TE, KU-NI→KU-NI-TE; gepoolt
+   p=0,14, N=7). **🔶 Tendenz, N zu klein** — bei -NE kein Signal
+   (p=1,0). Abtrennbarkeit des Suffixes ist damit belegt, die
+   Funktionszuweisung braucht mehr Tafeln.
+11. **H8 (Ligatur-Akrophonie): ❌ VERWORFEN** (in der HT31-Form).
+   `test_ligatures.py`: Die ligierten Silbenzeichen auf
+   Gefäß-Logogrammen (+RU 9×, +L2, +RO, +E, +KE, +A, +SU, +F; n=25)
+   treffen die Anfangssilben der HT31-Gefäßnamen nur 1× — bei ~4
+   Treffern Zufallserwartung (P(≥1)=0,99, eher *unter* Zufall). Die
+   Ligaturzeichen kodieren also nicht den Gefäßtyp-Namen akrophon,
+   sondern etwas anderes (Inhalt? Qualität? Kapazität?) — konsistent
+   damit, dass das Zepter-Paper sie als Inhalts-/Typangaben *neben*
+   selbsterklärenden Gefäßformen beschreibt.
 
 ## 5. Realistische Erwartung
 
@@ -419,7 +455,11 @@ Schichten**, von denen die ersten zwei heute schon stehen:
 1. ✅ Lesung (Lautwerte, Zahlen, Logogramme) — 94 % der Tokens
 2. ✅ Textpragmatik (Buchhaltung verstehen ohne Sprache)
 3. 🔶 Morphologie-Skelett (AP2 + Libationsformel) — in Arbeit, hier begonnen
-4. 🔶 Funktions- und Namenslexikon (AP3/AP4) — ~50–100 Wörter realistisch
+4. 🔶 Funktions- und Namenslexikon (AP3/AP4) — erste Version steht:
+   `build_lexicon.py` klassifiziert 67 Wörter regelbasiert nach
+   Distributionsvektoren (funktionswort / kultwort / toponym-anker /
+   personenname? / header-wort), alle fünf Sanity-Anker korrekt
+   (`data/lexicon_classes.json`)
 5. ❌ Sprachzuordnung mit Beweiskraft (AP5/AP6) — nur als Wahrscheinlichkeits-
    Ranking erreichbar
 6. ❌ Übersetzung zusammenhängender Texte — braucht neue Funde

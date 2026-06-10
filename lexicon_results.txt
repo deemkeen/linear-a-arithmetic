@@ -1,0 +1,28 @@
+==============================================================================
+Wortklassen-Lexikon: 67 Wörter mit n>=3
+==============================================================================
+
+unklassifiziert (30):
+   KI-RO(16), DA-RE(7), MA-DI(6), KA-PA(6), DI-NA-U(6), KU-NI-SU(5), SA-RO(4), SA-MA(4), MI-NU-TE(4), KI-RE-TA-NA(4), JE-DI(4), DA-SI-*118(4), DA-RI-DA(4), DA-ME(4), A-SE(4), *306-TU(4), U-*325-ZA(3), RE-ZA(3)
+
+header-wort (12):
+   I-RA₂(8), SI-KA(6), DA-KA(5), JA-SA(4), *86-RO(4), U-*34-SI(3), KA-KU-PA(3), DA-QE-RA(3), A-MA(3), A-KA-RU(3), A-JA(3), *21F-TU-NE(3)
+
+personenname? (11):
+   KU-PA₃-NU(8), TA-NA-TI(4), QA-*310-I(4), PA-JA-RE(4), KU-PA(4), TE-TU(3), TE-RI(3), SI-PI-KI(3), PA-TA-NE(3), PA-DE(3), *324-DI-RA(3)
+
+toponym-anker (5):
+   I-DA(5), PA-I-TO(2), SU-KI-RI-TA(1), SE-TO-I-JA(1), A-DI-KI-TE(1)
+
+kultwort (5):
+   A-TA-I-*301-WA-JA(11), SI-RU-TE(7), JA-SA-SA-RA-ME(7), I-PI-NA-MA(6), U-NA-KA-NA-SI(4)
+
+funktionswort (4):
+   KU-RO(37), SA-RA₂(20), A-DU(10), SA-RU(6)
+
+Sanity-Anker (erwartete Klassen):
+   SA-RA₂           erwartet=funktionswort   bekommen=funktionswort  ✓
+   KU-RO            erwartet=funktionswort   bekommen=funktionswort  ✓
+   JA-SA-SA-RA-ME   erwartet=kultwort        bekommen=kultwort  ✓
+   PA-I-TO          erwartet=toponym-anker   bekommen=toponym-anker  ✓
+   KU-PA₃-NU        erwartet=personenname?   bekommen=personenname?  ✓

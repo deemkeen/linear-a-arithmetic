@@ -1,0 +1,20 @@
+==============================================================================
+H8 — Gefäß-Ligaturen (*4xx+Silbenzeichen) im Korpus
+==============================================================================
+ligierte Zeichen: RU(9x), L2(4x), RO(3x), E(3x), KE(2x), A(2x), SU(1x), F(1x)
+
+HT31-Gefäßwörter: ['TI-SA', 'PU-KO', '*815-QA-PA₃', 'SA-JA-MA', 'KI-DE-MA-*323-NA', '*815-SU-PA₃-RA', '*815-PA-TA-QE']
+Anfangssilben der Gefäßwörter: ['KI', 'PA', 'PU', 'QA', 'SA', 'SU', 'TI']
+
+Treffer (tokenweise): 1/25 Ligatur-Vorkommen tragen eine HT31-Gefäßwort-Anfangssilbe
+   +RU    9x  ->  —
+   +L2    4x  ->  —
+   +RO    3x  ->  —
+   +E     3x  ->  —
+   +KE    2x  ->  —
+   +A     2x  ->  —
+   +SU    1x  ->  *815-SU-PA₃-RA
+   +F     1x  ->  —
+
+Nullmodell: P(zufälliges Initialzeichen ist HT31-Anfangssilbe) = 0.16
+Binomialtest P(>= 1/25 Treffer) = 0.9855

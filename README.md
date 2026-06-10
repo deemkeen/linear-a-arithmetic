@@ -19,6 +19,14 @@ Reproduzierbare Analyse des Linear-A-Korpus (GORILA / J. Younger, via
   (Ergebnisse in `dialect_results.txt`)
 - `test_kiro_columns.py` — H6: Mehrspalten-Arithmetik & KI-RO-Komplement
   (Ergebnisse in `kiro_columns_results.txt`)
+- `solve_fractions.py` — H9: Klasma-Werte als Max-SAT über
+  KU-RO-Constraints (`fractions_results.txt`)
+- `test_te_suffix.py` — H7: X ~ X-TE/-NE Alternationspaare und Position
+  (`te_suffix_results.txt`)
+- `test_ligatures.py` — H8: Akrophonie-Test der Gefäß-Ligaturen gegen HT31
+  (`ligatures_results.txt`)
+- `build_lexicon.py` — Wortklassen-Lexikon aus Distributionsvektoren
+  (`data/lexicon_classes.json`, `lexicon_results.txt`)
 - `audit_support.py` — leitet Dokumenttypen aus der GORILA-Seriensystematik
   ab und schreibt `data/support_corrections.json` (wird von corpus_lib
   automatisch angewandt)

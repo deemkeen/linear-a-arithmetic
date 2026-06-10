@@ -1,0 +1,22 @@
+==============================================================================
+H7 — Paare X ~ X-TE
+==============================================================================
+   A-DI-KI-TE       (1x, Tafel H/L 0/0)   ~   A-DI-KI-TE-TE      (1x, Tafel H/L 0/0)
+   A-TA-NA          (1x, Tafel H/L 0/1)   ~   A-TA-NA-TE         (1x, Tafel H/L 0/1)
+   DU-RI            (1x, Tafel H/L 0/1)   ~   DU-RI-TE           (1x, Tafel H/L 1/0)
+   I-JA             (2x, Tafel H/L 0/0)   ~   I-JA-TE            (1x, Tafel H/L 0/0)
+   KU-NI            (1x, Tafel H/L 0/1)   ~   KU-NI-TE           (1x, Tafel H/L 1/0)
+   SI-RU            (2x, Tafel H/L 0/1)   ~   SI-RU-TE           (7x, Tafel H/L 0/0)
+
+   gepoolt: X-TE Header 2/3 vs. X Header 0/4  ->  Fisher p=0.1429
+
+==============================================================================
+H7 — Paare X ~ X-NE
+==============================================================================
+   *21F-TU          (1x, Tafel H/L 0/1)   ~   *21F-TU-NE         (3x, Tafel H/L 3/0)
+   PA-RA            (2x, Tafel H/L 1/1)   ~   PA-RA-NE           (2x, Tafel H/L 1/1)
+   PA-TA            (1x, Tafel H/L 0/0)   ~   PA-TA-NE           (3x, Tafel H/L 0/2)
+   QE-TU            (1x, Tafel H/L 1/0)   ~   QE-TU-NE           (1x, Tafel H/L 0/1)
+
+   gepoolt: X-NE Header 4/8 vs. X Header 2/4  ->  Fisher p=1.0000
+

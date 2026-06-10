@@ -1,0 +1,1002 @@
+{
+ "*188-DU": {
+  "begruendung": "",
+  "initial_rate": 0.67,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 3,
+  "register": {
+   "siegel": 2,
+   "verwaltung": 1
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "*21F-*118": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Khania",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "*21F-TU-NE": {
+  "begruendung": "textinitial 3/3, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": 1.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.33
+ },
+ "*28B-NU-MA-RE": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 13.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "*306-TU": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 8.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "*324-DI-RA": {
+  "begruendung": "Zahl folgt in 3/3, Median 2",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 2.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "*86-RO": {
+  "begruendung": "textinitial 4/4, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 4,
+  "register": {
+   "siegel": 4
+  },
+  "sites": [
+   "Khania"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "A-DI-KI-TE": {
+  "begruendung": "identisch in Linear B als Ortsname",
+  "initial_rate": 0.0,
+  "klasse": "toponym-anker",
+  "median_menge": null,
+  "n": 1,
+  "register": {
+   "kult": 1
+  },
+  "sites": [
+   "Palaikastro"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "A-DU": {
+  "begruendung": "Warenlogogramm vor Zahl in 5/10",
+  "initial_rate": 0.8,
+  "klasse": "funktionswort",
+  "median_menge": 51.0,
+  "n": 10,
+  "register": {
+   "verwaltung": 10
+  },
+  "sites": [
+   "Haghia Triada",
+   "Khania",
+   "Tylissos"
+  ],
+  "zahl_folgt_rate": 0.5
+ },
+ "A-JA": {
+  "begruendung": "textinitial 2/3, selten mit Zahl",
+  "initial_rate": 0.67,
+  "klasse": "header-wort",
+  "median_menge": 123.0,
+  "n": 3,
+  "register": {
+   "kult": 1,
+   "sonst": 1,
+   "verwaltung": 1
+  },
+  "sites": [
+   "Malia",
+   "Petras",
+   "Syme"
+  ],
+  "zahl_folgt_rate": 0.33
+ },
+ "A-KA-RU": {
+  "begruendung": "textinitial 3/3, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": 20.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.33
+ },
+ "A-MA": {
+  "begruendung": "textinitial 3/3, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 3,
+  "register": {
+   "kult": 1,
+   "verwaltung": 2
+  },
+  "sites": [
+   "Haghios Stehanos",
+   "Malia",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "A-RA": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": null,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Arkhalkhori",
+   "Haghia Triada",
+   "Khania"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "A-RI": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": null,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada",
+   "Phaistos"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "A-SE": {
+  "begruendung": "",
+  "initial_rate": 0.5,
+  "klasse": "unklassifiziert",
+  "median_menge": 5.0,
+  "n": 4,
+  "register": {
+   "sonst": 1,
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 0.75
+ },
+ "A-TA-I-*301-WA-JA": {
+  "begruendung": "11/11 in Libationsformel-Texten",
+  "initial_rate": 1.0,
+  "klasse": "kultwort",
+  "median_menge": 1.0,
+  "n": 11,
+  "register": {
+   "kult": 11
+  },
+  "sites": [
+   "Iouktas",
+   "Kophinas",
+   "Palaikastro",
+   "Syme",
+   "Troullos"
+  ],
+  "zahl_folgt_rate": 0.09
+ },
+ "DA-KA": {
+  "begruendung": "textinitial 5/5, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 5,
+  "register": {
+   "siegel": 5
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "DA-ME": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 20.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "DA-QE-RA": {
+  "begruendung": "textinitial 2/3, selten mit Zahl",
+  "initial_rate": 0.67,
+  "klasse": "header-wort",
+  "median_menge": 1.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.33
+ },
+ "DA-RE": {
+  "begruendung": "",
+  "initial_rate": 0.29,
+  "klasse": "unklassifiziert",
+  "median_menge": 4.0,
+  "n": 7,
+  "register": {
+   "verwaltung": 7
+  },
+  "sites": [
+   "Haghia Triada",
+   "Khania",
+   "Palaikastro"
+  ],
+  "zahl_folgt_rate": 0.86
+ },
+ "DA-RI-DA": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 8.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "DA-SI-*118": {
+  "begruendung": "",
+  "initial_rate": 0.25,
+  "klasse": "unklassifiziert",
+  "median_menge": 19.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "DI-DE-RU": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "DI-NA-U": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 4.0,
+  "n": 6,
+  "register": {
+   "sonst": 1,
+   "verwaltung": 5
+  },
+  "sites": [
+   "Haghia Triada",
+   "Knossos"
+  ],
+  "zahl_folgt_rate": 0.83
+ },
+ "DU-RE-ZA-SE": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 4.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "I-DA": {
+  "begruendung": "identisch in Linear B als Ortsname",
+  "initial_rate": 1.0,
+  "klasse": "toponym-anker",
+  "median_menge": 2.0,
+  "n": 5,
+  "register": {
+   "kult": 3,
+   "verwaltung": 2
+  },
+  "sites": [
+   "Nerokurou",
+   "Palaikastro",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 0.2
+ },
+ "I-PI-NA-MA": {
+  "begruendung": "6/6 in Libationsformel-Texten",
+  "initial_rate": 0.33,
+  "klasse": "kultwort",
+  "median_menge": null,
+  "n": 6,
+  "register": {
+   "kult": 6
+  },
+  "sites": [
+   "Apodoulou",
+   "Iouktas",
+   "Kophinas",
+   "Troullos",
+   "Vrysinas"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "I-RA₂": {
+  "begruendung": "textinitial 8/8, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 8,
+  "register": {
+   "siegel": 8
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "JA-SA": {
+  "begruendung": "textinitial 4/4, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 4,
+  "register": {
+   "kult": 1,
+   "siegel": 1,
+   "sonst": 1,
+   "verwaltung": 1
+  },
+  "sites": [
+   "Iouktas",
+   "Malia",
+   "Phaistos",
+   "Samothrace"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "JA-SA-SA-RA-ME": {
+  "begruendung": "7/7 in Libationsformel-Texten",
+  "initial_rate": 0.29,
+  "klasse": "kultwort",
+  "median_menge": null,
+  "n": 7,
+  "register": {
+   "kult": 6,
+   "sonst": 1
+  },
+  "sites": [
+   "Iouktas",
+   "Palaikastro",
+   "Platanos",
+   "Psykhro",
+   "Troullos"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "JE-DI": {
+  "begruendung": "",
+  "initial_rate": 0.75,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.75
+ },
+ "KA-KU-PA": {
+  "begruendung": "textinitial 3/3, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 3,
+  "register": {
+   "siegel": 2,
+   "verwaltung": 1
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "KA-PA": {
+  "begruendung": "",
+  "initial_rate": 0.67,
+  "klasse": "unklassifiziert",
+  "median_menge": 62.0,
+  "n": 6,
+  "register": {
+   "verwaltung": 6
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "KI-RE-TA-NA": {
+  "begruendung": "",
+  "initial_rate": 0.25,
+  "klasse": "unklassifiziert",
+  "median_menge": 54.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "KI-RO": {
+  "begruendung": "",
+  "initial_rate": 0.19,
+  "klasse": "unklassifiziert",
+  "median_menge": 6.0,
+  "n": 16,
+  "register": {
+   "verwaltung": 16
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.56
+ },
+ "KU-NI-SU": {
+  "begruendung": "",
+  "initial_rate": 0.2,
+  "klasse": "unklassifiziert",
+  "median_menge": 20.0,
+  "n": 5,
+  "register": {
+   "verwaltung": 5
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.8
+ },
+ "KU-PA": {
+  "begruendung": "Zahl folgt in 4/4, Median 2",
+  "initial_rate": 0.25,
+  "klasse": "personenname?",
+  "median_menge": 2.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada",
+   "Khania",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "KU-PA₃-NU": {
+  "begruendung": "Zahl folgt in 7/8, Median 1",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 1.0,
+  "n": 8,
+  "register": {
+   "verwaltung": 8
+  },
+  "sites": [
+   "Haghia Triada",
+   "Phaistos"
+  ],
+  "zahl_folgt_rate": 0.88
+ },
+ "KU-RO": {
+  "begruendung": "Summenposition: Zahl folgt 36/37, Median 78",
+  "initial_rate": 0.19,
+  "klasse": "funktionswort",
+  "median_menge": 78.0,
+  "n": 37,
+  "register": {
+   "verwaltung": 37
+  },
+  "sites": [
+   "Haghia Triada",
+   "Phaistos",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 0.97
+ },
+ "MA-DI": {
+  "begruendung": "",
+  "initial_rate": 0.5,
+  "klasse": "unklassifiziert",
+  "median_menge": 4.0,
+  "n": 6,
+  "register": {
+   "verwaltung": 6
+  },
+  "sites": [
+   "Haghia Triada",
+   "Phaistos"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "MA-RU-ME": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "MI-NU-TE": {
+  "begruendung": "",
+  "initial_rate": 0.25,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "PA-DE": {
+  "begruendung": "Zahl folgt in 3/3, Median 3",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 3.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "PA-I-TO": {
+  "begruendung": "identisch in Linear B als Ortsname",
+  "initial_rate": 0.0,
+  "klasse": "toponym-anker",
+  "median_menge": 6.0,
+  "n": 2,
+  "register": {
+   "verwaltung": 2
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "PA-JA-RE": {
+  "begruendung": "Zahl folgt in 4/4, Median 1.125",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 1.125,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "PA-SE-JA": {
+  "begruendung": "",
+  "initial_rate": 0.67,
+  "klasse": "unklassifiziert",
+  "median_menge": 20.0,
+  "n": 3,
+  "register": {
+   "siegel": 2,
+   "verwaltung": 1
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "PA-TA-NE": {
+  "begruendung": "Zahl folgt in 2/3, Median 1",
+  "initial_rate": 0.33,
+  "klasse": "personenname?",
+  "median_menge": 1.0,
+  "n": 3,
+  "register": {
+   "siegel": 1,
+   "verwaltung": 2
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "PA₃-NI-NA": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 17.5,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "QA-*310-I": {
+  "begruendung": "Zahl folgt in 4/4, Median 1.375",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 1.375,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "QA-QA-RU": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 5.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "QE-RA₂-U": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 10.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "RE-ZA": {
+  "begruendung": "",
+  "initial_rate": 0.33,
+  "klasse": "unklassifiziert",
+  "median_menge": 6.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada",
+   "Khania"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "SA-MA": {
+  "begruendung": "",
+  "initial_rate": 0.25,
+  "klasse": "unklassifiziert",
+  "median_menge": 5.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada",
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "SA-RA₂": {
+  "begruendung": "Warenlogogramm vor Zahl in 14/20",
+  "initial_rate": 0.3,
+  "klasse": "funktionswort",
+  "median_menge": 10.0,
+  "n": 20,
+  "register": {
+   "verwaltung": 20
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.9
+ },
+ "SA-RO": {
+  "begruendung": "",
+  "initial_rate": 0.75,
+  "klasse": "unklassifiziert",
+  "median_menge": 8.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.75
+ },
+ "SA-RU": {
+  "begruendung": "Summenposition: Zahl folgt 6/6, Median 20",
+  "initial_rate": 0.0,
+  "klasse": "funktionswort",
+  "median_menge": 20.0,
+  "n": 6,
+  "register": {
+   "verwaltung": 6
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "SE-TO-I-JA": {
+  "begruendung": "identisch in Linear B als Ortsname",
+  "initial_rate": 0.0,
+  "klasse": "toponym-anker",
+  "median_menge": null,
+  "n": 1,
+  "register": {
+   "kult": 1
+  },
+  "sites": [
+   "Prassa"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "SI-KA": {
+  "begruendung": "textinitial 6/6, selten mit Zahl",
+  "initial_rate": 1.0,
+  "klasse": "header-wort",
+  "median_menge": null,
+  "n": 6,
+  "register": {
+   "siegel": 6
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "SI-PI-KI": {
+  "begruendung": "Zahl folgt in 3/3, Median 2.5",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 2.5,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Zakros"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "SI-RU-TE": {
+  "begruendung": "7/7 in Libationsformel-Texten",
+  "initial_rate": 0.14,
+  "klasse": "kultwort",
+  "median_menge": null,
+  "n": 7,
+  "register": {
+   "kult": 7
+  },
+  "sites": [
+   "Iouktas",
+   "Kophinas",
+   "Syme",
+   "Troullos",
+   "Vrysinas"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "SU-KI-RI-TA": {
+  "begruendung": "identisch in Linear B als Ortsname",
+  "initial_rate": 1.0,
+  "klasse": "toponym-anker",
+  "median_menge": null,
+  "n": 1,
+  "register": {
+   "siegel": 1
+  },
+  "sites": [
+   "Phaistos"
+  ],
+  "zahl_folgt_rate": 0.0
+ },
+ "TA-NA-TI": {
+  "begruendung": "Zahl folgt in 4/4, Median 1",
+  "initial_rate": 0.25,
+  "klasse": "personenname?",
+  "median_menge": 1.0,
+  "n": 4,
+  "register": {
+   "verwaltung": 4
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "TE-RI": {
+  "begruendung": "Zahl folgt in 2/3, Median 1",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 1.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Arkhalkhori",
+   "Haghia Triada",
+   "Phaistos"
+  ],
+  "zahl_folgt_rate": 0.67
+ },
+ "TE-TU": {
+  "begruendung": "Zahl folgt in 3/3, Median 1",
+  "initial_rate": 0.0,
+  "klasse": "personenname?",
+  "median_menge": 1.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "U-*325-ZA": {
+  "begruendung": "",
+  "initial_rate": 0.0,
+  "klasse": "unklassifiziert",
+  "median_menge": 6.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 1.0
+ },
+ "U-*34-SI": {
+  "begruendung": "textinitial 2/3, selten mit Zahl",
+  "initial_rate": 0.67,
+  "klasse": "header-wort",
+  "median_menge": 684.0,
+  "n": 3,
+  "register": {
+   "verwaltung": 3
+  },
+  "sites": [
+   "Haghia Triada"
+  ],
+  "zahl_folgt_rate": 0.33
+ },
+ "U-NA-KA-NA-SI": {
+  "begruendung": "4/4 in Libationsformel-Texten",
+  "initial_rate": 0.0,
+  "klasse": "kultwort",
+  "median_menge": null,
+  "n": 4,
+  "register": {
+   "kult": 4
+  },
+  "sites": [
+   "Iouktas",
+   "Kophinas",
+   "Palaikastro"
+  ],
+  "zahl_folgt_rate": 0.0
+ }
+}
