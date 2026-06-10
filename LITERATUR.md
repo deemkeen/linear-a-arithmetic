@@ -43,6 +43,31 @@ erneut laden. Younger-Download ist nur die *Introduction* — die
 eigentlichen Tafelkommentare (HT-Texts-Dateien) fehlen. Montecchi-
 Download ist eine 16-seitige Leseprobe — Volltext fehlt.
 
+## ⚠️ UPDATE 2: Youngers Tafelkommentare lagen LOKAL vor
+(corpus-src/commentary/*.html, von lineara.xyz gespiegelt, © Younger)
+
+- **HT123 (volle Ableitung):** Younger nutzt ein **Ratio-Modell**
+  (*308 = ⅓ von OLIV je Zeile, aus a.6-7: 4¼+¾ = 5 = 15/3) und
+  rechnet KU-RO+KI-RO zusammen als Soll (25H+6 = „31H"). Daraus:
+  H = 1/6, A[ = 7/12, X ∈ {13/12, 7/4} (inkonsistent; er fordert
+  selbst eine Lesungskorrektur um ⅔). **Schlüsselbefund unsererseits:
+  Seine zweite X-Ableitung (7/4) stimmt exakt mit unserer
+  KI-RO-Spaltensumme überein** (1+X+X+¾+¾=6 ⟹ X=7/4) — zwei
+  unabhängige Wege, ein Wert. **Aber: Seine Werte (H=⅙, A=7/12)
+  verletzen die reine *308-Spaltensumme um ⅔** (25¼+7/12 = 25⅚ vs.
+  25⅙) — dieselbe ⅔-Diskrepanz, die er beim X-Problem notiert. Ein
+  einziger ⅔-Lesefehler auf Seite a könnte beide Probleme zugleich
+  lösen — diese Synthese ist u. W. neu.
+- **HT13:** „KU-RO here records 130.5, but the numbers total 131" —
+  Diskrepanz publiziert (erwartet); Wert-Unabhängigkeit (2J=J) sagt
+  er nicht.
+- **HT118:** „the numbers in the 1st column total 35, not KU-RO's
+  30. KI = KI-RO? (Raison and Pope 1978); **the numbers add up**" —
+  sowohl die Δ=5 als auch die KI-Spalten-Exaktheit sind Prior Art;
+  unsere Beiträge dort: nur Parser-Reproduktion + Palimpsest-Bezug.
+- **HT119:** „the numbers total 159, not KU-RO's 160" (mit VIR 68).
+- Youngers HT-Texts-Download damit NICHT mehr nötig — alles lokal.
+
 ---
 
 Remote-Recherche (Web, Semantic-Scholar-Zitationsindex, frei zugängliche

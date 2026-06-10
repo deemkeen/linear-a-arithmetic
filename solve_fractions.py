@@ -108,6 +108,13 @@ constraints.append(("HT123+124a:*308",
 constraints.append(("Axiom JE=J+E",
                     SymVal(Fraction(0), Counter({JE732: 1})),
                     SymVal(Fraction(0), Counter({J707: 1, E704: 1}))))
+# KI-RO-Spalte von HT123+124a (bedingt auf GORILA-Lesung '6['):
+# 1+X + X + 3/4 + 3/4 = 6  ->  X = 7/4. Konvergiert mit Youngers
+# unabhängiger Ratio-Ableitung X=7/4 aus Zeile a.3-4 (Kommentar HT123).
+X711 = "\U0001074E"
+constraints.append(("HT123+124a:KI-RO",
+                    SymVal(Fraction(5, 2), Counter({X711: 2})),
+                    SymVal(Fraction(6))))
 
 print("=" * 78)
 print("H9 — Arithmetik-Constraints (Unicode-Klasma als Unbekannte)")
@@ -124,7 +131,13 @@ print(f"\nVariablen in Constraints: "
 CAND = [Fraction(a, b) for a, b in
         [(1, 2), (1, 3), (2, 3), (1, 4), (3, 4), (1, 5), (1, 6), (5, 6),
          (1, 8), (3, 8), (5, 8), (1, 10), (1, 12), (5, 12), (1, 16)]]
-varlist = sorted(used_vars, key=lambda k: -used_vars[k])
+# Einzelvariablen-Constraints vorab analytisch lösen (hier: X aus der
+# KI-RO-Spalte: 5/2 + 2X = 6 -> X = 7/4; konvergiert mit Youngers
+# unabhängiger Ratio-Ableitung für Zeile a.3-4)
+PRESOLVED = {X711: Fraction(7, 4)}
+print(f"\nVorab gelöst: X (A711) = 7/4  (KI-RO-Spalte; = Youngers Ratio-Wert)")
+varlist = sorted((k for k in used_vars if k not in PRESOLVED),
+                 key=lambda k: -used_vars[k])
 print(f"Suchraum: {len(CAND)}^{len(varlist)} = {len(CAND)**len(varlist):,} Belegungen")
 
 
@@ -142,7 +155,7 @@ def check(assign):
 
 best = []
 for combo in itertools.product(CAND, repeat=len(varlist)):
-    assign = dict(zip(varlist, combo))
+    assign = {**PRESOLVED, **dict(zip(varlist, combo))}
     # Plausibilität: Kompositzeichen JE muss = J + E sein, falls alle drei da
     sat, unsat = check(assign)
     best.append((sat, assign, unsat))
@@ -172,7 +185,7 @@ ANCHOR = {J707: Fraction(1, 2), E704: Fraction(1, 4)}
 free = [k for k in varlist if k not in ANCHOR]
 results = []
 for combo in itertools.product(CAND, repeat=len(free)):
-    assign = {**ANCHOR, **dict(zip(free, combo))}
+    assign = {**PRESOLVED, **ANCHOR, **dict(zip(free, combo))}
     sat, unsat = check(assign)
     results.append((sat, assign, unsat))
 results.sort(key=lambda x: -x[0])
@@ -198,7 +211,7 @@ print("=" * 78)
 CORAZZA = {J707: Fraction(1, 2), E704: Fraction(1, 4),
            JE732: Fraction(3, 4),                    # Table 9
            A701: Fraction(1, 24), A706: Fraction(1, 16)}  # beide '(?)' = tentativ
-sat, unsat = check(CORAZZA)
+sat, unsat = check({**PRESOLVED, **CORAZZA})  # X=7/4 ergänzt (bei Corazza ausgeschlossen)
 print(f"Corazza-Belegung (J=1/2, E=1/4, JE=3/4, A=1/24?, H=1/16?):"
       f" erfüllt {sat}/{len(constraints)}")
 for n, d in unsat:

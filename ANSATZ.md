@@ -394,16 +394,18 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      Summe „25 + A706-H"). Daraus folgt, unabhängig von den
      Absolutwerten: **A706(H) − A701(A) = ¼**. Direkter Input für die
      geplante Bruchwert-Inferenz (H9).
-   - **T2 🔶 Komplement-These nicht haltbar — aber lesungsabhängig
-     (Faksimile-Verifikation, s. u.):** Unter der lineara-Lesung
-     („KI-RO 6") kann die Schlusszeile nicht die Spaltensumme sein:
-     Einträge = 1+X, X, ¾, ¾ ⟹ Σ ≤ 4½ < 6 für jeden Bruchwert X ≤ 1 —
-     und da die OLIV-Spalte exakt aufgeht, fehlen keine Einträge.
-     **Aber:** Der GORILA-Apparat (Note .9) liest die Schlusszahl als
-     unsicher — „IIII et fraction ou IIII[" (4+Bruch oder 4+Kante).
-     Bei Lesung „4+f" gälte die Ungleichung nur noch für X < ¾.
-     Wahrscheinlich bleibt: Schluss-KI-RO ≠ einfache Spaltensumme;
-     bewiesen ist es nur für Lesungen ≥ 5½.
+   - **T2 — REVIDIERT (11.06.2026, nach Lektüre von Youngers
+     HT123-Kommentar, lokal in corpus-src/commentary/):** Unsere
+     ursprüngliche „Unmöglichkeit" (Σ ≤ 4½ < 6) galt nur unter der
+     stillen Annahme X ≤ 1. Löst man die Spaltensumme nach X auf,
+     ergibt sich **X = 7/4** (1+X+X+¾+¾ = 6) — und exakt diesen Wert
+     liefert **unabhängig** Youngers Ratio-Ableitung aus Zeile a.3-4
+     (sein Modell: *308 = ⅓ von OLIV je Zeile). Zwei verschiedene
+     Rechenwege, ein Wert: Die KI-RO-Spalte summiert **exakt**, wenn
+     X = 7/4 — X ist dann kein Sub-Einheits-Bruch, sondern eine
+     Größe „1¾" (konsistent damit, dass Corazza et al. X aus ihrem
+     Bruchsystem ausschließen und unser H6 X als anomal fand).
+     Bedingt auf die GORILA-Lesung „6[" der Schlusszahl.
    - *Datenqualität:* lineara.xyz rendert A711 als „.3" und
      A701/A706 pauschal als „≈ ⅙" — die Klasma-Zeichen sind im
      Datensatz nur näherungsweise kodiert (dokumentiert; für H9 muss
