@@ -40,14 +40,17 @@ als arithmetisch exakte Spaltensumme.
 Aus der *308-Spalte von HT123+124a folgt die Gleichung
 **A706 (H) − A701 (A) = ¼**, unabhängig von den Absolutwerten.
 
-**Vorhersage:** Die auf Face δ dokumentierte Sequenz von sechs
-Bruchzeichen ist mit dieser Relation kompatibel, sobald A701 und A706
-beide darin vorkommen (d. h. H steht in der Wertordnung um genau ¼
-über A). *Wird nach Umsetzung der Bruchwert-Inferenz (H9) quantitativ
-verschärft.*
+**Vorhersage (verschärft nach H9 + Corazza-Abgleich, 10.06.2026):**
+Die auf Face δ dokumentierte Sequenz von sechs Bruchzeichen ist mit
+H = A + ¼ kompatibel; konkret favorisieren wir **A701(A) = 1/12 und
+A706(H) = 1/3** — gegen die tentativen Werte H=1/16(?), A=1/24(?) von
+Corazza et al. 2021 (Table 8), deren Differenz (1/48) unsere
+HT123-Spaltengleichung verletzt. Unser Vorschlag füllt zugleich die
+1/3-Lücke in deren Optimalsystem.
 
-**Fehlschlag:** Die publizierte Reihenfolge/Werteordnung widerspricht
-H = A + ¼.
+**Fehlschlag:** Die publizierte Werteordnung von Zg 58 (oder eine
+verifizierte Neukollation von HT 123a) widerspricht H = A + ¼ bzw.
+ordnet H unterhalb von E (=¼) ein.
 
 ## P-IV — Neue Libationsinschriften: Slot-Kongruenz (aus H1)
 

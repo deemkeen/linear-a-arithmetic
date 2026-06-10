@@ -420,10 +420,21 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      (konsistent mit dem Ligatur-Axiom JE=J+E); A701/A706 bleiben eine
      einparametrige Familie **H = A + ¼** (aus H6).
    - **Fazit:** Die Methode funktioniert, aber die Constraint-Basis des
-     Korpus ist zu dünn für Absolutwerte. Nächster Schritt: Abgleich
-     mit der Wertetabelle von Corazza et al. 2021 (Open Access:
-     flore.unifi.it) und — sobald publiziert — der Zg58-Sequenz
-     (PREDICTIONS P-III).
+     Korpus ist zu dünn für Absolutwerte allein aus KU-RO-Summen.
+   - **Abgleich mit Corazza et al. 2021 (JAS 125, Table 8/9) — drei
+     Konvergenzen, ein Widerspruch:** (a) Deren JE=¾ reproduziert unser
+     Solver-Ergebnis unabhängig. (b) Ihr Ausschluss von X aus dem
+     Wertesystem konvergiert mit unserem H6-Befund (A711 verhält sich
+     nicht wie ein normaler Bruch). (c) J=½/E=¼ konsistent. ABER:
+     ihre als *tentativ* markierten Werte **H=1/16(?), A=1/24(?)**
+     ergeben H−A=1/48 und **verletzen unsere HT123-Spaltengleichung
+     H−A=¼** (Δ=+0,23). Auflösung, die beides heilt: **A=1/12,
+     H=1/3** — erfüllt die Gleichung exakt und füllt zugleich die
+     auffällige 1/3-Lücke in Corazzas Optimalsystem (typologisch ist
+     ein Bruchsystem ohne 1/3 ungewöhnlich). Vorbehalt: hängt an einer
+     Tafel, und der Eintrag „4+A" trägt ein zweites, unlesbares
+     Zeichen (U+1076B) — Lesung am GORILA-Faksimile zu verifizieren.
+     Prüfbar an der Zg58-Bruchsequenz (PREDICTIONS P-III).
 10. **H7 (X ~ X-TE als Positions-/Herkunftssuffix):**
    `test_te_suffix.py`. **10 Alternationspaare gefunden** (6× -TE,
    4× -NE), darunter A-DI-KI-TE ~ **A-DI-KI-TE-TE** (Toponym Dikte +
@@ -434,6 +445,26 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
    p=0,14, N=7). **🔶 Tendenz, N zu klein** — bei -NE kein Signal
    (p=1,0). Abtrennbarkeit des Suffixes ist damit belegt, die
    Funktionszuweisung braucht mehr Tafeln.
+11a. **Anker-Abgleich Linear A ↔ Linear B** (`test_lb_names.py`):
+   Die 41 in beiden Schriften identischen Wörter wurden gegen die
+   Linear-B-Serienkontexte gestellt (As/Ap/D-Serie = Personen,
+   Fp/Fs/Tn = Opfer). Ergebnisse:
+   - **Datenlimit dominiert:** 33/41 Anker sind in Linear A selbst
+     Hapax/Selten (n<3) — sie tragen LB-Kontext-Information, aber
+     keine LA-Distributionsklasse. In LB landen davon 16 in
+     Personen-, 3 in Kult-, 14 in sonstigen Kontexten.
+   - **PA-DE, der produktive „Fehltreffer":** Unser Lexikon
+     klassifiziert PA-DE distributionell als „personenname?" (3×,
+     kleine Zahlen, Listenkörper) — in Linear B ist pa-de aber ein
+     **Opferempfänger/Gottheit** (KN Fp(1) 1, Fp(1) 48, Fs 8). Falls
+     dieselbe Entität: Die PA-DE-Einträge von Haghia Triada wären
+     **Opferlisten**, und „Empfänger kleiner Mengen im Listenkörper"
+     wäre als Klasse nicht von Personennamen trennbar — eine neue,
+     konkrete Hypothese (deckt sich mit der Literaturdebatte um
+     pa-de als vorgriechische Gottheit).
+   - Methodengrenze dokumentiert: Das LB-Serienkürzel kodiert den
+     *Tafelinhalt*, nicht die *Wortrolle* (PA-I-TO erscheint in der
+     D-Serie als Ort beim Hirtennamen, nicht als Person).
 11. **H8 (Ligatur-Akrophonie): ❌ VERWORFEN** (in der HT31-Form).
    `test_ligatures.py`: Die ligierten Silbenzeichen auf
    Gefäß-Logogrammen (+RU 9×, +L2, +RO, +E, +KE, +A, +SU, +F; n=25)

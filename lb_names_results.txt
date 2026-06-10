@@ -1,0 +1,62 @@
+==============================================================================
+Linear-A-Klasse (distributionell) vs. Linear-B-Kontext (Serienkürzel)
+==============================================================================
+LA-Wort        LA-Klasse        LB-Kontext LB-Belege
+A-MA           header-wort      sonstig    KN E 1035, KN F(2) 845, KN F(2) 852, KN E 850 …
+A-PI           (n<3)            sonstig    PY Ta 716, KN G 820
+A-RE           (n<3)            kult       KN Fp(1) 14, KN Mc 4462
+A-RO-TE        (n<3)            sonstig    PY La 622
+A-TA           (n<3)            person     PY An 39
+DA-I-PI-TA     (n<3)            person     KN B(5) 799
+DA-MA-TE       (n<3)            person     PY En 609
+DU-RI          (n<3)            person     KN Da 1143
+I-JA-TE        (n<3)            sonstig    PY Eq 146
+I-NA           (n<3)            person     PY Ep 539
+I-TA-JA        (n<3)            person     KN Ap 769
+KA-PA          unklassifiziert  sonstig    TH Ft 217, TH Ft 234, TH Ft 219, TH Ft 220 …
+KA-SA          (n<3)            person     PY Cn 202
+KA-SI          (n<3)            sonstig    TH Ft 234, TH Ft 220, TH Ft 141, TH Ft 268
+KA-TI          (n<3)            kult       PY Tn 996
+KI-DA-RO       (n<3)            sonstig    KN E 842
+KO-RU          (n<3)            sonstig    KN Sk 8254, TH Fq 254, KN Sk 8100, TH Fq 126
+KU-KA          (n<3)            sonstig    MY Oe 121
+MA-*79         (n<3)            person     PY Eo 276, PY En 74
+MA-DI          unklassifiziert  person     KN As(1) 603, KN Db 1168
+MA-RI          (n<3)            person     KN Dl(1) 947, KN Dl(1) 948
+MA-TE-RE       (n<3)            sonstig    PY Fr 1202
+MI-TA          (n<3)            sonstig    MY Ge 602, MY Ge 606, MY Ge 605
+MI-TI          (n<3)            person     KN Dl(1) 463
+PA-DE          personenname?    kult       KN Fs 8, KN Ga(3) 456, KN Fp(1) 1, KN Fp(1) 48
+PA-I-TO        toponym-anker    person     KN Sd 4413, KN Dd 1429, KN E 36, KN Db 1464 …
+PA-RA-NE       (n<3)            sonstig    KN Vc(1) 7616
+PA-RE          (n<3)            person     KN Dl(1) 8177, KN Sc 247
+PA-TA          (n<3)            sonstig    MY L 710, TH Fq 254, PY Cn 40
+RU-NA          (n<3)            kult       PY Un 1320, KN As(2) 1516
+SE-TO-I-JA     toponym-anker    sonstig    KN Wm 8493, KN Lc(1) 525, KN Da 1392, KN X 5040 …
+SI-MA          (n<3)            person     PY En 609, PY Eo 211
+SI-RA          (n<3)            person     KN B(1) 988
+SU-KI-RI-TA    toponym-anker    person     KN Db 1327, KN Dv 5232, KN Df 1325, KN Db 1324 …
+TA-RA          (n<3)            sonstig    KN Am(2) 821
+TE-KE          (n<3)            sonstig    PY Ta 711
+TO-ME          (n<3)            person     PY Ep 613
+TO-SA          (n<3)            sonstig    PY Na 924, KN Mc 4457, KN Od(1) 688, KN Ap 5868 …
+U-SU           (n<3)            person     KN V(3) 7512
+WI-JA          (n<3)            person     KN C(2) 941
+
+Kreuztabelle LA-Klasse x LB-Kontext:
+                     person     kult  sonstig        ?
+   (n<3)                 16        3       14        0
+   header-wort            0        0        1        0
+   personenname?          0        1        0        0
+   toponym-anker          2        0        1        0
+   unklassifiziert        1        0        1        0
+
+Gerichtete Klassen (personenname?/kultwort) mit LB-Beleg: 0 Treffer, 1 Fehltreffer
+
+Qualitative Anker (Auswahl):
+   MA-DI      LA: unklassifiziert  LB: KN As(1) 603, KN Db 1168
+   I-TA-JA    LA: (n<3)            LB: KN Ap 769
+   PA-DE      LA: personenname?    LB: KN Fs 8, KN Ga(3) 456, KN Fp(1) 1, KN Fp(1) 48
+   I-JA-TE    LA: (n<3)            LB: PY Eq 146
+   DA-MA-TE   LA: (n<3)            LB: PY En 609
+   KA-PA      LA: unklassifiziert  LB: TH Ft 217, TH Ft 234, TH Ft 219, TH Ft 220, KN E(1) 71

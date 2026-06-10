@@ -46,3 +46,7 @@ Bekannte Datenqualitäts-Probleme der Quelle: Die plain-ZA-Tafeln
 ```bash
 node extract.js && python3 analyze.py
 ```
+
+Fortsetzung Juni 2026: `test_lb_names.py` (Anker-Abgleich LA↔LB,
+`lb_names_results.txt`); Corazza-2021-Abgleich in `solve_fractions.py`
+(Paper via ScienceDirect Open Access gelesen, DOI 10.1016/j.jas.2020.105214).

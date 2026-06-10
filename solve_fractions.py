@@ -190,3 +190,29 @@ for sat, assign, unsat in results:
     print(f"        verletzt: {viol}")
 print("\nInterpretation: Verletzte Gleichungen unter J=1/2 sind Kandidaten")
 print("für Schreiberfehler (HT13 ist für JEDEN J-Wert unerfüllbar: 2J=J).")
+
+# ---- Abgleich mit Corazza et al. 2021 (JAS 125, Table 8) ------------------
+print("\n" + "=" * 78)
+print("Abgleich: Corazza/Ferrara/Montecchi/Tamburini/Valério 2021, Table 8")
+print("=" * 78)
+CORAZZA = {J707: Fraction(1, 2), E704: Fraction(1, 4),
+           JE732: Fraction(3, 4),                    # Table 9
+           A701: Fraction(1, 24), A706: Fraction(1, 16)}  # beide '(?)' = tentativ
+sat, unsat = check(CORAZZA)
+print(f"Corazza-Belegung (J=1/2, E=1/4, JE=3/4, A=1/24?, H=1/16?):"
+      f" erfüllt {sat}/{len(constraints)}")
+for n, d in unsat:
+    print(f"   verletzt: {n} (Δ={float(d):+g})")
+print(f"""
+Befund:
+- JE=3/4 (Corazza Table 9) reproduziert unser Solver-Ergebnis unabhängig.
+- Der Ausschluss von X aus ihrem System konvergiert mit unserem
+  T2-Befund (H6): A711 'X' verhält sich nicht wie ein normaler Bruch.
+- WIDERSPRUCH bei den tentativen Werten: unsere HT123-Spaltengleichung
+  verlangt H - A = 1/4, Corazzas H=1/16, A=1/24 ergeben 1/48.
+- Auflösung, die beides heilt: A=1/12, H=1/3 erfüllt H-A=1/4 exakt UND
+  füllt die auffällige 1/3-Lücke in Corazzas System (typologisch ist
+  ein fehlendes 1/3 ungewöhnlich). Alternative: A=1/24 -> H=7/24
+  (typologisch unattraktiv). Vorbehalt: hängt an EINER Tafel; Token
+  '4+A' trägt ein zweites, unlesbares Zeichen (U+1076B) — die Lesung
+  ist mit GORILA-Faksimile zu verifizieren.""")
