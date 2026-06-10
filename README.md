@@ -1,58 +1,98 @@
-# Linear A — Computational Decipherment Toolkit
+# Linear A — Computational Arithmetic & Decipherment Toolkit
 
-Reproduzierbare Analyse des Linear-A-Korpus (GORILA / J. Younger, via
+Machine-checked arithmetic, hypothesis testing, and apparatus mining
+over the Linear A corpus (GORILA / J. Younger, via
 [lineara.xyz](https://github.com/mwenge/lineara.xyz)).
+Working documents are in German; key artefacts are bilingual.
 
-- **`ANSATZ.md`** — das Entzifferungs-Konzept: Problemdiagnose, 6 Arbeitspakete,
-  falsifizierbare Hypothesen, realistische Erwartungen
-- `extract.js` — extrahiert das JS-Korpus nach `data/*.json` (Node)
-- `analyze.py` — Analysepipeline: Korpusstatistik, Zeichen-Positionsanalyse,
-  KU-RO-Arithmetik-Validierung, Morphologie-Extraktion, Libationsformel,
-  Linear-B-Anker
-- `test_hypotheses.py` — empirische Tests der Hypothesen H1–H4 aus ANSATZ.md
-  (Fisher-Exakt-Tests; Ergebnisse in `hypotheses_results.txt`)
-- `test_e_suffix.py` — H4b: Suffix-Inventar-Analyse des wortfinalen -E
-  (Permutationstest, Register-Vergleich; Ergebnisse in `e_suffix_results.txt`)
-- `test_o_suffix.py` — H4c: gleicher Aufbau für -O, mit
-  Funktionswort-Kontrolle (Ergebnisse in `o_suffix_results.txt`)
-- `test_dialect.py` — H5: KU-RO ~ KU-RA Dialekt- vs. Grammatik-Test
-  (Ergebnisse in `dialect_results.txt`)
-- `test_kiro_columns.py` — H6: Mehrspalten-Arithmetik & KI-RO-Komplement
-  (Ergebnisse in `kiro_columns_results.txt`)
-- `solve_fractions.py` — H9: Klasma-Werte als Max-SAT über
-  KU-RO-Constraints (`fractions_results.txt`)
-- `test_te_suffix.py` — H7: X ~ X-TE/-NE Alternationspaare und Position
-  (`te_suffix_results.txt`)
-- `test_ligatures.py` — H8: Akrophonie-Test der Gefäß-Ligaturen gegen HT31
-  (`ligatures_results.txt`)
-- `build_lexicon.py` — Wortklassen-Lexikon aus Distributionsvektoren
-  (`data/lexicon_classes.json`, `lexicon_results.txt`)
-- `audit_support.py` — leitet Dokumenttypen aus der GORILA-Seriensystematik
-  ab und schreibt `data/support_corrections.json` (wird von corpus_lib
-  automatisch angewandt)
-- **`PREDICTIONS.md`** — registrierte, zeitgestempelte Vorhersagen für
-  Out-of-sample-Tests (v. a. Anetaki II / KN Zg 57–58)
+## Key findings (June 2026)
 
-Bekannte Datenqualitäts-Probleme der Quelle: Die plain-ZA-Tafeln
-(ZA1–ZA33, Zakros) sind im lineara.xyz-Export fälschlich als
-"Stone vessel" geführt (tatsächlich Tontafeln, GORILA III).
-- `corpus_lib.py` — gemeinsamer Tokenizer/Parser für beide Skripte
-- `report_raw.txt` — Ausgabe des letzten Laufs
-- `data/supplements.json` — Neufunde jenseits des lineara.xyz-Standes
-  (KN Zg 57–58, Elfenbein-Zepter Knossos 2024; Quelle: Ariadne Suppl. 5)
-- `papers_KNZg57_Ariadne.pdf` — Originalpublikation Kanta/Nakassis/Palaima/Perna
-- `corpus-src/` — Klon von mwenge/lineara.xyz (1 GB, inkl. Tafel-Fotos)
+1. **Erasures, not errors.** Cross-referencing column-aware summation
+   checks (28 checks corpus-wide, 10 exact) with the critical
+   apparatus of GORILA I shows that all genuinely deviating tablets
+   carry erasures/corrections in their *numeral lines*, while
+   exactly-summing tablets carry none (Fisher's exact, **p = 0.003**;
+   independently supported by Montecchi's 2019 palimpsest list,
+   p = 0.077). The "calculation errors" of Linear A look like
+   residues of document *updates* — actively maintained records, not
+   unprofessional scribes.
+2. **HT 13's famous discrepancy is value-independent:** the equation
+   reduces to 2J = J — unsatisfiable for any value of the ½-sign.
+3. **HT 123 column constraints bear on the disputed fraction
+   values:** the exactly-summing olive column validates the ledger;
+   the *308 column then forces H = (entry sign) + ¼, hence **H ≥ ¼**
+   — compatible with the classical H = 1/3 (Bennett 1950; a live
+   option in Montecchi 2019) but not with the tentative H = 1/16 of
+   Corazza et al. 2021. Readings are explicitly conditioned (see
+   `LITERATUR.md`).
+4. **Six pre-registered, falsifiable predictions** — including for
+   the unpublished Knossos ivory sceptre (KN Zg 57–58, Anetaki II) —
+   are git-timestamped: see `PREDICTIONS_EN.md` / `PREDICTIONS.md`.
+5. **Data-quality fixes for lineara.xyz:** 53 corrected support
+   fields (e.g. all 44 plain-numbered ZA tablets mislabelled "Stone
+   vessel"), lossy fraction-sign encodings, four silent
+   disambiguations vs GORILA (details: `audit_support.py`,
+   `LITERATUR.md`).
+
+## Reproduce
 
 ```bash
-node extract.js && python3 analyze.py
+git clone https://github.com/mwenge/lineara.xyz corpus-src
+node extract.js               # JS corpus -> data/*.json
+python3 analyze.py            # corpus statistics, morphology, anchors
+python3 check_arithmetic.py   # column-aware summation checks
+python3 test_erasures.py      # H10: erasures x arithmetic
+python3 solve_fractions.py    # fraction-value constraints (Max-SAT)
 ```
 
-Fortsetzung Juni 2026: `test_lb_names.py` (Anker-Abgleich LA↔LB,
-`lb_names_results.txt`); Corazza-2021-Abgleich in `solve_fractions.py`
-(Paper via ScienceDirect Open Access gelesen, DOI 10.1016/j.jas.2020.105214).
-- `test_erasures.py` — H10: Rasur-Hypothese via GORILA-Apparat-Mining
+All analyses are plain Python 3 (stdlib only). Every critical reading
+was verified against the GORILA I facsimiles; apparatus excerpts are
+in `data/gorila_apparatus.json` (with book page numbers).
+
+**Data attribution:** `data/*.json` is extracted from
+[mwenge/lineara.xyz](https://github.com/mwenge/lineara.xyz), which
+transcribes GORILA (Godart/Olivier 1976–85) and John G. Younger's
+editions. Reproduced for scholarly purposes with attribution; will be
+removed on request of the rights holders. Tablet commentary quoted in
+research notes is © John G. Younger. Code: MIT (see LICENSE).
+
+---
+
+## Deutsche Projektdokumentation
+
+- **`ANSATZ.md`** — das Entzifferungs-Konzept: Problemdiagnose,
+  Arbeitspakete, alle getesteten Hypothesen (H1–H10) mit Ergebnissen
+- **`LITERATUR.md`** — Novitätsprüfung der Kernbefunde mit
+  Prior-Art-Dokumentation (Younger, Montecchi, Corazza et al.)
+- **`PREDICTIONS.md`** — registrierte Vorhersagen (deutsches Original;
+  englische Übersetzung: `PREDICTIONS_EN.md`)
+- **`MANUSKRIPT.md`** / **`PHASE2.md`** — Publikationsplanung
+- `extract.js` — extrahiert das lineara.xyz-Korpus nach `data/*.json`
+- `corpus_lib.py` — gemeinsamer Tokenizer/Parser
+- `analyze.py` — Korpusstatistik, Positionsanalyse, Morphologie,
+  Libationsformel, Linear-B-Anker (`report_raw.txt`)
+- `check_arithmetic.py` — generalisierter, segmentierter
+  Spalten-Checker (`arithmetic_results.txt`)
+- `test_hypotheses.py` — H1–H4 (`hypotheses_results.txt`)
+- `test_e_suffix.py` / `test_o_suffix.py` — H4b/H4c Suffix-Inventare
+  (`e_suffix_results.txt`, `o_suffix_results.txt`)
+- `test_dialect.py` — H5 KU-RO ~ KU-RA (`dialect_results.txt`)
+- `test_kiro_columns.py` — H6-Prototyp Mehrspalten-Arithmetik
+  (`kiro_columns_results.txt`)
+- `test_te_suffix.py` / `test_ligatures.py` — H7/H8
+  (`te_suffix_results.txt`, `ligatures_results.txt`)
+- `test_erasures.py` — H10 Rasur-Korrelation via GORILA-Apparat-Mining
   (`data/gorila_apparatus.json`, `erasures_results.txt`)
-- `check_arithmetic.py` — generalisierter, segmentierter Spalten-Checker
-  (Nachfolger des Stream-Modells; `arithmetic_results.txt`)
-- `LITERATUR.md` — Novitätsprüfung der Kernbefunde (Remote-Recherche,
-  offene Beschaffungsaufgaben vor Einreichung)
+- `test_lb_names.py` — Anker-Abgleich Linear A ↔ Linear B
+  (`lb_names_results.txt`)
+- `solve_fractions.py` — H9 Bruchwert-Inferenz inkl. Corazza-Abgleich
+  (`fractions_results.txt`)
+- `build_lexicon.py` — Wortklassen-Lexikon (`data/lexicon_classes.json`)
+- `audit_support.py` — Dokumenttyp-Audit aus der GORILA-Seriensystematik
+  (`data/support_corrections.json`, von corpus_lib automatisch angewandt)
+- `data/supplements.json` — Neufunde (KN Zg 57–58, Elfenbein-Zepter
+  Knossos 2024; Quelle: Ariadne Suppl. 5; `papers_KNZg57_Ariadne.pdf`)
+- `corpus-src/` — lokaler Klon von mwenge/lineara.xyz (nicht im Repo)
+
+Bekannte Datenqualitäts-Probleme der Quelle und alle stillen
+Glättungen sind in `LITERATUR.md` und den Commit-Messages dokumentiert.
