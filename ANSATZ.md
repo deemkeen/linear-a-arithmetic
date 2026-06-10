@@ -16,7 +16,7 @@ Unsere Korpusvermessung zeigt das Problem quantitativ:
 
 | Messgröße | Wert | Konsequenz |
 |---|---|---|
-| Dokumente | 1.721 (886 Noduli, 393 Tafeln, 151 Roundels …) | meist Kurztexte |
+| Dokumente | 1.721 (890 Noduli, 435 Tafeln, 151 Roundels …; nach Support-Audit) | meist Kurztexte |
 | saubere Wort-Tokens (≥2 Silben) | 1.284 | winziges Korpus |
 | Wort-Typen | 930 | — |
 | **Hapax legomena** | **781 = 84 % aller Typen** | kaum Wiederholung → kaum Kontext-Triangulation |
@@ -238,8 +238,9 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
 2. **H2:** **J- vor Vokal-Anlaut** ist ein Proklitikon; Vorhersage:
    J-Formen meiden die Textanfangsposition.
    **→ ❌ VERWORFEN.** J-Formen stehen textinitial — auch auf Tafeln mit
-   erhaltenem Anfang (KH74: JA-DA-SU, KN1a: JA-KU-TI, ARKH1b: JA-RE u. a.;
-   JA- initial 36 % vs. A- 46 %, p=0,57: keinerlei Positionsrestriktion).
+   erhaltenem Anfang (KH74: JA-DA-SU, KN1a: JA-KU-TI, ZA4a: JA-TO-JA,
+   ARKH1b: JA-RE u. a.; JA- initial 32 % vs. A- 41 %, p=0,61: keinerlei
+   Positionsrestriktion).
    Das widerlegt nicht die J-Präfigierung selbst (JA-SA-SA-RA-ME ~
    A-SA-SA-RA-ME bleibt real), wohl aber die spezifisch *proklitische*
    Positionsvorhersage.
@@ -254,9 +255,9 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
    kein Personenname.
 4. **H4:** Die **-E-Häufung am Wortende** ist ein Kasus-/Direktiv-Suffix
    der Kopfzeile; Vorhersage: -E-Formen überzufällig vor der ersten Zahl.
-   **→ ❌ VERWORFEN.** Header 17 % -E vs. Listenkörper 15 % (p=0,44).
-   Aus der Falsifikation wurde H4b destilliert (s. u.) — die erklärt
-   auch, *warum* H4 scheitern musste.
+   **→ ❌ VERWORFEN.** Header 18 % -E vs. Listenkörper 18 % (p=1,0;
+   nach Support-Korrektur). Aus der Falsifikation wurde H4b destilliert
+   (s. u.) — die erklärt auch, *warum* H4 scheitern musste.
 5. **H4b (Nachfolger von H4):** Das finale -E ist kein Positionsmarker,
    sondern ein **kleines geschlossenes Suffix-Inventar mit
    Register-Bindung**. Getestet mit fünf Vorhersagen
@@ -275,18 +276,20 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      Signifikanz, Richtung klar.
    - **P3 ✅:** E ist an 5 von 9 Vokal-Alternationen beteiligt.
    - **P4 ✅ Register-Gradient (stärkster Befund):** -E-final-Rate
-     **31,1 % auf Stein-/Kultinschriften ≫ 15,7 % Verwaltung
-     (p < 0,0001) > 9,9 % Siegelpraxis** (p=0,0001). Die -E-Suffixe
+     **30,6 % auf Stein-/Kultinschriften ≫ 17,5 % Verwaltung
+     (p=0,0004) > 11,1 % Siegelpraxis** (p=0,001; Zahlen nach
+     Support-Korrektur). Die -E-Suffixe
      gehören zur religiösen Formelsprache (SI-RU-TE, JA-SA-SA-RA-ME,
      O-SU-QA-RE …) und meiden die namenstragenden Siegel — Verhalten
      von Flexionsmorphologie (Verbal-/Formelendungen), nicht von
      Namenlexik.
    - **P5 ✅ Warum H4 scheiterte:** Auf Tafeln sind die Suffixe
      *gegenläufig* positioniert: **-NE ist kopfzeilen-affin** (50 %
-     Headeranteil vs. 30 % global, p=0,039), -TE tendenziell auch (48 %,
-     p=0,088), **-RE dagegen listen-affin** (16 %, p=0,067). H4 hatte
-     alle -E-Formen gepoolt — die Effekte heben sich gegenseitig auf.
-     Aggregation war der Fehler, nicht die Suffix-Idee.
+     Headeranteil vs. 29 % global, p=0,038), -TE tendenziell auch (44 %,
+     p=0,088), **-RE dagegen listen-affin** (18 %, p=0,125 — nach
+     Support-Korrektur nur noch Tendenz). H4 hatte alle -E-Formen
+     gepoolt — die Effekte heben sich gegenseitig auf. Aggregation war
+     der Fehler, nicht die Suffix-Idee.
    - *Nebenbefund:* Auch **-O** zeigt mit 1,83× die stärkste
      Final-Neigung aller Vokale — der ohnehin marginale Vokal /o/
      (3,7 %) konzentriert sich an der Wortkante (KU-RO, KI-RO,
@@ -319,14 +322,14 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      vor „5 ½" — funktional parallel zu KU-RO/KI-RO. Die
      Buchhaltungstermini selbst scheinen Teil eines
      Vokal-Flexionsparadigmas zu sein.
-   - **P4 ✅ Spiegelbild von -E:** Registerprofil: Verwaltung 9,2 % ≫
-     Kult 1,1 % (p < 0,0001) — exakt invers zu -E (Kult 31 % ≫
-     Verwaltung 16 %). Ohne Funktionswörter kippt die Spitze zur
-     Siegelpraxis (7,4 % > Verwaltung 2,8 %, p=0,04): Rest--RO sitzt
-     in der Namen-Sphäre.
-   - **P5 🔶:** -RO ist listen-/summenpositioniert (15 % Headeranteil,
-     p=0,003); ohne Funktionswörter gleiche Richtung (14 %), aber n=14
-     zu klein (p=0,25).
+   - **P4 ✅ Spiegelbild von -E:** Registerprofil: Verwaltung 8,3 % ≫
+     Kult 0,7 % (p=0,0002) — exakt invers zu -E (Kult 31 % ≫
+     Verwaltung 18 %). Ohne Funktionswörter kippt die Spitze zur
+     Siegelpraxis (7,4 % > Verwaltung 2,6 %, p=0,028): Rest--RO sitzt
+     in der Namen-Sphäre. (Zahlen nach Support-Korrektur.)
+   - **P5 🔶:** -RO ist listen-/summenpositioniert (14 % Headeranteil,
+     p=0,004); ohne Funktionswörter gleiche Richtung (13 %), aber n=15
+     zu klein (p=0,26).
 
    **Stand H4c:** -O ist kein Suffix-Inventar, sondern **ein einzelnes
    grammatisches Zeichen: -RO** — mit zwei Schichten: (a) die
@@ -362,10 +365,16 @@ datenlimitiert — genau so soll Falsifizierbarkeit funktionieren.*
      2/14 abweichend, p=0,55. *Das revidiert die H1-Randnotiz vom
      „Ostkreta-Cluster": Die Slot-Kongruenz innerhalb eines Dokuments
      bleibt bestehen, die geographische Deutung nicht.*
-   - **Datenqualitäts-Fund:** Alle 44 plain-ZA-Tafeln (ZA1–ZA33) sind
-     in lineara.xyz fälschlich als „Stone vessel" geführt.
-     Robustheits-Check: das H4b-Registerergebnis überlebt die Korrektur
-     (Kult 30,7 % vs. Verwaltung 17,6 %, p=0,0004).
+   - **Datenqualitäts-Fund → systematisches Audit:** Alle 44 plain-ZA-
+     Tafeln (ZA1–ZA33) waren in lineara.xyz fälschlich als „Stone
+     vessel" geführt. `audit_support.py` leitet den Dokumenttyp aus der
+     GORILA-Seriensystematik der IDs ab und korrigiert konservativ
+     **53 Einträge** (`data/support_corrections.json`, von
+     `corpus_lib.load_inscriptions()` automatisch angewandt; Zd–Zg-
+     Serien bewusst ausgenommen, da dort das Material-Feld präziser
+     ist als die Serie — KN Zg 57 ist Elfenbein, kein Stein). Alle
+     Kernergebnisse überleben die Korrektur; die Zahlen in diesem
+     Dokument sind die korrigierten.
 
    **Stand H5: Dialekt-These verworfen.** Die Daten sprechen für
    **grammatische Differenzierung im Paradigma KU-R-O/-A/-E**:

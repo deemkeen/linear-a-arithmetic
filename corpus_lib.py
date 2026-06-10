@@ -10,7 +10,15 @@ SUB = str.maketrans("₀₁₂₃₄₅₆₇₈₉", "0123456789")
 
 
 def load_inscriptions():
-    return json.load(open(DATA / "inscriptions.json"))
+    """Korpus laden; support-Korrekturen (audit_support.py) werden,
+    falls vorhanden, automatisch angewandt."""
+    insc = json.load(open(DATA / "inscriptions.json"))
+    corr_file = DATA / "support_corrections.json"
+    if corr_file.exists():
+        for name, supp in json.load(open(corr_file)).items():
+            if name in insc:
+                insc[name]["support"] = supp
+    return insc
 
 
 def parse_number(tok):

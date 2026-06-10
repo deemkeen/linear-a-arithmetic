@@ -39,8 +39,8 @@ Alle JA-Wörter vs. alle A-Wörter — alle Dokumente:
    JA- textinitial 29/61 = 48%   A- textinitial 80/152 = 53%   -> nicht entscheidbar (p=0.55)
 
 Alle JA-Wörter vs. alle A-Wörter — nur Tafeln (Anfang erhalten):
-   JA- textinitial 5/14 = 36%   A- textinitial 37/80 = 46%   -> nicht entscheidbar (p=0.57)
-   JA-tafelinitial-Belege: KH74:JA-DA-SU, KN1a:JA-KU-TI, KN1b:JA-DU-RA-TI, ARKH1b:JA-RE, ARKH3b:JA-PI
+   JA- textinitial 6/19 = 32%   A- textinitial 38/93 = 41%   -> nicht entscheidbar (p=0.61)
+   JA-tafelinitial-Belege: KH74:JA-DA-SU, KN1a:JA-KU-TI, KN1b:JA-DU-RA-TI, ZA4a:JA-TO-JA, ARKH1b:JA-RE, ARKH3b:JA-PI
 
 ==============================================================================
 H3 — SA-RA2: Funktionswort oder Personenname? (Distributionsprofil)
@@ -61,7 +61,7 @@ Test 'Menge >= 5': SA-RA2 12/18 vs. Pool 40/76
 ==============================================================================
 H4 — Wortfinales -E gehäuft in Kopfzeilen (vor der ersten Zahl)?
 ==============================================================================
-Tafeln: Header-Wörter (vor erster Zahl): 223, davon -E: 39 = 17%
-        Listenkörper-Wörter:             527, davon -E: 80 = 15%
-   -> nicht entscheidbar (p=0.44)
+Tafeln: Header-Wörter (vor erster Zahl): 252, davon -E: 45 = 18%
+        Listenkörper-Wörter:             606, davon -E: 107 = 18%
+   -> nicht entscheidbar (p=1.00)
    häufigste -E-Header-Wörter: *21F-TU-NE(3), PA-DE(2), A-SE(2), MA-KA-RI-TE(2), DA-ME(2), A-PA-RA-NE(2), *306-TI-KA-A-RE(1), DU-RI-TE(1)

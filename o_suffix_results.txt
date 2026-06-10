@@ -41,26 +41,26 @@ P4 — -O-Finalrate nach Dokumenttyp (mit/ohne Funktionswörter)
 
 --- alle Wörter ---
    Siegel          6/81    = 7.4% -O-final
-   Stein/Kult      3/267   = 1.1% -O-final
-   Verwaltung     76/828   = 9.2% -O-final
-   Siegel vs. Stein/Kult: p=0.0062  ***
-   Siegel vs. Verwaltung: p=0.8383
-   Stein/Kult vs. Verwaltung: p=0.0000  ***
+   Stein/Kult      1/144   = 0.7% -O-final
+   Verwaltung     78/942   = 8.3% -O-final
+   Siegel vs. Stein/Kult: p=0.0095  ***
+   Siegel vs. Verwaltung: p=1.0000
+   Stein/Kult vs. Verwaltung: p=0.0002  ***
 
 --- ohne KU-RO/KI-RO/PO-TO-KU-RO ---
    Siegel          6/81    = 7.4% -O-final
-   Stein/Kult      2/266   = 0.8% -O-final
-   Verwaltung     22/774   = 2.8% -O-final
-   Siegel vs. Stein/Kult: p=0.0026  ***
-   Siegel vs. Verwaltung: p=0.0413  ***
-   Stein/Kult vs. Verwaltung: p=0.0572
+   Stein/Kult      1/144   = 0.7% -O-final
+   Verwaltung     23/887   = 2.6% -O-final
+   Siegel vs. Stein/Kult: p=0.0095  ***
+   Siegel vs. Verwaltung: p=0.0283  ***
+   Stein/Kult vs. Verwaltung: p=0.2345
 
 ==============================================================================
 P5 — Positionsprofil der O-Zeichen (Tafeln: Header vs. Liste)
 ==============================================================================
 
---- alle Wörter ---  (Headeranteil global 30%, n=750)
-   -RO   Header  10  Liste  58  (Headeranteil 15%)  p=0.003  ***
+--- alle Wörter ---  (Headeranteil global 29%, n=858)
+   -RO   Header  10  Liste  60  (Headeranteil 14%)  p=0.004  ***
 
---- ohne KU-RO/KI-RO/PO-TO-KU-RO ---  (Headeranteil global 31%, n=696)
-   -RO   Header   2  Liste  12  (Headeranteil 14%)  p=0.246
+--- ohne KU-RO/KI-RO/PO-TO-KU-RO ---  (Headeranteil global 30%, n=803)
+   -RO   Header   2  Liste  13  (Headeranteil 13%)  p=0.255

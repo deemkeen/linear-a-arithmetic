@@ -2,11 +2,11 @@
 1. KORPUS-ÜBERBLICK — wie gross ist das Datenproblem?
 ==============================================================================
 Dokumente gesamt:            1721
-   Nodule                       886
-   Tablet                       393
+   Nodule                       890
+   Tablet                       435
    Roundel                      151
-   Stone vessel                 107
-   Clay vessel                  74
+   Clay vessel                  77
+   Stone vessel                 60
    Metal object                 23
 Wort-Tokens (sauber, >=2 Silben): 1284
 Wort-Typen:                  930

@@ -45,19 +45,20 @@ Permutationstest (5000 Permutationen der Finalzeichen):
 ==============================================================================
 P4 — -E-Finalrate nach Dokumenttyp
 ==============================================================================
-   Siegel          8/81    = 9.9% -E-final
-   Stein/Kult     83/267   = 31.1% -E-final
-   Verwaltung    130/828   = 15.7% -E-final
-   Siegel vs. Stein/Kult: p=0.0001  ***
-   Siegel vs. Verwaltung: p=0.1950
-   Stein/Kult vs. Verwaltung: p=0.0000  ***
+   Siegel          9/81    = 11.1% -E-final
+   Stein/Kult     44/144   = 30.6% -E-final
+   Verwaltung    165/942   = 17.5% -E-final
+   Siegel vs. Stein/Kult: p=0.0010  ***
+   Siegel vs. Verwaltung: p=0.1658
+   Stein/Kult vs. Verwaltung: p=0.0004  ***
 
 ==============================================================================
 P5 — Positionsprofil einzelner E-Zeichen (Tafeln: Header vs. Liste)
 ==============================================================================
-Header-Wörter gesamt: 223, Listenkörper: 527 (Headeranteil global 30%)
-   -RE   Header   6  Liste  31  (Headeranteil 16%)  p=0.067
-   -TE   Header  10  Liste  11  (Headeranteil 48%)  p=0.088
-   -NE   Header  12  Liste  12  (Headeranteil 50%)  p=0.039  ***
-   -SE   Header   5  Liste   6  (Headeranteil 45%)  p=0.318
+Header-Wörter gesamt: 252, Listenkörper: 606 (Headeranteil global 29%)
+   -RE   Header   8  Liste  36  (Headeranteil 18%)  p=0.125
+   -TE   Header  12  Liste  15  (Headeranteil 44%)  p=0.088
+   -NE   Header  12  Liste  12  (Headeranteil 50%)  p=0.038  ***
+   -SE   Header   6  Liste  17  (Headeranteil 26%)  p=0.820
    -ME   Header   3  Liste   8  (Headeranteil 27%)  p=1.000
+   -DE   Header   3  Liste   6  (Headeranteil 33%)  p=0.727
