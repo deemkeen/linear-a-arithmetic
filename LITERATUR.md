@@ -1,5 +1,53 @@
 # Novitätsprüfung der Kernbefunde (Stand: 10. Juni 2026)
 
+## ⚠️ UPDATE 4 (FINAL): Montecchi 2019 Volltext gelesen — abschließende
+## Einstufung aller Befunde (11.06.2026)
+
+**Befund 1 (HT123/Bruchwerte) — herabgestuft auf Synthese + Methode:**
+- Montecchi 2019 (S. 147–149) leitet **selbst H = 1/3 aus HT123 ab**
+  (nach autoptischer Neulesung!) und nennt als offenen Stand zwei
+  Alternativen: „B=1/5, D=1/6, DD=1/3, H=?" **oder** „H=1/3, D=1/5,
+  DD=2/5, B=?" (letztere mit Schrijver 2014). H=1/3 ist also eine
+  **stehende Alternative der Fachliteratur**, nicht unsere Entdeckung.
+- Die HT123-Literatur ist umfangreich: Was 1981b; Bennett 1983, 1985
+  (Kritik an Was); Cash & Cash 2011; Montecchi 2013a; Schrijver 2014
+  (S. 15–19); Montecchi 2019 (autoptisch). Cash&Cash-Beschaffung
+  bleibt sinnvoll, ist aber nicht mehr kritisch — Montecchi 2019
+  referiert und diskutiert sie.
+- **Montecchis Autopsie ändert unsere Lesungsgrundlage:** SA-RU-Feld
+  = **X̣** (stützt GORILA-Umzeichnung gegen lineras A-Kodierung);
+  KI-RO-Zeile .3-4 = „2̣ X̣" (nicht „X"); *308-Total = „[2]5 H" (Zehner
+  restauriert!). Damit: Spaltengleichung = **H = X + ¼** (A-Zweig
+  praktisch tot); KI-RO-Spalte = 4,5+2X (Montecchi rechnet sie selbst
+  und notiert die Inkongruenz mit „6["!) ⟹ **X = 7/4 ist
+  lesungsabhängig** (gilt mit lineara/GORILA-Werten, nicht mit ihren).
+- **Was bleibt:** (a) die minimal-Annahmen-Formulierung als reine
+  Spaltensummen-Constraints inkl. expliziter Lesungs-Konditionierung;
+  (b) der Hinweis auf die unadressierte Spannung Montecchi-2019
+  (H=1/3 lebendig) vs. Corazza-2021 (H=1/16 tentativ, HT123
+  ausgeschlossen) — innerhalb derselben Autorengruppe; (c) Solver/
+  Max-SAT-Pipeline + HT13-Wertunabhängigkeit; (d) P-III als
+  Schiedsrichter-Vorhersage: Zg58 entscheidet zwischen H≥¼-Zweig
+  (klassisch, Montecchi-Alternative) und H<¼ (Corazza, Younger ⅙).
+
+**Befund 3 (H10) — Neuheit BESTÄTIGT, mit neuer Stützung:**
+- Montecchi S. 92–93 (PDF 103): 30 % der HT-Tafeln mit Rasuren/
+  Re-Inskription; Rechenfehler-Liste (HT 9a, 94a, 118, 119, 123;
+  nach GORILA auch 13, 102, 116, 127b) — **beide Phänomene bekannt,
+  aber als getrennte Symptome von „scarsa professionalità"
+  (Dilettantismus) gedeutet. Keine Korrelation gezogen.**
+- Unsere Korrelation ist der direkte Gegenbefund zur
+  Dilettantismus-These: präzise Arithmetik auf sauberen Tafeln
+  (10 exakte Prüfungen) + Rasuren spezifisch in den Zahlzeilen der
+  Abweichler = **Updates, nicht Unfähigkeit**.
+- **Unabhängige Validierung:** Montecchis eigene Palimpsest-Liste
+  (S. 219 Fn. 798, 20 Tafeln) als externer Rework-Indikator:
+  Abweichler 3/7 in der Liste vs. Exakte 0/8 (p=0,077, gleiche
+  Richtung; ihre Liste erfasst nur Ganz-Tafel-Palimpseste, nicht
+  Zeilen-Rasuren). Zwei unabhängige Indikatoren, ein Muster.
+
+---
+
 ## ⚠️ UPDATE nach Lektüre der beschafften PDFs (10.06.2026, abends)
 
 Youngers „Introduction" (ed. April 2024, 53 S.) enthält **erhebliches
