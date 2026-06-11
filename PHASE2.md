@@ -1,8 +1,12 @@
 # Phase 2 — Veröffentlichungsplan & Entwürfe (11.06.2026)
 
-STATUS 11.06.2026: Schritt 1 ✅ (github.com/deemkeen/linear-a-arithmetic,
-public, 18 Commits) — Schritt 2 ✅ (mwenge/lineara.xyz#6) — Schritte
-3-5 offen (Mail-Versand, Thread, Manuskript/Zenodo).
+STATUS 11.06.2026 (II): Schritt 1 ✅ Repo public — Schritt 2 ✅ Issue #6,
+auf Maintainer-Wunsch dazu: PR #7 (53 Support-Felder) + PR #8 (HT119
+67→68) eingereicht, Optionen-Kommentar zu Klasma-Encoding & Rest-
+Lesungen gepostet — Schritt 3 ✅ Mails versendet (Ferrara zugestellt;
+Montecchi via unifi.it nach unibo-Bounce) — Manuskript-Volltext v0.1
+liegt vor (MANUSKRIPT_DRAFT_EN.md) — offen: Zenodo-DOI, Thread,
+Kap. 6-Finalisierung nach Antworten.
 
 Reihenfolge (Abhängigkeiten beachten):
 1. Repo publizieren (→ erst dann haben Issue, Mail, Thread einen Link)
