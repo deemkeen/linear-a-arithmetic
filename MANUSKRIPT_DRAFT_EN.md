@@ -7,7 +7,8 @@
 arithmetically against the column constraints; all references
 completed from Montecchi 2019's bibliography. One residual
 pre-submission check noted at the end of the references. All data,
-scripts, and registered predictions: github.com/deemkeen/linear-a-arithmetic*
+scripts, and registered predictions: github.com/deemkeen/linear-a-arithmetic —
+archived as doi:10.5281/zenodo.21115703*
 
 ## Abstract
 

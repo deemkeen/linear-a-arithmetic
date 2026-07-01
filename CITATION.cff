@@ -8,6 +8,7 @@ authors:
     given-names: Dmitry Felix
     orcid: "https://orcid.org/0009-0007-2718-9682"
     affiliation: Independent Researcher
+doi: 10.5281/zenodo.21115703
 repository-code: "https://github.com/deemkeen/linear-a-arithmetic"
 license: MIT
 keywords:

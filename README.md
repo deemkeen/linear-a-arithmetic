@@ -1,5 +1,11 @@
 # Linear A — Computational Arithmetic & Decipherment Toolkit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21115703.svg)](https://doi.org/10.5281/zenodo.21115703)
+
+> **Cite as:** Gurdzhi, D. F. (2026). *Erasures, not errors: machine-checked
+> arithmetic and the correction record of the Linear A accounting tablets.*
+> Zenodo. https://doi.org/10.5281/zenodo.21115703
+
 Machine-checked arithmetic, hypothesis testing, and apparatus mining
 over the Linear A corpus (GORILA / J. Younger, via
 [lineara.xyz](https://github.com/mwenge/lineara.xyz)).
