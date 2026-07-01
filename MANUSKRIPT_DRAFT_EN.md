@@ -1,7 +1,10 @@
 # Erasures, not errors: arithmetic discrepancies in Linear A accounting tablets track scribal corrections
 
-*Draft v0.1, 11 June 2026. Sections 6 contains provisional passages
-pending Cash & Cash 2011 and Montecchi 2009 (marked TODO). All data,
+*Draft v0.2, 11 June 2026. §6 finalised: Cash & Cash 2011 values
+(from the published abstract and Montecchi 2019's discussion) verified
+arithmetically against the column constraints; all references
+completed from Montecchi 2019's bibliography. One residual
+pre-submission check noted at the end of the references. All data,
 scripts, and registered predictions: github.com/deemkeen/linear-a-arithmetic*
 
 ## Abstract
@@ -199,41 +202,52 @@ because they preserve two bookkeeping states at once.
 
 ## 6. Corollary: column constraints and the fraction values
 
-*(Provisional: TODO integrate Cash & Cash 2011 and Montecchi 2009
-once accessible; readings below are explicitly conditioned.)*
-
 Because HT 123a's olive column sums exactly, its entry list is
 complete, and the parallel *308 column yields a constraint that is
 independent of any ratio model: 8¼ + 8¾ + (4 + s) + 4¼ = [2]5 + H,
 hence **H = s + ¼**, where s is the fraction sign of the SA-RU entry
-(A711 X by GORILA's drawing and Montecchi's autopsy, A701 A in the
-lineara.xyz encoding) and the tens digit of the total is restored.
-Whatever s is, **H ≥ ¼**.
+(A711 X by GORILA's drawing and Montecchi's autopsy, 2019, 147; A701
+A in the lineara.xyz encoding) and the tens digit of the total is
+restored. Whatever s is, **H ≥ ¼**.
 
-This single inequality arbitrates a 75-year-old dispute. It is
-compatible with the classical H = 1/3 (Bennett 1950; Stoltenberg
-1955; one of the two live options in Montecchi 2019, 148, with
-Schrijver 2014), and incompatible both with H = 1/6 (Was 1971;
-Younger 2024, derived from a ⅓-ratio model of this same tablet that
-conflicts with the pure column sum by exactly the ⅔ Younger flags
-elsewhere as a reading problem) and with the tentative H = 1/16 of
-Corazza et al. (2021) — who excluded HT 123 from their optimisation
-on the grounds of its doubtful readings (citing Montecchi 2009). The
-exact olive control column answers that exclusion in part: the
-ledger's arithmetic, where checkable, is sound.
+This single inequality bipartitions the literature on the disputed
+sign. On one side stand the solutions that respect it: the classical
+H = 1/3 (Bennett 1950; Stoltenberg 1955; Schrijver 2014; one of the
+two live options in Montecchi 2019, 148), which satisfies the
+equation with s = 1/12, and Cash & Cash (2011), whose values
+(J = 1/2, E = 1/4, A = 1/20, H = 3/10) satisfy both the equation
+(3/10 = 1/20 + 1/4) and the full *308 column sum exactly
+(25.3 = [2]5 + H) — indicating that the column sum, in some form,
+underlies their solution. On the other side stand the values that
+violate it: H = 1/6 (Was 1971; Younger 2024, derived from a ⅓-ratio
+model of this same tablet that conflicts with the pure column sum by
+exactly the ⅔ Younger flags elsewhere as a reading problem; on the
+weakness of ratio-based reconstruction see already Bennett 1980, 21,
+and Montecchi 2019, 158 n. 555 on Schrijver's 3:1 assumption), and
+the tentative H = 1/16 of Corazza et al. (2021) — who excluded HT 123
+from their optimisation on the grounds of its doubtful readings
+(citing Montecchi 2009). The exact olive control column answers that
+exclusion in part: the ledger's arithmetic, where checkable, is
+sound. Our contribution is thus not a new value but the isolation of
+the minimal-assumption constraint that separates the two camps — and
+the demonstration that the machine-validated side of the ledger
+supports the camp that honours it.
 
 Two further corollaries: (i) HT 13's discrepancy is real for **any**
 assignment of fraction values — the constraint collapses to 2J = J
 (and to J = 1 under the apparatus' alternative reading of one entry)
 — so the tablet is a secure witness of revision, not of a
-misunderstood notation; (ii) under the lineara/GORILA readings of
-HT 123a's deficit column, that column also sums exactly if X = 7/4,
-the very value Younger derives independently from his ratio model —
-though Montecchi's autopsy ("2̣ X̣" in line .3-4) would alter the
-equation, and the closing figure is itself damaged. We therefore
-register the fraction conclusions as conditioned claims and defer to
-the sequence of six fraction signs on the unpublished sceptre handle
-KN Zg 58 (§7).
+misunderstood notation; (ii) the deficit (KI-RO) column discriminates
+further: under the lineara/GORILA readings it sums exactly iff
+X = 7/4 — the very value Younger derives independently from his ratio
+model — whereas Cash & Cash's X = 9/20 fails it (Σ = 3.4 vs 6);
+Montecchi's autoptic reading ("2̣ X̣" in line .3-4) would alter the
+equation, and the closing figure is itself damaged ("IIII et fraction
+ou IIII[", GORILA I, 211). We therefore register the fraction
+conclusions as conditioned claims and defer to the sequence of six
+fraction signs on the unpublished sceptre handle KN Zg 58 (§7),
+which will arbitrate between the two camps on text none of the
+proposals has seen.
 
 ## 7. Pre-registered predictions
 
@@ -270,19 +284,31 @@ who bears responsibility for errors.
 
 Bennett, E.L. 1950. Fractional quantities in Minoan bookkeeping. AJA
 54, 204–222. — Bennett, E.L. 1980. Linear A fractional retraction.
-Kadmos 19, 12–23. — Cash, R. & Cash, E. 2011. La tablette HT 123…
-Kadmos 50. [TODO read] — Corazza, M., Ferrara, S., Montecchi, B.,
-Tamburini, F. & Valério, M. 2021. The mathematical values of fraction
-signs in the Linear A script. JAS 125, 105214. — Facchetti, G.M.
-2013. Again on Linear A metrograms J and E. Kadmos 51. — Godart, L. &
-Olivier, J.-P. 1976–85. GORILA I–V. — Kanta, A., Nakassis, D.,
-Palaima, T.G. & Perna, M. 2024. An archaeological and epigraphical
-overview… (Anetaki plot). Ariadne Suppl. 5, 27–43. — Montecchi, B.
-2009. Le frazioni, gli errori di calcolo e le unità di misura nella
-documentazione in lineare A. [TODO venue/pages] — Montecchi, B. 2019.
-Contare a Haghia Triada. Roma: CNR. — Raison, J. & Pope, M. 1978.
-[apud Duhoux] — Salgarella, E. & Castellan, S. 2020. SigLA: the signs
-of Linear A. — Schoep, I. 2002. The Administration of Neopalatial
-Crete. — Schrijver, P. 2014. [TODO full ref] — Tomas, H. 2017.
-[TODO full ref] — Younger, J.G. 2024. Linear A texts & inscriptions:
-Introduction & commentary (ed. 8 April 2024).
+Kadmos 19, 12–23. — Cash, R. & Cash, E. 2011. La tablette HT 123 :
+une comptabilité en linéaire A. Kadmos 50, 33–62. — Corazza, M.,
+Ferrara, S., Montecchi, B., Tamburini, F. & Valério, M. 2021. The
+mathematical values of fraction signs in the Linear A script. JAS
+125, 105214. — Facchetti, G.M. 2013. Again on Linear A metrograms J
+and E. Kadmos 51. — Godart, L. & Olivier, J.-P. 1976–85. GORILA I–V.
+— Kanta, A., Nakassis, D., Palaima, T.G. & Perna, M. 2024. An
+archaeological and epigraphical overview… (Anetaki plot). Ariadne
+Suppl. 5, 27–43. — Montecchi, B. 2009. Le frazioni, gli errori di
+calcolo e le unità di misura nella documentazione in lineare A. AIIN
+55, 29–52. — Montecchi, B. 2013. An updating note on Minoan
+fractions, measures, and weights. AIIN 59, 9–26. — Montecchi, B.
+2019. Contare a Haghia Triada. Roma: CNR. — Raison, J. & Pope, M.
+1978 [apud Duhoux 1978, 47–48; cited after Younger 2024]. —
+Salgarella, E. & Castellan, S. 2020. SigLA: the signs of Linear A. —
+Schoep, I. 2002. The Administration of Neopalatial Crete. —
+Schrijver, P. 2014. Fractions and food rations in Linear A. Kadmos
+53, 1–44. — Stoltenberg, H.L. 1955 [apud Corazza et al. 2021, Table
+3]. — Tomas, H. 2017. Epigraphical features of economic texts in
+Linear A. In: Palatial Economy, 93–103. — Was, D.A. 1971 [apud
+Corazza et al. 2021, Table 3]. — Younger, J.G. 2024. Linear A texts &
+inscriptions: Introduction & commentary (ed. 8 April 2024).
+
+*Remaining pre-submission check: Montecchi 2009, 37–39 (autopsy of
+the direct H10 prior-art question: are erasures mentioned in
+connection with the calculation errors? Her 2019 synthesis, which
+incorporates that material, does not make the connection — but the
+original should be sighted).*

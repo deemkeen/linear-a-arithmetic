@@ -1,5 +1,32 @@
 # Novitätsprüfung der Kernbefunde (Stand: 10. Juni 2026)
 
+## ⚠️ UPDATE 5 (11.06.2026): Cash & Cash arithmetisch verifiziert —
+## Kapitel 6 finalisiert, OHNE die Original-PDFs zu benötigen
+
+Die publizierten Cash-&-Cash-Werte (J=½, E=¼, A=1/20, H=3/10, X=9/20;
+Kadmos 50, 33–62) wurden gegen unsere Spaltenconstraints gerechnet:
+- **H = A + ¼ exakt erfüllt** (3/10 = 1/20 + 5/20) und die volle
+  *308-Spaltensumme exakt (25,3 = [2]5+H) ⟹ die Spaltensumme liegt
+  ihrer Lösung zugrunde. Unsere Gleichung ist damit der GEMEINSAME
+  KERN eines Lagers: {Bennett/Stoltenberg/Schrijver H=1/3;
+  Cash&Cash H=3/10} erfüllen sie — {Was/Younger H=1/6;
+  Corazza H=1/16} verletzen sie. Beitrag präzisiert: Isolation des
+  trennenden Minimal-Constraints + maschinenvalidierte Seite.
+- **KI-RO-Spalte diskriminiert weiter:** Cash-X=9/20 scheitert
+  (Σ=3,4 bzw. 5,4 statt 6); unser X=7/4 (Younger-konvergent) besteht
+  unter lineara/GORILA-Lesung.
+- Referenzen aus der Band-Bibliographie vervollständigt: Montecchi
+  2009 = AIIN 55, 29–52; Montecchi 2013a = AIIN 59, 9–26 (dort ihre
+  Cash-Kritik); Schrijver 2014 = Kadmos 53, 1–44; Tomas 2017a =
+  Palatial Economy 93–103.
+- **Einziger Rest-Check vor Einreichung:** Montecchi 2009, 37–39 im
+  Original (H10-Prior-Art: Rasuren dort im Fehler-Kontext erwähnt?
+  Ihre 2019er Synthese, die das Material einarbeitet, tut es nicht —
+  starke, aber indirekte Evidenz). Frei verfügbar:
+  academia.edu/420496. Cash & Cash im Original (academia.edu/1926359)
+  nur noch nice-to-have.
+
+
 ## ⚠️ UPDATE 4 (FINAL): Montecchi 2019 Volltext gelesen — abschließende
 ## Einstufung aller Befunde (11.06.2026)
 
