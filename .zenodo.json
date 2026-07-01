@@ -1,0 +1,39 @@
+{
+  "title": "Erasures, not errors: machine-checked arithmetic and the correction record of the Linear A accounting tablets (research report and toolkit)",
+  "description": "<p>Machine-checked arithmetic, hypothesis testing, and apparatus mining over the Linear A corpus (GORILA / J. Younger, via lineara.xyz). Key findings: (1) column-aware summation checks (28 checks, 10 exact) cross-referenced with the critical apparatus of GORILA I show that all genuinely deviating tablets carry erasures/corrections in their numeral lines, while exactly-summing tablets carry none (Fisher's exact test, p = 0.003) &mdash; the 'calculation errors' of Linear A are residues of document updates, not scribal incompetence; (2) HT 13's discrepancy is value-independent (2J = J); (3) minimal-assumption column constraints on HT 123 (H = entry-sign + 1/4, hence H &ge; 1/4) bipartition the literature on the disputed fraction values; (4) six pre-registered, git-timestamped falsifiable predictions, including for the unpublished Knossos ivory sceptre KN Zg 57&ndash;58. Includes a full draft manuscript, all analysis scripts (plain Python), the audited corpus extract, and documented data-quality corrections contributed upstream.</p><p>Analyses were performed with AI assistance (Anthropic's Claude Fable 5), directed and reviewed by the author; all critical readings were verified against the GORILA I facsimiles.</p>",
+  "creators": [
+    {
+      "name": "Gurdzhi, Dmitry Felix",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0007-2718-9682"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Linear A",
+    "Minoan Crete",
+    "Aegean scripts",
+    "epigraphy",
+    "Haghia Triada",
+    "computational philology",
+    "fraction signs",
+    "scribal practice",
+    "GORILA",
+    "accounting tablets"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/deemkeen/linear-a-arithmetic",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/mwenge/lineara.xyz",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

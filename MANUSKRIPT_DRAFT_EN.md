@@ -1,5 +1,7 @@
 # Erasures, not errors: arithmetic discrepancies in Linear A accounting tablets track scribal corrections
 
+**Dmitry Felix Gurdzhi** (Independent Researcher, ORCID 0009-0007-2718-9682)
+
 *Draft v0.2, 11 June 2026. §6 finalised: Cash & Cash 2011 values
 (from the published abstract and Montecchi 2019's discussion) verified
 arithmetically against the column constraints; all references

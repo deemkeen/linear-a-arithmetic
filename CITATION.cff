@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this toolkit or cite the findings, please cite as below."
+title: >-
+  Erasures, not errors: machine-checked arithmetic and the correction
+  record of the Linear A accounting tablets (research report and toolkit)
+authors:
+  - family-names: Gurdzhi
+    given-names: Dmitry Felix
+    orcid: "https://orcid.org/0009-0007-2718-9682"
+    affiliation: Independent Researcher
+repository-code: "https://github.com/deemkeen/linear-a-arithmetic"
+license: MIT
+keywords:
+  - Linear A
+  - Minoan Crete
+  - epigraphy
+  - computational philology
+  - Haghia Triada
+abstract: >-
+  Machine-checked arithmetic, hypothesis testing, and apparatus mining
+  over the Linear A corpus. Arithmetic discrepancies on the Haghia
+  Triada tablets correlate with erasures in numeral lines (p = 0.003):
+  the "calculation errors" of Linear A are residues of document
+  updates, not scribal incompetence. Includes column constraints on
+  the disputed fraction values and six pre-registered predictions.
